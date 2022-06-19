@@ -1,11 +1,14 @@
 # Szójelentés
-***
+---
+
 A nyelvi jelek mesterséges, megegyezésen alapuló jelek.
 
 Részei:
 - **jelölő/jeltest:** maga a hangalak
 - **jelölt/jeltárgy:** az a fogalom, vagy tárgy, amit a hangalak jelent számunkra (a megegyezés alapján)
-***
+
+---
+
 ### Hangalak és jelentés viszonya
 - **Egyjelentésű**
     - A hangalaknak csak egyetlen jelentése van
@@ -43,6 +46,7 @@ Részei:
 - Hangulatfestő szavak
     - Példa: cammong, bandukol, pipogya
 
-***
+---
+
 ### Feladat
 **Azonos alakú vagy többjelentésű szavak kigyűjtése egy versből (Páskándi Géza)**

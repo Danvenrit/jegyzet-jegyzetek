@@ -1,8 +1,10 @@
 # Tájékoztatás és véleményközlés megkülönböztetése a tömegkommunikációban
 ---
+
 Tömegkommunikáció a kommunikációnak az a fajtája, amely széles befogadó rétegnek közvetett és egyirányú módon információkat közvetít nyelvi és nem nyelvi eszközök segítségével.
-***
+
 ### Tömegkommunikáció leggyakoribb műfajai
+
 ##### Nyomtatott sajtó
 - legrégebbi médiaműfaj (tömegközlési és tájékoztatási eszköz)
 - több csoportosítási szempontja van, megjelenés rendszeressége, terjesztés helye, tartalmuk, célzott közönség, nyelvük illetve műfaj szerint
@@ -17,8 +19,11 @@ Lehet írott anyagot előadó, megszólaltató műfajok (hír, jegyzet, gloszza,
 
 ##### Az internet
 Legösszetettebb műfaj, a fentiek mindegyike megtalálható rajta.
-***
+
+---
+
 ### A tömegkommunikációs szövegfajták műfaji sajátosságai
+
 ##### Hír
 - újságírás
 - legyen friss, közérdekű, fontos
@@ -62,6 +67,8 @@ Olvasó véleménye, hozzászólása, tanácskérése a lapban olvasottakkal kap
 
 ##### Kritika
 Egy műalkotásnak a bemutatására készült értékelő leírás. Tárgya lehet irodalmi, színházi, zenei, képzőművészeti alkotás, stb. Egy egyszerű bemutatástól a tudományosan alátámasztott információt ír le. 
-***
+
+---
+
 ### Feladat
 **Tájékoztatás és véleményközlés közt a különbség, megadott szövegek melyibe tartoznak**

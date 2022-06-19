@@ -1,11 +1,15 @@
 # Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei
 ---
+
 Az emberi kommunikáció több csatorna igénybevételével történik. Kommunikáció során digitális és analóg kódok dekódolásával jutunk el az információ értelmezésére.
 
 Nem csak beszéddel lehet kommunikálni, hanem egyéb nem nyelvi formákban is akár mutogatással, integetéssél stb., ezekkel valamilyen üzenetet közvetítünk és mások nem nyelvi üzenetét képesek vagyunk felfogni. Akkor is közvetítünk ilyen nem nyelvi üzeneteket amikor nem akarunk hiszen az arcunk és a testtartásunk sok mindent kifejez, amiket nyelvi kommunikációban is használhatunk (beszélgetésben, gesztikulálunk, fintort vágunk, stb.).
-***
+
+---
+
 ### A nem nyelvi kifejezőeszközök
-###### A beszéd zenei eszközei
+
+##### A beszéd zenei eszközei
 Hangsúly, hanglejtés, hangerő, beszédtempó, beszédszünet mind valamit üzenhetnek felénk például ha lassan beszél akkor fáradt, stb.
 
 ##### Mimika - arcjáték
@@ -32,6 +36,7 @@ Meg kell tartanunk a kommunikációs helyzetnek megfelelő távolságot a beszé
 ##### Külső megjelenés, emblémák
 Öltözködés, ápoltság, higénia, hajviselet, külső megjelenés is hordozhat üzenetet (pl. emo, punk, elegáns vagy szakadt ruhák, stb.).
 **Emblémák:** Jelentéssel bíró tárgyak, eszközök a kommunikációs folyamatban (pl. ékszerek, testékszerek, jegygyűrű, tetoválás, jelvények, felirat a pólón, napszemüveg, cigaretta, stb.). Ezek mind elárulnak dolgokat rólunk, a gondolkodásunkról.
-***
+
+---
 ### Feladat
 **Nonverbális jelek kigyűjtése a kapott szövegből**

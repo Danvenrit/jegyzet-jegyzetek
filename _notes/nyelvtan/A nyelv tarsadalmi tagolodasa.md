@@ -1,12 +1,16 @@
 # A nyelv társadalmi tagolódása
 ---
+
 A nyelvet alapvetően két szempont alapján lehet csoportosítani: 
 - társadalmi szempontból
 - területi szempontból
 
 A **nemzeti nyelv** a történelmileg kialakult tartós emberi közösség közös nyelve (közös eredet, közös hagyományok). A nemzeti nyelv kialakulását szükségessé tették és előmozdították a társadalmi és gazdasági változások. Az egységes nemzeti nyelv vidékenként, foglalkozási áganként stb. bizonyos fokú eltéréseket mutathat, rétegződik a nyelv. A **köznyelv** pedig a nemzeti nyelv egyik változata, nemzeti nyelvünk igényes beszélt változata, írott formáját irodalmi nyelvnek nevezzük.
-***
+
+---
+
 ### Nemzeti nyelv tagolódása
+
 ##### Normativ nyelvváltozások
 **Irodalmi nyelv**: a nemzeti nyelvünk csiszolt, országszerte használt változata, merít a nyelvjárásokból és csoportnyelvekből
 
@@ -27,6 +31,8 @@ Csoportnyelvek (szociolektusok)
 - argó (tolvajnyelv)
 
 A csoportnyelvek elsősorban szó- és kifejezéskészletükben térnek el az irodalmi is a köznyelvtől.
-***
+
+---
+
 ### Feladat
 **Megadott szövegek, melyik milyen rétegbe tartozik**
