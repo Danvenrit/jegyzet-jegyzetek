@@ -1,7 +1,6 @@
 # Information, sign, data, noise, redundancy
 ---
 ### The meaning of data and information
-#informationanddata
 
 - [Information](https://en.wikipedia.org/wiki/Information)
 	- processed, organized and structured [data](https://en.wikipedia.org/wiki/Data "Data").
@@ -9,9 +8,8 @@
 	- individual [facts](https://en.wikipedia.org/wiki/Fact "Fact"), [statistics](https://en.wikipedia.org/wiki/Statistics "Statistics"), or items of [information](https://en.wikipedia.org/wiki/Information "Information"), often numeric.
 ---
 ### The development of informatics
-#itdevelopment
 
-- John Napier (19th century), side rule (primarily used for multiplication, division and for functions such as exponents, roots, logarithms and trigonometry)
+- John Napier (19th century), side rule (primarily used for multiplication, divison and for functions such as exponents, roots, logarithms and trigonometry)
 - Blaise Pascal (1642-44), mechanical calculator
 - Leibniz (1700~), improved Pascal's calculator
 - Joseph Marie Jacquard (1805), punch card system
@@ -66,16 +64,16 @@
 - 1969, experimental network between 4 universities, later joined by several universities: ARPANET
 - Mid-1970s, Development of TCP / IP protocol to solve problems discovered by growth
 - 1983, military side detaches
-- Late 1980s, ARPANET gives its place for the internet
-- 1992, WWW graphical interface for the internet
+- Late 1980s, ARPANET gives it's place for the internet
+- 1992, WWW grafical interface for the internet
 ---
 ### The improvement of peripherals
 
-- peripherals: I/O hardware, expands the host computer's capabilities, optional, usually connects from outside the computer
+- peripherals:  I/O hardware, expands the host computers capabilties, optional, usually connects from outside of the computer
 
 - Input
 	- mouse, appearing with the spread of the PC
-		- only had two buttons first, was mechanical, later changed to optical
+		- only had two buttons first, was mechanical (had a ball inside innit bruv) later changed to optical
 	- keyboard
 		- parameters: key count, language, layout, ergonomics
 	- touchscreen
@@ -126,7 +124,7 @@
 
 - communication:
 	- at first: sounds, drawings
-- appearance of writing
+- appearence of writing
 	- written text recordable 
 	- learning: because there is little literacy, oral recording, memory
 - spread of book printing and writing
@@ -145,7 +143,7 @@
 	- 60 years ago: meeting
 	- 30 years ago: telephone booth 
 	- 10 years ago: mobile call 
-	- today: 
+	- todays: 
 		- chat, VoIP, etc. -> fast communication 
 		- Human connections have been pushed into the background, virtualized 
 		- Virtual profiles (pseudo-profiles)
@@ -153,7 +151,7 @@
 ##### Mental and physical dangers of the use of devices
 - most affected areas
 	- eyes, ears, spine, shoulders, wrists, fingers, legs
-	- both physical and nervous system effects are significant
+	- both physical and nevous system effects are signifficant
 - cause - effects
 	- too much use - addiction (games, erotic content, etc.)
 	- improper posture - physical problems
@@ -179,10 +177,9 @@
 	- source (reliable, from experts)
 
 ##### Purpose of hoax, recognition, adverse effects and processing of hoax
-#hoax
 - hoax: scam, rumor
 - in many cases, handling hoaxes consumes more resources than viruses
-- spread: thanks to users naivety (e.g. send this to 10 friends!)
+- spread: thanks to users naivety (eg. send this to 10 friends!)
 - the goal of a hoax is usually spreading, but it can also be intended to cause harm
 
 ##### Legal and illegal forms of obtaining and publishing information
@@ -207,7 +204,7 @@
 - Information / data protection 
 	- appropriate protocols (https, SSH-TLS, FTPS) 
 	- encryption 
-	- password protection (e.g. compression) 
+	- password protection (eg. compression) 
 	- storage encryption
 
 ##### Threats, attacks, and defenses to your computer
@@ -267,14 +264,14 @@
 - boot virus
 	- writes itself to the boot sector of the disk
 - macro virus
-	- writes itself into the document's command list
+	- writes itself into the document's commandlist
 - trojan
 	- a program disguised as something else
 - worm
 	- distributes copies of itself on the network 
-	- consumes memory and bandwidth
+	- consumes memory and bandwith
 - spyware
-	- data collection, key logging
+	- data collection, keylogging
 
 ##### Methods of defense
 - infection of a clean computer
@@ -320,7 +317,7 @@
 
 ##### Data protection issues, legal regulations
 - GDPR + privacy act
-	- protection of personal data, private secrets, trade secrets, reputation damaging data protection 
+	- protection of personal data, private secrets, trade secrets, reputation damaging data protectiong 
 	- protection: our data may only be processed for a specific purpose, for a specified period of time and only with our permission
 - direct marketing 
 	- we are the targets of a particular ad 
@@ -380,4 +377,4 @@
 	- the contract and legal framework must be accepted for use
 - technical protection
 	- unauthorized copying, access prevention
-	- copy protection for CDs and DVDs (e.g. SecuROM)
+	- copy protection for CDs and DVDs (eg. SecuROM)

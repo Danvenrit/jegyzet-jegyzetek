@@ -1,125 +1,121 @@
 # The operating system and its main tasks
 ---
-### Tasks and types of operating system
+### Tasks of operating systems (main ones)
+- scheduling
+- interrupt management
+- process control
+- storage and memory management
+-  logging
+- peripheral management
 - resource management system
-	- components can be accessed through it
-	- in case of multiple users/processes
-		- scheduling
-		- assignment and control of privileges
+	-  components can be accessed through it
+	-  in case of multiple users/processes
+		-  scheduling
+		-  assignment and control of privileges
 	- provides a consistent environment for programs
-- main tasks
-	- scheduling
-	- interrupt management
-	- process control
-	- storage and memory management
-	- logging
-	- peripheral management
-- grouping
-	- one user, one task
-		- DOS (CLI, not open source)
-	- one user, multiple tasks
-		- Windows (GUI, not open source)
-	- multi-user, multitask
-		- Unix, Linux (GUI or CLI, can be open source)
+### Types of operating systems
+- one user, one task
+	-  DOS (CLI, not open source)
+- one user, multiple tasks
+	-  Windows (GUI, not open source)
+- multi-user, multitask
+	-  Unix, Linux (GUI or CLI, can be open source)
 ---
 ### Operational structure
-- kernel
-	- base of the OS
+- #### kernel
+	- core of the OS
 	- runs in the background
-	- perform basic tasks
+	- performs basic tasks
 	- manages hardware resources
-	- multiplexing
+	- performs multiplexing
 		- the kernel dictates how long a particular process can use a particular piece of hardware
 	- no need for an OS or kernel if the programmer takes over the tasks when creating the program
 		- this was the basic
 		- restart was required to start a new program
 			- over time boot tasks, utilities and routines became permanent
-				- OSes appeared
+				- OS-es appeared
+				
 	- types of kernel
 		- monolithic
-			- rich and efficient abstractions for the underlying hardware
+			- This is a type of operating system architecture in which the entire operating system works in the kernel space.
 		- microkernels
-			- small basic set of hardware management tools, providing detailed functionality with a number of extensions
+			- is the near-minimum amount of software that can provide the mechanisms needed to implement an operating system
 		- hybrid/modified microkernels
-			- similar to microkernels
-			- more, more detailed code → higher speed
+			-  an operating system kernel architecture that attempts to combine aspects and benefits of microkernel and monolithic kernel
 		- exokernel
-			- does not provide abstraction/permanent kernel
-			- provides indirect/direct access to hardware only
+			- is designed to separate resource protection from management to facilitate application-specific customizationy
+			- seeks to provide application-level management of hardware resources
+			- are typically small in size because of their limited operability
+		- nanokernel 
+			- is a small kernel that offers hardware abstraction, but without system services
+			 
 	- tasks 
 		- peripheral management
-		- provides memory access
+		- memory access providing
 		- processor time allocation
-		- management of the hard drives
+		- storage management
 		- file system management
-- shell (system shell, console)
+- #### shell (system shell, console)
 	- interface between user and kernel
-	- managing applications
+	- manages applications
 	- less resource intensive than GUI 
 		- most servers are Unix based with shell
-	- programmable scripts
-		- special command language
-			- the OS understands
-				- no need to compile
-	- capabilities
-		- executing user codes
-		- running scripts
-		- using conditional expressions, branching loops
-		- internal commands
-			- file and folder operations
-				- copy, del, ren, md
-			- navigation
-				- cd, dir
-			- date, time
-			- command line statements
-		- external commands
-			- contained in an executable file started by the command line
-			- disk management
-				- format, scandisk, diskcopy, chkdsk
-			- memory information
-				- mem
-				- help
-				- text editing
-					- nano
-				- network device management
-					- ipconfig
-		- creating pseudo commands
-		- internal variables
-		- manipulating the environment before new processes
-		- redirecting I/O
-		- transferring data between processes via pipe
-		- starting processes in the background
-		- command line editing 
-		- command history
-		- stopping and restarting running processes
-		- sending and receiving signals
-			- kill, trap
-		- waiting for another process or sleep
+	- supports programmable scripts
+		- uses some kind of special command language, that the OS understands, and which doesen't need compiling
+	- executing user codes
+	- runs scripts
+	- use of internal commands
+		- file and folder operations
+			- copy, del, ren, md
+		- navigation
+			- cd, dir
+		- date, time
+		- command line statements
+	- external commands
+		- contained in an executable file started by the command line
+		- disk management
+			- format, scandisk, diskcopy, chkdsk, etc.
+		- memory information
+			- mem
+		- help
+		- text editing
+			- nano
+		- network device management
+			- ipconfig
+	- creating pseudo commands
+	- internal variables
+	- manipulating the environment before new processes
+	- redirecting I/O
+	- transferring data between processes via pipe
+	- starting processes in the background
+	- command line editing 
+	- command history
+	- stopping and restarting running processes
+	- sending and receiving signals
+	- waiting for another process or sleep
 ---
 ### Areas of working
-- memory management
+- #### memory management
 	- one of the most important resource
-		- manages it
-	- allocating memory efficiently
+	- alloctes memory as efficiently as possible
 		- memory management unit
 			- most important parts of the process goes to the memory
-			- the rest are sent to swap
-				- space reserved on the hard drives
-				- paging file
+			- the rest are sent to swap (in UNIX at least)
 	- 2 types of programs
 		- resident
-			- always in memory (faster)
+			- always in memory (can be called upon faster)
 				- antivirus
 				- firewall
+				- ie: most important programs / services of the os
 		- transient
-			- loads only when called
-- process control
+			- loads only when called (most third party programs)
+- #### process control
 	- process
 		- started program
-	-  provides access to resources
-		- often impossible to manage because future demand is unknown
-			- deadlock
-- interrupt management
+		- provides access to resources
+			- often impossible to manage because future demand is unknown
+				- deadlock
+- #### interrupt management
 	- interrupt
 		- a signal that informs you that something has happened
 	- types
@@ -144,7 +140,7 @@
 		6. the serving routine runs
 		7. the CPU returns to user mode, allows disabled requests
 		8. the CPU resets the interrupted process state vector, returning control
-- communication with peripherals 
+- #### communication with peripherals 
 	- establish a connection between the user and the machine
 		- not direct
 	- the OS communicates with the hardware
@@ -165,28 +161,28 @@
 - installation, defining partitions
 ---
 ### Booting the OS
-- BIOS searches boot sectors for boot file
-	- possible dual boot
-		- in case of multiple systems
-- loading kernel
-- initializing devices
+- #### BIOS searches boot sectors for boot file
+- #### possible dual boot
+	- in case of multiple systems
+- #### loading kernel
+- #### initializing devices
 	- searching for new hardware
 	- searching for drivers and starting them
-- starting services
+- #### starting services
 	- GUI
-- starting user interactions 
-- logging in
-- starting programs
+- #### starting user interactions
+- #### logging in
+- #### starting programs
 ---
 ### Shutting down the PC
-When the computer is switched off, the machine stops running programs, processes, system processes and the cuts power
+- When the computer is switched off, the machine stops running programs, processes, system processes and the cuts power
 
 ---
 ### OS failure modes, troubleshooting
-- BSOD/critical error
+- #### BSOD / critical error
 	- fatal system failure, the PC can no longer run even basic processes
 		- reboot
-- protection errors 
+- #### protection errors 
 	- driver failure 
 	- corrupted files
 	- invalid page faults
@@ -194,19 +190,19 @@ When the computer is switched off, the machine stops running programs, processes
 	- device management errors
 	- missing system files
 	- kernel errors
-- what to do 
+- #### what to do 
 	- reading documentation
 	- checking regedit
 	- driver reinstalling
 	- possibly a full reinstallation with backup
 ---
 ### Hardware installation
-Nowadays it's "plug-n-play", after plugging in, the system automatically installs the basic drivers.
-It is recommended to turn off the PC before removing a part, because safety is number one priority.
+- Nowadays it's "plug-n-play", after plugging in, the system automatically installs the basic drivers.
+- It is recommended to turn off the PC before removing a part, because safety is number one priority.
 
 ---
 ### Installing, configuring and uninstalling software
-- install
+- #### install
 	- usually installed with an installer software (Wizard)
 	- quick installation
 		- recommended for average users
@@ -216,43 +212,43 @@ It is recommended to turn off the PC before removing a part, because safety is n
 			- partial installation
 	- accepting license agreement
 	- more and more OSes are using a store, which centralizes the download and installation of software
-- uninstall
+- #### uninstall
 	- usually done via OS or uninstaller software
 ---
 ### Running softwares
-- automatic startup
+- #### automatic startup
 	- usually run at boot time
 		- slows down the boot process
-- manual startup
+- #### manual startup
 	- when the user starts the program
-- task manager
+- #### task manager
 	- used to view running programs
 	- to stop them
 	- to raise their priority
 	- stopping unused programs to free up resources
 ---
 ### Disk management and file systems
-- FAT (File Allocation Table)
+- #### FAT (File Allocation Table)
 	- developed for MS-DOS
 	- simple, robust
 	- designed to be compatible with Windows systems
-- FAT32 (FAT 32-bit version)
+- #### FAT32 (FAT 32-bit version)
 	- an evolution of FAT
 		- still used today
 	- max partition size 8 TB
 	- max file size 4 GB
-- exFAT (extended FAT)
+- #### exFAT (extended FAT)
 	- latest version of FAT
 	- max partition size 128 PB
 	- max file size 16 EB
-- NTFS (New Technology File System)
+- #### NTFS (New Technology File System)
 	- standard file system for Windows NT and its successors
 	- privilege system
 	- file compression on the fly
 	- creation of fault-tolerant partitions
 	- max partition size 8 PB
 	- max file size 16 EB
-- EXT (Extended File System)
+- #### EXT (Extended File System)
 	- latest
 		- ext4 (2008)
 	- linux standard file system
@@ -260,7 +256,7 @@ It is recommended to turn off the PC before removing a part, because safety is n
 	- max file size 16 GB
 ---
 ### Directory structure
-- file ordering
+- #### file ordering
 	- hierarchical directory structure
 	- a folder can have contents, subdirectories and one parent directory
 	- in case of no subdirectory
@@ -269,11 +265,10 @@ It is recommended to turn off the PC before removing a part, because safety is n
 		- from root directory we specify the path
 	- relative path
 		- from the working directory we specify the path
-
-##### operations
-- windows
+### Operations
+- #### Windows
 	- GUI
-- linux
+- #### Linux
 	- create (mkdir)
 	- delete (rm -r)
 	- copy (cp -r)
@@ -284,9 +279,9 @@ It is recommended to turn off the PC before removing a part, because safety is n
 	- mounting partition/image file (mount)
 ---
 ### Files
-- what is a file?
+- #### what is a file?
 	- a coherent set of data with an identifier
-- most common file types
+- #### most common file types
 	- can be executed
 		- program files (.exe, .com)
 			- machine-coded instructions, loaded int memory and executed when run
@@ -320,7 +315,7 @@ It is recommended to turn off the PC before removing a part, because safety is n
 			- web page
 		- temp (.tmp)
 			- temporary files
-- naming 
+- #### naming 
 	- consist of 2 parts
 		- name
 			- freely chosen, within limits
@@ -329,7 +324,7 @@ It is recommended to turn off the PC before removing a part, because safety is n
 					- / \ : <> " | * ?
 		- extension
 			- file type
-- properties stored about files
+- #### properties stored about files
 	- filename
 	- extension
 	- size (B)
@@ -342,13 +337,13 @@ It is recommended to turn off the PC before removing a part, because safety is n
 		- H (Hidden)
 		- S (System)
 	- privileges
-- association
+- #### association
 	- windows
 		- default programs
 		- have to select a manager program
 	- other OS
 		- no specific association
-- organizing the physical storage
+- #### organizing the physical storage
 	- the OS stores item in a save queue on disk
 	- during modification, file size can rise -> too big for allocated space -> getting a new space -> creating a hole on the disk
 	- filling the holes
@@ -358,12 +353,12 @@ It is recommended to turn off the PC before removing a part, because safety is n
 				- holes occupy the space as they are empty, but cannot be filled
 		- defragmentation
 			- the system repackages files so that no holes are left
-- physical implementation of operations
+- #### physical implementation of operations
 	- root catalog
 		- contains the identifier, size, properties, sector number
 	- data retrieval
 		- As long as just deleting a file and not overwriting the sector, the file can be retrieved because it is just and indicator that a sector can be written to.
-- searching
+- #### searching
 	- our files can "disappear"
 		- the OS provides the search
 	- searchable attributes
@@ -373,37 +368,37 @@ It is recommended to turn off the PC before removing a part, because safety is n
 		- date
 ---
 ### Parameterized execution
-- mandatory (specify the scope of the data)
+- #### mandatory (specify the scope of the data)
 	- without which the command cannot be interpreted
-- optional (affects the conditions of execution)
+- #### optional (affects the conditions of execution)
 	- other parameters, without which the command can be executed
 ---
 ### Maintenance of hard drives
-- formatting
+- #### formatting
 	- the contents of the disk are erased
 		- selecting file system to which we want to format
 			- quick format
 				- only the catalog is erased
-- partitioning
+- #### partitioning
 	- dividing the disk into parts
-- scandisk
+- #### scandisk
 	- lock bad sectors
-- defragmentation
+- #### defragmentation
 	- eliminating small empty holes on the disk
 ---
 ### Compression
-- Parkinson's law
+- #### Parkinson's law
 	- data fills up the available space
 		- compressing data into smaller space
 			- increasing density
-- Redundancy
+- #### Redundancy
 	- safer, but takes up more space
 		- easier to recover in a case of error
-- error threshold 
+- #### error threshold 
 	- extraction of unnecessary data
 		- indistinguishable color tones
 		- inaudible sounds
-- lossy
+- #### lossy
 	- lack of data outside our sensory limitations does not matter 
 		- can be extracted
 	- compressed material will not be recoverable
@@ -424,7 +419,7 @@ It is recommended to turn off the PC before removing a part, because safety is n
 				- pixels within frames are related to each other
 			- 265
 				- successive frames in a sequence are related to each other
-- lossless
+- #### lossless
 	- Redundancy minimization
 		- transcoding
 			- longer code is made shorter
@@ -446,7 +441,7 @@ It is recommended to turn off the PC before removing a part, because safety is n
 		- reads the file, builds the dictionary to use for encoding
 		- dictionary can also be built at decoding
 			- no need to store in archive
-- compression of image, audio, video
+- #### compression of image, audio, video
 	- most of the time we work with compressed files
 		- text
 			- mostly works on xml basis
@@ -465,7 +460,7 @@ It is recommended to turn off the PC before removing a part, because safety is n
 		- video
 			- similar to image compression
 				- .mp4, .avi
-- compression programs
+- #### compression programs
 	- Windows integrated 
 		- zip 
 		- works on a folder basis
@@ -474,19 +469,19 @@ It is recommended to turn off the PC before removing a part, because safety is n
 	- 7z
 		- lightweight
 		- easy to use
-- self-compressing, resizing and protected files
+- #### self-compressing, resizing and protected files
 	- self extracting
 		- no unpacker needed
 		- unpacked by an executable file
 			- installers
 	- scalable
 		- needed in the days of floppy disks and today for internet transmission
-- protected files
+- #### protected files
 	- cannot be unzipped by themselves
 	- password needed
 ---
 ### Utilities
-- basic utilities
+- #### basic utilities
 	- disk/partition managers
 		- creating and managing partitions
 	- file managers
@@ -502,7 +497,7 @@ It is recommended to turn off the PC before removing a part, because safety is n
 		- preventing network intrusions
 	- virus protection
 		- searching and disposing viruses
-- types
+- #### types
 	- internal
 		- part of the OS
 			- not compulsory
@@ -512,15 +507,87 @@ It is recommended to turn off the PC before removing a part, because safety is n
 		- installed by the user
 ---
 ### Viruses, anti viruses
-#viruses 
+##### Definition of computer viruses and pests, their properties
+- operation: when it runs, it attaches itself to programs and scripts, which it spreads as it runs, it works conditionally: e.g. it activates only after running x times 
+- source: flash drives, emails, foreign / cracked programs, unreliable websites
+##### Changes in the way how your computer works which can be used to suspect viruses
+- unreasonable increasement of file size / unreasonable increase in used storage space
+- appearance of foreign files
+- runtime problems in programs 
+- network management slows down, indicates an error 
+- peripheral malfunction 
+- general machine deceleration (overloading, etc.)
 
+##### Some examples of the historical development of viruses
+- 1990 Chameleon (first polymorph)
+	- the code changes with each infection -> hard to detect
+- 2000 ILoveYou
+	- the most successful of all time, it traveled around the world in 4 hours
+- 2004 Bagle, Netsky, Sasser worms
+##### Explanation of development
+- old viruses
+	- releasing a virus -> the programmer might get a job at a company
+- new viruses
+	- silent viruses
+		- data collection, botnet, etc.
+##### Types of viruses, their effects
+- file virus (oldest)
+	- builds into executable files
+	- only runs when the infected file is ran
+	- conditional operation
+		- destructive only when a bool is changed to true (date reached, ran x times, etc.)
+- boot virus
+	- writes itself to the boot sector of the disk
+- macro virus
+	- writes itself into the document's commandlist
+- trojan
+	- a program disguised as something else
+- worm
+	- distributes copies of itself on the network 
+	- consumes memory and bandwith
+- spyware
+	- data collection, keylogging
+##### Methods of defense
+- infection of a clean computer
+	- virus comes from an external source
+	- solution
+		- inbound traffic control
+		- inspection of data carriers 
+		- memory-resident virus shields 
+			- checks boot sector, memory and running programs, notifies you if there is a problem 
+		- firewall 
+			- checks network traffic prohibits incoming data packets for which no request has been initiated 
+			- monitors outgoing data packets 
+		- antivirus
+			- information about viruses is stored in a database 
+			- checks programs, looks for virus characteristics (signature search) 
+				- advantage
+					- gives fast, reliable results 
+				- disadvantage
+					- it does not detect unknown viruses, as polymorphs are difficult to detect
+					- must be updated regularly because of situations where the virus can activate itself 
+			- heuristic search 
+				- advantage
+					- it can detect unknown viruses 
+				- disadvantage 
+					- slowness, false positives
+##### Integrated anti-virus services
+- boot check (boot sector, system files)
+- auto startup with the system (virus shield)
+- browser integration
+- virus scan
+	- can be started and scheduled
+- email scan
+##### Some examples of anti-virus programs
+- Bitdefender
+- Malwarebytes
 ---
 ### networking
-- use of software is needed for network connection
-	- interfaces (drivers)
+- #### use of software is needed for network connection
+	- drivers
 	- traffic control
 		- these are usually included in the OS
-- typical additional functions of a server's OS
+- #### typical additional functions of a server's OS
 	- remote access control
 	- ssh server
 	- file and printer sharing
@@ -532,9 +599,31 @@ It is recommended to turn off the PC before removing a part, because safety is n
 	- proxy
 	- firewall
 	- more CPU focused hardware
-- model of networking
-	- #networkmodel 
-- implementation of network connectivity
+- #### Network models (hierarchy)
+	- Client - Server
+		- Servers provide services to clients
+	- Host - terminal
+		- The host performs all tasks, the terminal just issues them
+	- Peer-to-Peer
+		- All machines are servers and workstations in one
+- #### Network topologies
+	- Bus
+		- Each PC is connected to a single central cable
+	- Ring
+		- The transportation medium forms a circle
+		- Data packet travels around until it reaches the receiving PC
+		- No problem in the event of a single break
+		- No central unit
+		- Double ring equals higher reliability
+	- Star
+		- Central unit (HUB)
+			- Everything passes through it
+		- In the event of a line break only one machine is disconnected from the network
+		- Efficient but expensive
+	- Tree
+		- Each machine can only be reached on one route
+		- In case of a break the whole network can be interrupted
+- #### implementation of network connectivity
 	- Software
 		- driver
 		- settings
@@ -546,7 +635,7 @@ It is recommended to turn off the PC before removing a part, because safety is n
 			- encryption
 			- channel
 			- VPN
-- ways of accessing network services
+- #### ways of accessing network services
 	- connectivity
 		- appropriate infrastructure
 		- transmission media
@@ -554,7 +643,7 @@ It is recommended to turn off the PC before removing a part, because safety is n
 	- conditions of use
 		- protocols
 		- privileges
-- user identification, privilege management
+- #### user identification, privilege management
 	- username
 	- password
 	- 2FA (Two Factor Authenthication)
@@ -565,7 +654,7 @@ It is recommended to turn off the PC before removing a part, because safety is n
 		- handprint
 		- retina scan
 		- facial recognition 
-- credentials
+- #### credentials
 	- assigning privileges is the responsibility of the administrator, facilitated by the OS of the server
 	- management is also the responsibility of the server OS
 		- login

@@ -1,11 +1,10 @@
 # Communication on the internet
 ---
-
 ### World Wide Web
 - hypertext principle
 	- one document is related to another (links)
 	- pages are written in HTML
-		- traditional text, which includes formatting instructions
+	- traditional text, which includes formatting instructions
 	- protocol: HTTP - Hypertext Transfer Protocol
 - multimedia compatible
 - client-server based
@@ -13,7 +12,7 @@
 	- connection is only established for the duration of the data transfer
 	- all requests and responses are independent
 - the most popular service on the internet
-- browsers: Google Chrome, Microsoft Edge, Firefox, Opera, Péniszgomba
+- browsers: Google Chrome, Microsoft Edge, Firefox, Opera
 ---
 ### Terms
 - URL (Uniform Resource Locator)
@@ -51,7 +50,7 @@
 		- persistent until delete
 		- session: persists until leaving the website
 - TCP/IP (Transmission Control Protocol/Internet Protocol)
-	- the basic protocol structure that builds the internet
+	- the basic protocol structure that builds the interned
 	- named after its two main protocols
 - IP address
 	- network identifier
@@ -82,7 +81,7 @@
 - 403 Forbidden
 	- no access rights (identify as authorized, reload)
 - 404 Not Found 
-	- requested material not found (check URL, retry)
+	- requested material not found (check url, retry)
 - 500 Internal Server Error
 	- server error (reload)
 - 501 Not Implemented 
@@ -129,7 +128,7 @@
 	- sending, receiving
 	- archiving
 	- spam filtering
-	- multiple address management
+	- multiple address managment
 	- other
 		- contact list
 		- groups
@@ -164,5 +163,30 @@
 			- anyone can subscribe
 		- permissions can be customized
 ---
-### Searching on the internet
-#searchengines 
+### Searching on the internet, search engines
+- the internet is a sequence of connected computers
+- searching is needed for us to find the correct information
+	- Google, Yahoo, Bing, Yandex, etc.
+
+##### Searching strategies
+- search engines use databases (titles, keywords, description, sitemap)
+	- they monitor the web, find new websites
+- thematic search
+	- smaller data sets are more appropriate
+		- by geographical location 
+		- by multimedia type 
+		- by document type
+		- by specialization
+	- not the most accurate system if we are looking for a specific thing
+- keyword seach
+	- bigger data sets are more appropriate
+		- we search with specific keywords and/or phrases
+		- more accurate phrase -> more accurate result
+	- clarifier characters can be used
+		- "", accurate expression
+		- +, must include
+		- -, must NOT include
+		- `*`, character replacement
+		- ~, synonym
+		- logical connections
+			- AND, OR, NOT, NEAR

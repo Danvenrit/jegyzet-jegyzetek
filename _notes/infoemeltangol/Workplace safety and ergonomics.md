@@ -1,7 +1,6 @@
 # Workplace safety and ergonomics
 ---
 ### Healthy work environment design concepts
-
 - legislations protect the health of those working in front of a screen in the EU
 	- prevention
 		- vision impairment 
@@ -15,7 +14,6 @@
 		- equipment should not develop uncomfortable heat
 ---
 ### Work and health protection
-
 - possible health complaints
 	- hands
 	- locomotor organs 
@@ -65,7 +63,6 @@
 		- have adequate contrast
 ---
 ### Ergonomics of the computer and peripherals
-
 - ergonomics: a discipline dealing with work processes and the optimal relationship between man and technical equipment
 - there is now an increasing emphasis on humanizing the environment, because people are influenced by the environment
 	- a poor working environment can reduce productivity by up to 25-30%

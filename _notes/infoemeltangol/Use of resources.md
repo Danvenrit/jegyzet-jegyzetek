@@ -1,30 +1,29 @@
 # Use of resources
 ---
-### Comparing printed and non-printed documents
+### Description of "document" and two of it's type 
 - document
-	- an independent intellectual product, an independent unit of information, the purpose of which is to communicate information, to transfer knowledge
-- can be grouped in several ways
-	- production
-		- printed / handwritten
-			- appearance is static
-			- order of information is bound
-			- components are homogeneous, can have images with text
-			- cannot be converted
-			- transport is traditional and expensive
-			- the method of distribution is with commercial traffic
-		- electronic
-			- appearance is dynamic
-			- order of information is variable
-			- components are homogeneous, can have images, videos with text
-			- can be converted
-			- transport is easy and cheap
-			- the method of distribution is with the internet
+	- an independent intellectual product, a unit of information, the purpose of which is to communicate information, to transfer knowledge
+- has several types:
+	-  printed
+		-  appearance is static
+		-  order of information is bound
+		- components are homogeneous, can have images with text
+		- cannot be converted
+		-  transport is traditional and expensive
+		- the method of distribution is with commercial traffic	
+	-  electronic
+		-  appearance is dynamic
+		-  order of information is variable
+		-  components are homogeneous, can have images, videos with text
+		-  can be converted
+		-  transport is easy and cheap
+		- the method of distribution is with the internet
+		- hyperlinks	
 ---
-### The main types of printed documents and communicative works
 - books can be divided into three groups
-	- informational works
-	- literary works
-	- reference works (informative reference books)
+	- informational 
+	- literacy
+	- reference works 
 - **informational works** can be divided into two groups
 	- profession books
 		- scientific works, which are written correctly and with scientific rigor in accordance with the rules of the given field
@@ -42,40 +41,33 @@
 	- the author can be a person or a group
 	- due to the richness of their material, they are suitable for both bibliographic and factual orientation
 ---
-### Help books as sources of direct knowledge acquisition
+### Books as sources of direct knowledge acquisition
 - essential in obtaining information
 - they already process known, published information
 - types
 	- encyclopedias
-		- they systematically present the knowledge they discuss 
+		- they present the knowledge they discuss 
+		- the different concepts are proccesed in it
 		- each concept is processed with scientific rigor 
-		- provides literature on the subject 
-		- the concepts of a discipline / topic are processed in it
-		- has an alphabetical index
+		- provides literature on the subject
+		- it's content is usually ordered alphabetically
 	- lexicons
-		- terms are usually presented in alphabetical order
-		- gives a short, concise, professional explanation 
-		- discusses all the knowledge and results of a given period, while profession lexicons discusses all the knowledge and results of a science
-	- repository of public knowledge
-		- helps every citizen in everyday life (e.g. schedule, map, phone books, etc.)
+		- gives a short, concise, and professional explanation of words and expressions usually on a large scale.
+		- contents are usually presented in alphabetical order
 	- dictionary
-		- lists words alphabetically
-		- interpretive dictionary
-			- explains words in the same language
-		- linguistic dictionary 
-			- corresponds to a word in another language occasionally synonyms and usage patterns
+		- definitions and explainations of words, usually in one language.
+		- could be a dictionary between two languages, callled linguistic dictonary
+		- usually ordered alphabetically.
 	- repository
-		- works for fast and accurate data retrieval
-		- it is limited to factual material, it does not provide an explanation
+		- a place where things are stored and can be found
+		- it does not provide an explanation
+		- very diverse in form
 	- glossary
-		- its terms are related to a specific area
-		- for accurate interpretation of concepts in a field of science
-		- mostly alphabetical
+		-  alphabetical list of terms in a particular field with the definitions for those terms. 
 	- chronology
-		- events in the life of a major historical / art historical period or geographic area or person
-		- contains information according to the influence of time, with references but without detailed exploration of the context
+		- contains different events, usually in chronological order 
 	- directory
-		- list of people and their data e.g.: phone book, directory, school directory, yearbook
+		- containing an alphabetical or classified listing of names, addresses, and other data (ie: phonebook, yearbook)
 	- atlas
 		- contains maps
 ---
@@ -130,39 +122,45 @@
 	- bibliographies catalogs 
 	- computer databases
 ---
-### The concept and types of bibliography
- - systematic description and list of documents and information
- - its task is to take documents into account and to inform them of their existence and content
- - it must contain the bibliographic identification of the documents
- - bibliographic references are bound both formally and substantively
-
-##### Breakdown of bibliographies by content
+### Bibliography
+#### Explaination of bibliography
+ - contains systematic description and list of documents and informations
+ - Its task is to take documents into account and tell about their existence, content, and different info-s
+ - it must contain the bibliographic identification of each documents
+---
+#### Bibliographies by content
 - general
 	- a bibliography covering all areas, which in principle does not take the constraints of content and form into account 
 	- usually its scope is limited to some degree (otherwise it would be impossible to compile), e.g. geographically, linguistically, periodically
-- profession
-	- it collects the literature of a discipline or subfield for professionals, those with increased interest
-
-### Breakdown of bibliographies by depth of exploration
-- complete
+- professional
+	- it collects the literature of a discipline or field for professionals and those with increased interest
+---
+#### Bibliographies by depth
+- completed
 	- it collects the full literature on the subject
 - assorted
 	- sorted by some aspects of literature
-
-### Breakdown of bibliographies by finding method
+---
+#### Bibliographies by finding method
 - independent
 	- appears independently, no other text is added
 - hidden
 	- within the text of a document or in its notes
 	- in the case of scientific works, it is essential to list the sources used
 ---
-### The concept of retrospective and current bibliography
+#### Retrospective and current bibliography
 - retrospective
 	- summary in nature
 	- strives for completeness
 - concurrent (continuous)
 	- published regularly
 	- it records works published between two literature
+---
+#### Hungarian national bibliography
+- works published within the borders of Hungary at a given time, in any language.
+- works published outside the borders of Hungary at a given time, written in the Hungarian language
+- works written by Hungarian authors, published in any country and in any language
+- works with a Hungarian aspect
 ---
 ### Information catalog
 - referential journal
