@@ -1,6 +1,5 @@
 # A számítógép felépítése
 ---
-#neumann-elvek, #neumann-principle 
 
 ##### A számítógépek a Neumann elveken alapul
 1. A számítógép legyen soros működésű
@@ -10,10 +9,14 @@
 5. A számítógép legyen univerzális
 6. A tárolt program elve
 	- A programot alkotó utasítások kifejezhetők számokkal, azaz adatként kezelhető.
+
 ---
+
 ### Számítógép részei
 - hardver: a számítógép alkotó fizikai elemek összessége
 - szoftver: a számítógépen lévő programok, adatok és azok dokumentációja.
+
+---
 
 ### Főbb részei
 - processzor (CPU)

@@ -1,4 +1,6 @@
 # Adattípusok csoportosítása
+---
+
 ### Pirimív adattipusok 
 egyszerű értékeket képesek tárolni mint pl. számok, karakterek, logikai értékek
 - byte - 8 bit 
@@ -9,7 +11,9 @@ egyszerű értékeket képesek tárolni mint pl. számok, karakterek, logikai é
 - double - dupla pontosságú, 64 bit
 - char - 16 bit, Unicode karakter
 - boolean - Logikai, igaz vagy hamis értéket tárol
+
 ---
+
 ### Összetett adattípusok
 Az összetett adattípusnál az értékhalmaz mellett a szerkezet is lényeges, egyik-másik típus ábrázolása már magasabb szintet igényel, mert elég bonyolult.
 - sorozat / vektor / egydimenziós tömb
@@ -24,4 +28,3 @@ Az összetett adattípusnál az értékhalmaz mellett a szerkezet is lényeges, 
 - szöveg (karaktersorozat)
 	- karaktertípusú adatok tömbje / sorozata
 	- müveletei közé tartozik az összefűzés, karakterek vizsgálata, elem/karakterek kiválasztás pl. azonositó[index] 
----

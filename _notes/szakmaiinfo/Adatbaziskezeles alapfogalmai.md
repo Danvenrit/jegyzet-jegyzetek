@@ -1,5 +1,6 @@
 # Adatbáziskezelés alapfogalmai
 ---
+
 ### Fogalmak
 - információ
 	- jelsorozat a hozzá kapcsolódó jelentéssel együtt
@@ -21,7 +22,9 @@
 - adatbázisrendszer
 	- másnéven database system
 	- az adatbázis adatbázis-kezelő és az alkalmazások együtteséből álló információs rendszer
+
 ---
+
 ### Előnyei a adatbázis kezelő rendszereknek
 - felhasználóknak nem kell ismernie a konkrét adattárolási módot
 - nagymennyiségű adatot gyorsan lehet kezelni
@@ -29,7 +32,9 @@
 - többfelhasználó egy időben (konkurens hozzáférés)
 - integritási szabályok transzparens ellenőrzése
 - hatékony program fejlesztés
+
 ---
+
 ### Ne használjunk adatbázis kezelő rendszert
 - az adatszerkezet annyira egyszerű, hogy erőforrás pazarlás lenne
 - ha real-time hozzáférés szükséges
