@@ -1,22 +1,13 @@
----
-layout: page
-title: Home
-id: home
-permalink: /
----
+Tantárgy | Tételek | Vizsga | Tétel Done
 
-# Welcome! 🌱
+------------ | ------------ | ------------ | ------------
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+[Történelem](notes/tortenelem/tortenelemINFO) | 20 | Jun 22. | 20
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+[Nyelvtan](notes/nyelvtan/nyelvtanINFO) | 20 | Jun 22. | 20
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+[Irodalom](notes/irodalom/irodalomINFO) | 20 | Jun 22. | 14
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+[Informatika (szakmai, közép)](notes/szakmaiinfo/szakmaiINFO) | 20 | Jun 22. | 20
+
+[Informatika (közismereti, emelt, angol)](notes/infoemeltangol/EmeltinfoINFO) | 10 | Jun 04. | 10
