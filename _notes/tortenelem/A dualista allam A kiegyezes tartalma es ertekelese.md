@@ -1,5 +1,8 @@
 # A dualista állam, A kiegyezés tartalma és értékelése
----
+
+title: A kiegyezes tartalma - Az allamberendezkedes
+
+
 ### A kiegyezés tartalma - Az államberendezkedés
 Kialakult a kétközpontú (dualista) alkotmányos monarchia, a két birodalmat két teljesen egyenrangú részre osztották, kialakult az Oszták-Magyar Monarchia. Ausztia - "Lajtán túli" területek, Ausztria, Csehország, tengermellékleti területek, valamint Galícia és Bukovinát foglalta egybe. Magyarország - "Lajtán inneni" területek, Magyarország és a magyar korona országai (Erdély, Határőrvidék, Horvátország). 
 
