@@ -1,7 +1,7 @@
 # A magyar nyelvtörténetének fő korszakai
 ---
 
-###
+### Korszakok
 - ősmagyar kor
 - ómagyar kor
 - középmagyar kor
@@ -34,8 +34,6 @@ A felvilágosodástól a trianoni békeszerződés megkötéséig tartott, ekkor
 
 ### Újabb magyar kor
 Trianontól a napjainkig, a magyar nyelvközösség szétszakadásával kezdődik. A Magyarországon kívül beszélt nyelvváltozatok megerősödnek.
-
----
 
 A finnugor elmélet szerint a magyar nyelv mintegy 3000 éve vált önállóvá, régebben az összes mai szláv és újlatin nyelvnél.
 
