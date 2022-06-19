@@ -67,13 +67,8 @@ A módszereinek tekintetében komoly véleménykülönbségek voltak, a politika
 ---
 
 ### Széchenyi és Kossuth vitája
-. | Széchenyi | Kossuth
------------- | ------------ | ------------ 
-Tempó | Lassú | Gyors 
-Bázis | Nagybirtokosok vezető erőként | Köznemesek, parasztok érdekegyesítése
-Bécs | Megnyerhető, ott kell változtatni ahol Bécs nem ellenzi | Ellenfél, Bécs minden reformot megakadályoz
-Forradalom | Pusztulásba dönt | Elkerülendő és elkerülhető, de végső megoldásként az is lehet
-Változás | Gazdasági téren, legyünk gazdagok hogy szabadok lehessünk | Alkotmányos politikai téren, legyünk szabadok hogy gazdagok lehessünk
-Fejlesztés | Mezőgazdaságban | Iparban
+![[images/kossuthszélchenyivitája.png]]
+
+---
 
 1848-ban az első felelős magyar kormányban együtt küzdöttek az áprilisi törvények (a maodern, polgári Magyarország) megvalósulása érdekében.
