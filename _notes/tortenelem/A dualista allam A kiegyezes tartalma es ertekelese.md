@@ -1,6 +1,6 @@
 # A dualista állam, A kiegyezés tartalma és értékelése
 
-title: A kiegyezes tartalma - Az allamberendezkedes
+title: A dualista állam, A kiegyezés tartalma és értékelése
 
 
 ### A kiegyezés tartalma - Az államberendezkedés
