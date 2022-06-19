@@ -1,5 +1,6 @@
 # Rosszindulatú szoftverek
 ---
+
 - több típus létezik, megkülönböztetni őket feltételek alapján lehet 
 	- működés
 	- terjedés
@@ -7,7 +8,9 @@
 - rosszindulatú program
 	- olyan szoftver ami a számítógép funkcionalitását gátolja vagy nehezíti meg
 	- esetleg fontosabb adatokat lopnak el, lelassítják a számítógépet vagy akár emaileket küld szét az ismerőseidnek
+
 ---
+
 ### Rosszindulatú programok fajtái
 - vírus
 	- saját magát másolja és "ferzőti" a számítógépet
@@ -22,14 +25,18 @@
 	- hirdetéseket játszik, jelenít meg a felhasználónak
 - trójai
 	- másik programnak rejti magát majd késöbb árt a számítógépnek vagy ellopja az adatokat
+
 ---
+
 ### Terjedésük különböző módja
 - ingyenes szoftver letöltésekor, rejtetten roszindulatú programot tartalmaz
 - valódi szoftver letöltésekor, rejtetten rosszindulatú programot is csatoltak
 - rosszindulatú programmal fertőzött webhely
 - oldalakon vagy programban előugró ablak, ami elindít egy rosszindulatú program letöltését
 - emailek csatolmányai
+
 ---
+
 ### Védekezés rosszindulatú programok ellen
 - naprakészen tartani a számítógépet és a programokat
 	- az operációs rendszerek fejlesztői gyakran adnak ki frissítéseket és érdemes ezeket fel telepíteni

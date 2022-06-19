@@ -1,4 +1,6 @@
 # Átviteli közegek
+---
+
 - vezetékes
 	- csavart érpár
 		- két szigetelt, egymásra spirálisan felcsavart rézvezeték
@@ -12,7 +14,9 @@
 	- szórt spektrumú sugárzás
 	- műholdas átvitel
 	- bluetooth
+
 ---
+
 ### Vezetékes adatátvitel
 - UTP (Unshielded Twisted Pair(árnyékolatlan csavart vagy sodrott érpár))
 	- két szigetelt sodrott érpár
@@ -61,7 +65,9 @@
 			- visszaverődés
 			- csillapítás
 			- határfelület átlépő fénysugarak
+
 ---
+
 ### Vezeték nélküli adatátvitel
 - Infravörös, lézer átvitel
 	- adó-vevő párok háztetőkön

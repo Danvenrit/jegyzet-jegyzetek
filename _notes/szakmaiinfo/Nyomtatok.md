@@ -1,13 +1,12 @@
 # Nyomtatók
 ---
+
 ##### Nyomtató fogalma
 A nyomtató egy kimeneti (output) periféria, amely a digitálisan tárolt adatokat képes megjeleníteni nem elektronikus formában, általában papíron vagy fólián.
 
----
 ##### Nyomtató felbontása
 DPI-ben (dot per inch) mérik, azt mutatja meg, hogy a nyomtató egy inch (2,54 cm) hosszúságú szakaszon hány darab apró képpontot tud nyomtatni. Minél nagyobb a felbontás, annál szebb minőségű lesz a nyomtatás eredménye.
 
----
 ##### Nyomtatási sebesség
 - a nyomtatási sebességet lap/percben mérjük, ezt befolyásolják a:
 	- színes vagy szürkeszálas nyomtatás
@@ -18,8 +17,11 @@ DPI-ben (dot per inch) mérik, azt mutatja meg, hogy a nyomtató egy inch (2,54 
 	- a papír mérete és típusa 
 	- a gazdagép és a nyomtató közötti kapcsolat típusa és sebessége
 	- a nyomtató driver és az operációs rendszer
+
 ---
+
 ### Típusok
+
 ##### Mátrix nyomtató
 A nyomtatófejben apró tűk vannak. A papír előtt egy kifeszített festékszalag helyezkedik el, amelyre a tűk ráütnek, és létrehoznak a papíron egy pontot. A kép ezekből a pontokból fog állni. A tűket elektromágnesek segítségével lehet mozgatni.
 - előnyei

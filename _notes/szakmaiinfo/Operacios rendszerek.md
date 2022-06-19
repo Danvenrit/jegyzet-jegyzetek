@@ -6,6 +6,7 @@ Olyan szoftver ami kulcsfontosságú egy számítógép működtetéséhez, beka
 Egy számítógép az operációs rendszert bekapcsoláskor a BIOS indítja el, az elérhető adattárolókon keres egy BOOT jelzővel rendelkező adattárolót.
 
 ---
+
 ### Operációs rendszerek feladatai
 
 - gép hardverének kezelése és működtetése
@@ -26,6 +27,7 @@ Egy számítógép az operációs rendszert bekapcsoláskor a BIOS indítja el, 
 	- akár háttértár sérülés, hibás program
 	- fel kell készüljön a rendszer hogy hiba esetén nem volna szabad lefagynia
 - hálózatok kezelése
+
 ---
 ### Operációs rendszer csoportosítási szempontjai
 

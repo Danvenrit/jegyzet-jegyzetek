@@ -1,13 +1,19 @@
 # Hálózati címek
+---
+
 ### IPv cím fajták
 - Ipv4 és mostani modernebb Ipv6
+
 ---
+
 ### IPv4 címek
 - A hálózaton a számítógépeket egy egyedi cím, az IP cím azonosítja.
 - Minden gépnek van legalább egy címe, de egy gépnek több címe is lehet (pl. minden szolgáltatásának egy-egy), illetve egyes címekhez több gép is tartozhat (céges hálózat), valamint egy gépnek lehet mindig másik címe (dinamikus IP).
 - Minden gépnek van legalább egy címe, de egy gépnek több címe is lehet (pl. minden szolgáltatásának egy-egy), illetve egyes címekhez több gép is tartozhat (céges hálózat), valamint egy gépnek lehet mindig másik címe (dinamikus IP).
 - Minden gépnek van legalább egy címe, de egy gépnek több címe is lehet (pl. minden szolgáltatásának egy-egy), illetve egyes címekhez több gép is tartozhat (céges hálózat), valamint egy gépnek lehet mindig másik címe (dinamikus IP). Ezért is jött az IPv6
+
 ---
+
 ### Címosztályok
 Minden hálózatban az első cím, a hálózat címe, a legutolsó pedig szórási cím, ezeket nem lehet kiosztani egy eszköznek sem.
 - A osztály: Az első 8 bitet használjuk a hálózat azonosítására, a maradék 24-et a hálózaton belüli hostok azonosítására. Az A osztály címtartománya így 1.0.0.0-tól 127.255.255.255-ig terjed.
@@ -15,7 +21,9 @@ Minden hálózatban az első cím, a hálózat címe, a legutolsó pedig szórá
 - C osztály: ebben az osztályban az első 24 bitet használják a hálózat azonosítására, és a maradék 8-at az egyes hostok jelölésére. Az osztály címtartománya 192.0.0.0-tól 223.255.255.255-ig tart.
 - D osztály: ezek az úgynevezett többes küldéses (multicast) címek, melyeknek speciális alakjuk van. A címtartomány 224.0.0.0-től 239.255.255.255-ig tart.
 - E osztály: ez a tartomány speciális, jövőbeli felhasználásra szánt címek halmaza. Az elérhető tartomány 240.0.0.0-tól 255.255.255.255-ig tart.
+
 ---
+
 ### IPv4 és IPv6 különbségei 
 - Az IPv6 128 bit-es címet használ a megszokott 32 bites IPv4-es címek helyett.
 - Lényeges, hogy megszüntek különböző méretű hálózatokon alapuló tartományok (A, B és C tartományok).
@@ -26,7 +34,9 @@ Minden hálózatban az első cím, a hálózat címe, a legutolsó pedig szórá
 	- egycélú (unicast)
 	- választható célú (anycast)
 	- több célú (multicast)
+
 ---
+
 ### IPv6 címstruktúra
 - Az új 128 bites címeket 8 darab 16 bites csoportra osztjuk, melyeket hexadecimális formában, egymástól kettősponttal elválasztva írjuk.
 - Az IPv6-ban unicast, multicast és anycast címek vannak
@@ -41,5 +51,4 @@ Minden hálózatban az első cím, a hálózat címe, a legutolsó pedig szórá
 	4. Megszólított állomás multicast cím (FF02::1:xxxx:xxxx)
 	- A 0::0, vagy csak :: cím jelzi cím hiányát.
 	- A 0::0, vagy csak :: cím jelzi cím hiányát.
----
 

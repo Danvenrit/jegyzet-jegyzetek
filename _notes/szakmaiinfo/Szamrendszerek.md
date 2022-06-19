@@ -1,5 +1,6 @@
 # Számrendszerek
 ---
+
 - több számrendszerről is lehet beszélni informatika terén
 	- tízes
 		- leggyakrabban használt számrendszer és számítástechnikás kívül is használva van
@@ -18,7 +19,9 @@
 		- byte szervezésű adatkezeléshez jobba illeszkedik
 		- alapszáma a 16
 		- tartalmaz 0-tól 9-ig számokat és A-tól F-ig betűket (10, 11, ... , 15)
+
 ---
+
 ### Kettes számrendszer igazságtáblák
 - logikai műveletek kijelentését vizsgálja
 - igazságtábláknak elnevezései vannak, ezek a logikai operátorok

@@ -1,5 +1,7 @@
 # Hálózati topológiák
+
 ---
+
 - első számítógép hálózatok kiépítésének célja az volt, hogy a távolságokat áthidalja
 	- egy gépre több terminállal akartak csatlakozni
 - egy-egy terminál a központi géptől akár több ezer km távolságban is lehettek
@@ -8,7 +10,9 @@
 
 - topológia
 	- a hálózati állomások különböző elrendezése, illetve összekapcsolása
+
 ---
+
 ### Topológiák
 - teljesen összekapcsolt hálózat
 	- minden számítógép minden számítógéppel össze van kötve

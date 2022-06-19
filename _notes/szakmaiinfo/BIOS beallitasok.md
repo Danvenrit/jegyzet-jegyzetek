@@ -1,10 +1,13 @@
 # BIOS beállítások
 ---
+
 ### A BIOS feladata
 - olyan programok gyűjteménye, amely tartalmazza a programozható perifériák kezdeti inicializálását és alacsony szintű kezelését
 - egy BIOS csak azon az alaplapon használható, amelyikre készült, mert teljes mértékben hardver specifikus
 - az operációs rendszerek "gépfüggetlenek", a BIOS végzi el a szabványos szoftverilletszéseket
+
 ---
+
 ### A BIOS fajtái
 - rendszer BIOS
 	- az alaplapon található
@@ -19,7 +22,9 @@
 	- AMI
 	- AWARD
 	- PHOENIX
+
 ---
+
 ### A BIOS funkcionális részei
 - POST
 	- power on self test (bekapcsoláski önteszt)

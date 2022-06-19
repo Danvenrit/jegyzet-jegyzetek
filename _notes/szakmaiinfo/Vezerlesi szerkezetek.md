@@ -1,4 +1,6 @@
 # Vezérlési szerkezetek
+---
+
 ### Fajtái
 - While - elöltesztelő - Elöszőr kiértékeli a feltételt amely művelet egy boolean értéket ad vissza, amennyiben ez egy igaz érték, a végrehajtó blokkban lévő utasítások ismétlődően lefutnak amíg nem vált át hamisra a feltétel.
 - Do-While - hátultesztelős ciklus - A feltételt a ciklus végrehajtása után értékeli ki, tehát egyszer biztosan lefog futni a végrahjtó blokkban lévő utasítások
@@ -25,7 +27,9 @@
 		case 1: utasítások; break;
 		case 2: utasítások; break;
 		default: utasítások; break; }
+
 ---
+
 ### Kivételkezelés
 - hiba esetén, a program dob egy kivételt, és megpróbál találni egy kivételkezelő-blokkot, ami a hibát le tudja kezelni
 - kivételkezelő-blokk megkíséreli a hiba kijavítását, vagy ha a hiba visszaállíthatatlan, akkor kilép a programból
@@ -33,4 +37,3 @@
 	- try - utasítás amit mindig megfog próbálni még a program futása közben, ha gond van
 	- catch - utasítás akkor fog lefutni ha a try-ban gond van
 	- finally - utasítás akkor is lefut ha nem volt, vagy volt kivétel
----
