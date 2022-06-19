@@ -48,6 +48,7 @@
 - antikommunizmus 
 	- a kommunista mozgalom és a Szovjetuniót megsemmisítendő ellenségnek tekintése
 - jelképe szvasztika
+
 ---
 ## Szovjet-orosz kommunizmus
 ### Ideológia alapja
