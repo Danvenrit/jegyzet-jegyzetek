@@ -67,7 +67,8 @@ A módszereinek tekintetében komoly véleménykülönbségek voltak, a politika
 ---
 
 ### Széchenyi és Kossuth vitája
-![[images/kossuthszélchenyivitája.png]]
+
+![[kossuthszechenyi.png.png]]
 
 ---
 
