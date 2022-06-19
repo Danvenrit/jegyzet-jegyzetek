@@ -1,5 +1,6 @@
 # Az iszlám vallás kialakulása és főbb tanításai
 ---
+
 ### Az iszlám vallás kialakulása
 Arab-félsziget száraz, sivatagos vidékén az ókorban nomád beduin törzsek éltek ilyenkor még nem alakítottak ki egységes államot.
 
@@ -14,7 +15,9 @@ Mohamed Mekkában élt, tevehajcsár volt, késöbb kereskedő egy új hit igazs
 - szegények támogatták, de gazdag kereskedők elkergették Mekkából 622-ben
 
 Mohamed kivonulását hidzsrának nevezzük ez volt az iszlám időszámítás kezdete. Késöbb kiegyezett a mekkaiakkal a Fekete Kő tiszteletének előírása pedig még hasznot is hozott.
-***
+
+---
+
 ### Főbb tanításai
 Az iszlám szó Istennek (Allah) való teljes meghódolást, engedelmességet jelent, a vallás szent könyve a Korán amit Mohamed tanítványai jegyezték le a halála után. Szigorú monoteizmust, kereszténységnél egyszerűbb istenképet, nincs szentháromság viszont Jézust elismerte prófétaként foglalt magába.
 

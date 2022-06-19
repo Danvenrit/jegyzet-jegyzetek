@@ -1,16 +1,19 @@
 # Géza fejedelemsége és Szent István államszervező tevékenysége
 ---
+
 ### Géza fejedelemsége
 Géza 972-996 között uralkodott.
 Géza belpolitikájaval egyértelművé tette a nagyfejedelmi hatalmát viszont a törzsi berendezkedést és a legerősebb törzsfők erejét még ekkor nem törte meg, erdélyi országrész vezető Gyula lányát vette feleségül (Sarolt) ezzel biztosítva az egyik legnagyobb hatalmú törzsfő együttműködését.
 
- Géza külpolitikája, kalandozásokat lezárta miután megalakult a Német-római Császárság és Bizánc megerősödött, 973 quedlinburgi találkozón Géza békét kötött 1. Ottó német-római császárral, Géza fia bajor hercegnőt kapta feleségül (Gizella) és 1002-be Gizella bátyja került a német trónra (II. Henrik) emiatt szoros kapcsolat jött létre a Német-római Császársággal.
+Géza külpolitikája, kalandozásokat lezárta miután megalakult a Német-római Császárság és Bizánc megerősödött, 973 quedlinburgi találkozón Géza békét kötött 1. Ottó német-római császárral, Géza fia bajor hercegnőt kapta feleségül (Gizella) és 1002-be Gizella bátyja került a német trónra (II. Henrik) emiatt szoros kapcsolat jött létre a Német-római Császársággal.
  
 Géza felismerte hogy Európába beilleszkedéshez a kereszténység felvételével valósulhat meg ezért hittérítőket kért nyugatról, az első ilyen térítőpüspök Bizáncból érkezett és csak Erdélyben tevékenykedett. A térítés nagyobb részét nyugatról érkezett térítők végezték és 
 az egyik leghíresebb az esztergomi székesegyház névadója Szent Adalbert. 
 
 Géza behívta a bencéseket, akik Pannonhalmán kolostort alapítottak 996-ban, külsőségekben elfogadta a kereszténységet, miközben az ősi magyar hitvilágot követte.
-***
+
+---
+
 ### István államszervező tevékenysége
 (997-1000-1038)
 
@@ -32,8 +35,10 @@ Az Európában elterjedt hűbéri monarchia rendszerét alakította ki, minden h
 	- magánföldesúri birtokok
 	- ezek jelentősége ekkor még messze elmaradt a királyi és egyházi birtokoké mögött
 - fel nem osztott területek
-	- ide nomád társadalom képviselői igyekeztek visszahúzódni a kiépülő feudális hatóságok befolyása elől
+	- ide nomád társadalom képviselői igyekeztek visszahúzódni a kiépülő feudális hatóságok befolyása elől 
+
 ---
+
 ### Egyházszervezés
 A katolikus egyházszervezet felállítása, 10 püspökség (két érsek: Esztergom, Kalocsa), az egyházszervezet központja Esztergom lett.A prímás az Esztergomi érsek (egyház vezetője).
 

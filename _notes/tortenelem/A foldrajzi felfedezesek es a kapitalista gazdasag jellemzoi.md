@@ -42,5 +42,3 @@
 - A piacok növekedésével kereslet támadt eladható mezőgazdasági árukra, például textiliparnál a gyapjú. Emiatt a földbirtokosok is bekapcsolódhattak az árutermelésbe, jobbágyakat elkergették és manukfaktúrákban alkalmazták őket (Angliában ezt bekerítésnek nevezték). Jobbágyok helyett, akiket a feudális jogrend védett, bérmunkásokat alkalmaztak, akiknek ugyan fizetni kellet, de hatékonyabban dolgoztak, a termék viszont teljes egészében a tuladonosé lett. Megjelent egy új mezőgazdasági vállalkozó nemesi réteg amit Angliában gentryknek neveztek. 
 
 - Átalakult a feudalizmus rendszere ezért megszűnt a jobbágy-földesúri viszony és hatalmas tőke halmozódott föl nyugaton. Átalakulás elengedhetetlen hátterét jelentette a  reneszánsz és a protestantizmus elterjedése és máig meghatározó gazdasági rendszer alakult ki a kapitalizmus.
-
----

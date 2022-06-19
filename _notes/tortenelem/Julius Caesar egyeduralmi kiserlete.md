@@ -1,9 +1,12 @@
 # Julius Caesar egyeduralmi kísérlete
 ---
+
 ### Köztársaság válsága
 Róma kr. e. 1. század elejére városállamból nagy területű birodalommá vált, megjelennek emiatt új problémák, polgárháborús időszak vette kezdetét. Kr. e. 2. század végén társadalmi átalakulás történt megjelnik a nobilitias (patríciusok + plebs = nobilitas) azon belül a senatori rend azon belül optimaták populares azon kivül a lovag rend.
 Elkezd szűkülni a római szabad kisbirtokosi réteg, a birtok vesztések esetén Rómába vándoroltak emiatt növekedett a plebs. Nem lehetet Róma gondjait hagyományos köztársasági intézményrendszerrel kezelni, reformok miatt polgárháborúk törtek ki
-***
+
+---
+
 ### Első triumvirátus
 - Crassus, egyik leggazdagabb polgára Rómának, Spartacus-féle rabszolgafelkelés egyik leverője
 - Pompeius, korszak legnépszerűbb hadvezére, földközi-tengeri kalózokat legyőzte, valamint Kis-Ázsiát és Szíriát meghódította a birodalom számára
@@ -12,10 +15,14 @@ Elkezd szűkülni a római szabad kisbirtokosi réteg, a birtok vesztések eset�
 Kr. e. 6-ban létrehozzák az első triumvirátust (három férfi szövetsége) amivel előbb Caesar, majd Pompeius és Crassus consullá választását érték el.Pompeius Hispániát, Crassus Szíriát, Caesar pedig Galliát kapta meg provinciaként consuli hivatala letelte után. Caesar Galliát 10 évig írányította helytartóként, ezen idő alatt megnövelte a provincia területét és hozzá hű hadsereget veztetett.
 
 Crassus meghal a parthusokkal folytatott háborúban, felborúl a triumvirátus és Pompeius, Caesar sikereit látva, senatushoz fordult.
-***
+
+---
+
 ### Polgárháború
 Caesar tízéves Galliai helytartói megízásának lejáratával consull akart lenni ami miatt a seregeit Itália északi határain kellett volna hagyja hogy Rómába tudjon utazni, viszont emiatt ellenfelei pert indítottak volna ellene. Ezért Caesar légióival átkelt Itália északi határán a Rubicon folyó mentén, és katonai haderejével Róma ellen fordult ("A kocka el van vetve!"). A pharszaloszi ütközetben Caesar legyőzi Pompeiust (kr. e. 48)
-***
+
+---
+
 ### Diktatúrája és halála
 Caesart örökös diktátorrá választják és felvett több címet, pontifex maximus (főpap), néptribunus, imperator (hadvezér).
 

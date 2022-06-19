@@ -1,5 +1,6 @@
 # Az Európai Unió alapelvei, intézményei és működése
 ---
+
 ### Az EU alapelvei
 - napjaink legmélyebb nemzetközi gazdasági integrációját hozta létre
 	- alapkérdés
@@ -30,7 +31,9 @@
 		- közös felsőoktatási tér, egységes struktúra szerint zajló képzések
 			- egyetemek által kiállított diplomákat kölcsönösen elfogadják
 		- kül és biztonságpolitikai egyeztetés
+
 ---
+
 ### Az EU intézményei
 - Európai tanács (ET)
 	- az EU legfontosabb, általános döntéshozó és stratégiaalkotó szerve
@@ -70,7 +73,9 @@
 	- az EU-s jogszabályokkal kapcsolatos ügyekben, jogvitákban dönt
 	- EU-s jogba ütköző intézkedéseket semmisíthet meg
 	- székhelye Luxemburg
+
 ---
+
 ### Az EU működése
 - döntéshozatal
 	- korábban konszenzusos döntési rendszer volt

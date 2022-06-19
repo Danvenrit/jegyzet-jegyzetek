@@ -1,7 +1,11 @@
 # A hidegháború
+---
+
 ### Időtartama
 - A II. világháború végétől, a szovjet únió felbomlásáig (kb. 1947-től 1991-ig)
+
 ---
+
 ### A kétpólusú világ kialakulása
 - 1947-ben számítjuk kezdetét, azután, hogy Anglia segítséget kért az USA-tól Görögország, és Törökország stabilizálásához, és ellenőrzéséhez.
 - USA elnök Truman meghirdeti a feltartóztatási politikáját (Truman-elv):
@@ -32,7 +36,9 @@
 	- koncepciós perek
 - 1949-ben a Marshall tervre válaszul: KGST, amely célja a szocialista országok között egy nyilt piac megteremtése volt
 - 1955-ben a NATO válaszára megalakul a szocialista országokkal a Varsói szerződés
+
 ---
+
 ### A hidegháború jellemzői
 - USA és Szovjetúnió között nem volt nyilt, háború, hanem szövetségeseik által egymással szemben: pl: Koreában, vietnam, Israel stb. - minden konfliktusnál ott volt a két oldal, és szovjetek segitették a kommunista oldalakat, USA meg a demokratikus oldalakat.
 - két szuperhatalom között: 
@@ -42,12 +48,14 @@
 		- mindakettő a másik oldalról egy eltorzított, egyoldalú információkat terjesztett csak
 		- mindakettő oldal üldözte a nem demokratikus vagy nem kommunista gondolkodókat
 	- Diplomáciai szintek alacsony szintre mélyültek
+
 ##### Nyugati blokk
 - USA és nyugat-európai szövetségesei alkották
 - többpárti demokrácia, kapitalizmus, piacgazdaság
 - Marshall terv
 - NATO
 - lényeges a gazdasági helyreállítás, és politikai stabilitás felállítása
+
 ##### Keleti blokk
 - Szovjetunió által megszállt kelet-európai országok, meg néhány kommunista állam 
 	- Európán kívül: Kína, Észak-korea, Kuba
@@ -59,7 +67,9 @@
 	- szovjet, kommunista országok között, szabad piac, főleg árucsere
 	- külön országok külön feladatra szakosodtak pl. magyarország buszok gyártása, vas gyártás stb.
 - A blokkokat a megszálló szovjet hadseregek tartották egyben (varsói szerződés alapján)
+
 ---
+
 ### ENSZ létrejötte
 - 1945-ben jött létre, a korábbi kudarba fulladt, Népszövetséget váltotta fel
 - Célja az Egyesült nemzetek nyilatkozatába foglalt, általános alapelvek érvényesítése, és vélelme (pl. alap emberi jogok)
@@ -70,19 +80,24 @@
 	- WHO (egészségügy)
 	- IMF (valuta alap)
 	- nemzetközi bíróság
+
 ---
+
 ### nemzetközi konfliktusok
+
 ##### Berlini válság
 - németország a II.vh után 4 blokkra van osztva: 3 nyugati hatalom által vezetett rész, meg egy keleten, a szovjetúnió által megszállt rész.
 - Marshall tervre válaszol Szovjetúnió elválasztotta kelet és nyugat berlint
 - két területen eltérő fejlődés volt, a nyugati részeken sokkal jobban virágzott a gazdaság, a megfelelő Marshall segély és tőkék miatt.
 - Két országgá válik németország: NSZK, NDK
 - 1961 berlini fal megépítése
+
 ##### Koreai háború
 - USA és Szovjetúnió megfelezve szállták meg koreát
 - végül a konfliktusok során két állam jött létre: északon kommunsta, észak-korea, délen pedig a demokratikus dél-korea
 - 1953: fegyverszünet: máig nincsen békeszerződés
 - A két hatalom nem kockáztatva a III. világháborút, hasonló módon szálltak meg országokat, és konfliktosokat Vietnámban és Afganisztánvan is (vietnámban pl USA kilép majd, és mai napig kommunista maradt)
+
 ##### Kubai rakéta váslág
 - Kubában a korábbi USA-barát diktatúrával szemben forradalom tört ki 1959-ben
 - új vezető: Fidel Castro, szovjet támogatással
@@ -94,6 +109,7 @@
 - végül mindkét fél hajlandó volt kompromisszumot kötni
 	- az USA lemondott a katonai akcióról, elengedte kubát
 	- szovhetúnió elengedte a rakétáit
+
 ##### Vietnámi háború
 - francia gyarmati haderő 1954-ben kivonul Vietnámból, vereség után
 - Ország két részre bontódik:
@@ -107,7 +123,9 @@
 	- legnagyobb USA-i részvétel 500 000-t is meghaladta
 - Végül óriási veszteségek és USA-ban lévő polgári, háborúsellenesség miatt USA kilép vietnámból (1973 párizsi béke)
 - Északi kommunista erők egész Vietnámot egyessitik Ho Si Minh vezetése aladt
+
 ---
+
 ### Szovjet blokk megrendülése
 - Két olajválság (1973, 1979)
 	- negyedik arab-izraeli háború után az arab államok csökkentették az olajtermelést
@@ -119,7 +137,9 @@
 	- szocialista rendszerben, pazarló termelés, eladósodási problémák
 	- világgazdaságba kedvezőtlen cserearányok: termékek ára csökkent, alapanyagok, és félkész termékek ára csökkent
 	- A válság elkerülésére irányuló reformokat politkai okokból leállították
+
 ---
+
 ### Kétpólusú világ megszűnése
 - a gazdasági visszaesés, és szuperhatalmi státusz költséges fenntartását nem túlterhelte a Szovjetúniót
 - USA az erőteljes felfegyverkezése felborította az addigi katonai egyensúlyt
@@ -140,4 +160,4 @@
 - máltai csúcstalálkozó 1989: jogi értelemben ekkor ért véget a kétpólusú világrend
 - mindezzel párhuzamosan a szovjet csatlósállamokban is ellenzéki mozgalmaz indultak
 	- 1989-90-ben kelet-közép-európai csatlós államokban lezajlott a rendszerváltás
----
+

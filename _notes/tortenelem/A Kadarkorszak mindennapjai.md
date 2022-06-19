@@ -14,7 +14,8 @@ Voltak változások a Rákosi-korszakhoz képest pl. "aki nincs ellenünk az vel
 Külpolitikájába beletartozott hogy rendezte a nyugati kapcsolatait (ENSZ, NSZK, USA, Vatikán). Az amerikaiak visszaadták 1978-ban az 1945-ben Nyugatra szállított Szent koronát és a vízumkényszert eltörölte (bevásárlóturizmus, Ausztria).
 
 A szomszédos államokkal "jószomszédi" viszonra törekedett, a határon túli magyarság sorsát nem lehetett diplomáciai napirendre tűzni viszont a hazai közéletben megjelenhetett a kérdés (pl. az Erdély történetének kiadása).
-***
+
+---
 ### Életmód és mindennapok
 Úgynevezett gúlyáskommunizmus volt jelent (legvidámabb barakk), megszűnt a nélkülözés és emelkedett az életszínvonal. Megnőtt robbanásszerűen a fogyasztás és elterjedtek a háztartási gépek, kialakultak az összkomfortos lakások (lakótelepek). Fellendült a turizmus és megjelennek a vállalati üdülők, "szocialista moderniztáció".
 

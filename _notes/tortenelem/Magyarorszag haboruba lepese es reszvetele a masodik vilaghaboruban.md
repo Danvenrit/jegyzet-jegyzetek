@@ -1,4 +1,6 @@
-# Magyarország háborúba lépése és részvétele a második világháborúban
+# Magyarország háborúba lépése és részvétele a második világháborúbanű
+---
+
 ### A világháborúhóz vezető út
 - 1938 és 1941 közötti éveket nevezzük magyarország háborúba sodródásának.
 - 1938-ban az Anschluss (ausztria egyesül németországgal) következményeként  magyarország újra elkezd fegyverkezni - Darányi Kálmán beindítja a győri fegyverkezési programot
@@ -16,7 +18,9 @@
 - Magyarország végül be akart lépni a világháborúba mivel úgyvélték a német hadsereg a legerősebb európában.
 - Németek hadat üzennek a Szovjetúniónak
 - Magyarország a kassai bombázás után, amit a szovjet hadseregre fogtak, magyarország is hadat mozgósít a Szovjetúnió ellen, ez a II. világháború kezdete magyarországnak
+
 ---
+
 ### Magyarország részvétele a második világháborúban
 - 1942-ben Kállai Miklós lesz a miniszterelnök.
 - 1942-ben német nyomásra 200 000 magyar katonát, és 50 000 munkásszolgálatost küld a keleti frontra
@@ -39,7 +43,9 @@
 	- infrastruktúra nagy része romba dőlt, az összes Duna-Tisza hid el lett pusztítva
 	- 1 milliós magyar halálos áldozat (katonák, civilek, zsidók)
 	- 6-700 000 főt deportáltak a szovjetúnióba hadifogolyként, vagy civilként
+
 ---
+
 ### A magyar holokauszt
 - A magyar holokauszt eseményei részét képezik az európai holokausztnak, nem lehet elválasztani
 	- A zsidóság jogfosztása 1938-tól folyamatosan zajlott a három zsidótörvénnyel 1941-ig
@@ -50,6 +56,5 @@
 	- magyar, vidéki zsidókat összeggyűjtötték, és főleg Aushwitzba deportálták
 - A nyilas kormányság alatt megpróbálták kiirtani a zsidókat, és gyalogmentek a deportálások (itt volt pl a Duna parti zsidógyilkosságok kb: 20 000 zsidó halálával járt)
 - A világháború végén magyarországon mintegy 100 000 zsidó tudott csak túlélni (ez még sok is volt a németek által megszáltt területeken)
----
 
-// ha esetleg mélyebben kellene ez a tétel akkor a rubiconból a Magyarország a II. világháborúban (9.4.1.) és a Magyarország a náci biroldaom árnyékában (9.4.2.) érdemes elolvasni
+---
