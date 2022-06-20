@@ -1,7 +1,7 @@
 # A középkori magyar állam megerősödése I. Károly idején
 ---
-- 1301-42
-### A királyi hatalom helyreállítása
+
+### A királyi hatalom helyreállítása (1301-42)
 - III. András halála után kihal 1301-ben az árpádház emiatt a tartományúri hatalom korlátok nélkülivé vált és az ország teljesen széttagolódott. Több nőági trón követelő érkezett, de végül Károly az Anjou-házból 12 évesen. 3 szor volt megkoronázva utoljára esztergomi érsek által székesfehérváron a szent koronával
 
 - A pápaság és a magyar egyház az uralkodásának kezdetétől fogva támogatták, mellete állt a már rendként működő köznemesség is mivel őket is hátrányosan érintette a tartományúri hatalom. Több tartományurral is megegyezett, országos tisztségeket kínált nekik, akik viszont szemben áltak ellene azokat kijátszotta, majd késöbb megerősödve egyenként, katonai erővel leszámolt velük. 20 év alatt felszámolt a tartományúri hatalommal ezért innentől megtudta valósítani a reformjait.
