@@ -118,7 +118,6 @@
 	- polgárháború állandósul
 - mindkét szuperhatalom beavatkozik
 	- Szovjetúnió fegyverrel, és pénzzel támogatta: Ho Si Minh-t
-	- 
 	- USA eleinte hasonló módon, de később 1964-től közvetlenül, katonailag segítette.
 	- legnagyobb USA-i részvétel 500 000-t is meghaladta
 - Végül óriási veszteségek és USA-ban lévő polgári, háborúsellenesség miatt USA kilép vietnámból (1973 párizsi béke)

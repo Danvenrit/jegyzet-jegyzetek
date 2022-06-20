@@ -1,5 +1,6 @@
 # A XVIII. századi magyar társadalom demográfiai és etnikai változásai
 ---
+
 ### A népességszám a török kor végén
 - Magyarország népessége a 16-17. században stagnált miközben egész európában kb. 60%-os népességnöveedés zajlott. A népesség növekedést több tényező is gátolta, folyamatos háborúk zajlottak, járványok ilyen hogy pestis és éhínség. 
 
@@ -10,7 +11,7 @@
 
 - Betelepülések és betelepítések miatt is nőtt a népesedés, vonzóerő a megművelhető termőföld volt, hiszen európában a népesedések miatt sokaknak nem jutott termőföld. A földbirtokos az elnéptelenedett földek művelésbe vonásával juthat jövedelemhez (pl. a jobbágy által fizetett kilenced vagy a robot), az udvar számára az adóalap növelése. A betelepített katolikus svábok az ellenreformációt is szolgálták. Adókedvezményeket adtak a betelepülőknek, esetenként újonnan épített falvakkal várták őket.
 
-- Spontán betelpülések is voltak. Szlovákokaz Északnyugati-Kárpátokból húzódtak délebbre, a görög katalikus ruszinok a mai Kárpátalja vidéken jelentek meg. Az ortodox románok ekkor kerültek relatív többségbe Erdélyben. A szintén ortodox szerbek a még török által uralt balkáni területekről menekültek nagy számban Dél-Magyarországra. Ők leginkább határőrvidéken szabad katonaparasztok voltak akik az udvar számára jól felhasználható fegyveres erőt jelentett. Egyházi autonómiát kaptak és választott vezetőjük a karlócai érsek volt, de ők is jobbágyi sorban éltek. 
+- Spontán betelpülések is voltak. Szlovákok az Északnyugati-Kárpátokból húzódtak délebbre, a görög katalikus ruszinok a mai Kárpátalja vidéken jelentek meg. Az ortodox románok ekkor kerültek relatív többségbe Erdélyben. A szintén ortodox szerbek a még török által uralt balkáni területekről menekültek nagy számban Dél-Magyarországra. Ők leginkább határőrvidéken szabad katonaparasztok voltak akik az udvar számára jól felhasználható fegyveres erőt jelentett. Egyházi autonómiát kaptak és választott vezetőjük a karlócai érsek volt, de ők is jobbágyi sorban éltek. 
 
 - Belső vándorlás is volt. Szlovákok nagy számban települtek Dél-Magyarországra is és a peremterületek magyarsága az ország középső területeire költözött. A magyarság többségben maradt a központi területeken ezzel az etnikai határ lejjebb húzódott a hegyvidékekből.
 

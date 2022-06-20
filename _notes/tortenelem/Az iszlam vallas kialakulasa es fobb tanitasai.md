@@ -7,7 +7,7 @@ Arab-félsziget száraz, sivatagos vidékén az ókorban nomád beduin törzsek 
 A térség jelentőségét a Tömjénút (kereskedelmi útvonal) és a kereskedővárosai (Mekka, Medina) tartotta. A környék vallása politeizmus volt, Mekkában a Kába szentélyben örzőtt Fekete Kő ősi pogány kultusza. 
 
 Mohamed Mekkában élt, tevehajcsár volt, késöbb kereskedő egy új hit igazságait, parancsait vezett be, melyeket Allah nyilvánított ki Mohamed számára Gabriel arkangyal útján (610).
-- végitélet
+- végitélet (teljes hit allahban)
 - egyetlen isten, Allah hatalma
 - elítélte a kapzsi kereskedőket, az uzsorát
 - elesettek gyámolítása

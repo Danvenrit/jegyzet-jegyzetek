@@ -2,7 +2,7 @@
 ---
 
 ### Előzmény
-II. András politikája miatt megerősödött a bárói hatalom, Aranybulla után vagyunk, IV. Béla az király. Kísérletet tett a megerősödő bárói hatalom megtörésére, betelepítette a kunokat mert katonai erőt látott bennük erre az előkelők féltékenyek lettek.
+II. András politikája miatt megerősödött a bárói hatalom, Aranybulla (1222) után vagyunk, IV. Béla az király. Kísérletet tett a megerősödő bárói hatalom megtörésére, betelepítette a kunokat mert katonai erőt látott bennük erre az előkelők féltékenyek lettek.
 
 Julianus barát keleten maradt magyarok felkutatásának második alkalmával csak mongolok által elpusztított területeket talált, Dzsingisz kán rátört Kelet-Európára. IV. Béla megkapta a mongol fenyegető üzenetét, Kijev eleste (1240)
 Kunok segítségét elvesztette mivel megölték a kun vezetőt.
