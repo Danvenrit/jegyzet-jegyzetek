@@ -1,21 +1,23 @@
 # A dualista állam, A kiegyezés tartalma és értékelése
 ---
-
+<img src="assets/DualizmusFocimek.png">
 ### A kiegyezés tartalma - Az államberendezkedés
+
 Kialakult a kétközpontú (dualista) alkotmányos monarchia, a két birodalmat két teljesen egyenrangú részre osztották, kialakult az Osztrák-Magyar Monarchia.
 
 Három hatalmi centrum jött részre, az uralkodó és a közös minisztériumok Bécsben voltak, de a királynak kötelező volt meghatározott ideig Magyarországon is tartózkodni. 
 
-A kiegyezési törvényben három ügyet közösnek ismertek el ezek voltak a hadügy, külügy és a pénzügy. A három közös ügyet három közös miniszter felügyelte akiket a király nevezett ki.
+A kiegyezési törvényben három ügy lett közös, ezek voltak a hadügy, a külügy és a pénzügy. A három közös ügyet három közös miniszter felügyelte, akiket a király nevezett ki.
 
-A két birodalom országgyűléseket Bécsben és Budapesten tartottak, a két birodalomfél között politikai tekintetben teljes egyenlőséget valósítottak meg. A felelős kormány élén a miniszterelnök (Magyarországon első: Andrássy Gyula).
+A két birodalom országgyűléseket Bécsben és Budapesten tartottak, a két birodalomfél között politikai tekintetben teljes egyenlőség valósult meg. A felelős kormányok élén a miniszterelnökök voltak (Magyarországon első: Andrássy Gyula).
 
 ---
 
 ### A kiegyezés tartalma - Gazdasági vonatkozások
+
 A két birodalomfél gazdasági tekintetben széles önállósággal bírt, saját adók, saját költségvetések. 
-Közös ügyek költségeit a két törvényhozás szavazta meg ennek a "kvótája", Ausztria 70% és Magyarország 30% volt. Ezt a kvótát 10 évente úgynevezett gazdasági kiegyezések keretében újratárgyalták és Magyarország gazdasági fejlődése miatt növelték az arányát. 
-Volt közös valuta (korona), szabad tőke és munkaerő áramlás, vámunió és a közös súly és mérték egységrendszer.
+Közös ügyek költségeit a két törvényhozás szavazta meg ennek a "kvótája", Ausztria 70% és Magyarország 30% volt. Ezt a kvótát 10 évente úgynevezett gazdasági kiegyezések keretében újratárgyalták és gazdasági teljesítmény alapján változtatták az arányokat.
+Volt közös valuta (korona), szabad tőke és munkaerő áramlás, ezenkívül volt vámunió és a közös súly és mérték egységrendszer.
 
 ---
 
