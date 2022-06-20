@@ -1,6 +1,6 @@
 # Az első világháború és a világháborút lezáró versailles-i békerendszer
 ---
-
+<img src="assets/elsovhFocimek.png">
 ### Előzmények
 
 ##### Ipari forradalom

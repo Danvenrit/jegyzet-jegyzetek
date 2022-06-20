@@ -1,6 +1,6 @@
 # Az iszlám vallás kialakulása és főbb tanításai
 ---
-
+<img src="assets/IszlamvallasFocimek.png">
 ### Az iszlám vallás kialakulása
 Arab-félsziget száraz, sivatagos vidékén az ókorban nomád beduin törzsek éltek ilyenkor még nem alakítottak ki egységes államot.
 

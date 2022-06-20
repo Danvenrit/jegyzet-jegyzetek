@@ -1,6 +1,6 @@
 # A hidegháború
 ---
-
+<img src="assets/HideghaboruFocimek.png">
 ### Időtartama
 - A II. világháború végétől, a szovjet únió felbomlásáig (kb. 1947-től 1991-ig)
 
@@ -67,19 +67,6 @@
 	- szovjet, kommunista országok között, szabad piac, főleg árucsere
 	- külön országok külön feladatra szakosodtak pl. magyarország buszok gyártása, vas gyártás stb.
 - A blokkokat a megszálló szovjet hadseregek tartották egyben (varsói szerződés alapján)
-
----
-
-### ENSZ létrejötte
-- 1945-ben jött létre, a korábbi kudarba fulladt, Népszövetséget váltotta fel
-- Célja az Egyesült nemzetek nyilatkozatába foglalt, általános alapelvek érvényesítése, és vélelme (pl. alap emberi jogok)
-- nemzetközi konfliktusok diplomácia megoldása és béke fönntartása egyik feladata
-- humanitáriánus feladatokat is végzik
-- Szervezetei: 
-	- UNESCO (világörökségek, kultúra)
-	- WHO (egészségügy)
-	- IMF (valuta alap)
-	- nemzetközi bíróság
 
 ---
 

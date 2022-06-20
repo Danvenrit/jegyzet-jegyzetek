@@ -1,8 +1,7 @@
 # Diktatúrák a két világháborúk között
 ---
-
+<img src="assets/diktaturakFocimek.png">
 ## Náci németország
-
 ### Kialakulása 
 - A versailles-i békekonferencia után németországban zűrzavar, és köztársasági válság volt. Az I. vh. után nehezen tért magához az ország. Komoly károkat szenvedett az ország
 - A jóvátételfizetés, vesztett nyersanyagok, élelmiszerhiány és munkaerőhiány. Hadsereg létszáma erősen korlátozva volt.
@@ -61,7 +60,6 @@
 ---
 
 ## Szovjet-orosz kommunizmus
-
 ### Ideológia alapja
 - marxizmus (leninnél és sztálinnál is átalakitva)
 

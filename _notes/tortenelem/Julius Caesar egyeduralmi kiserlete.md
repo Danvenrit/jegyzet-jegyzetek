@@ -1,6 +1,6 @@
 # Julius Caesar egyeduralmi kísérlete
 ---
-
+<img src="assets/CeasarFocimek.png">
 ### Köztársaság válsága
 Róma kr. e. 1. század elejére városállamból nagy területű birodalommá vált, megjelennek emiatt új problémák, polgárháborús időszak vette kezdetét.
 Nem lehetet Róma gondjait a hagyományos köztársasági intézményrendszerrel kezelni, reformkísérletek kudarcba fullanak és polgárháborúk  ki

@@ -1,6 +1,6 @@
 # Az Európai Unió alapelvei, intézményei és működése
 ---
-
+<img src="assets/UnioFocimek.png">
 ### Az EU alapelvei
 - napjaink legmélyebb nemzetközi gazdasági integrációját hozta létre
 	- alapkérdés

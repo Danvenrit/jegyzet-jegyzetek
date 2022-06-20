@@ -1,6 +1,6 @@
 # Az 1956-os forradalom és szabadságharc kitörésének okai és főbb eseményei
 ---
-
+<img src="assets/56osforradalomFocimek.png">
 ### A forradalom okai, előzményei
 A Rákosi-rendszer testet-lelket nyomorító diktatúra volt, azonosulási kényszer, személyi kultusz. Totális diktatúra volt jelen nem volt áru, jegyrendszer volt. 
 

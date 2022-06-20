@@ -1,5 +1,6 @@
 # Az ipari forradalmak hullámai és a gyáripar kezdetei
 ---
+<img src="assets/AzipariforradalomFocimek.png">
 ### Az ipari forradalom előzményei Angliában
 - A 18. századi mezőgazdasági fejlődések alapozták meg az ipari forradalmat Angliában, kialakult a vetésforgó ami már elegendő élelmet tudott biztosítani és emiatt megnövekedett a népesség és a piac. Céheket háttérbe szorították a manufaktúrák ahol bérmunkásokat alkalmaztak. Bekerítések nevén, jobbágyokat elűzték és manufaktúrákba állították őket, emiatt olcsó munkaerő állt rendelkezésre. A gyarmati piacok bővültek a népességnövekedés hatására mivel fokozta a keresletet. Kialakul a szabadversenyes kapitalizmus ami miatt szabadabban lehetett vállalkozást indítani és befektetőket találni. Kialakul a fonaléhség, textilipar lesz a húzóágazat, nem drága és egyszerű technológia. (John Kay, szövőgép)
 

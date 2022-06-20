@@ -1,6 +1,6 @@
 # A tatárjárás
 ---
-
+<img src="assets/TatarjarasFocimek.png">
 ### Előzmény
 II. András politikája miatt megerősödött a bárói hatalom, Aranybulla (1222) után vagyunk, IV. Béla az király. Kísérletet tett a megerősödő bárói hatalom megtörésére, betelepítette a kunokat mert katonai erőt látott bennük erre az előkelők féltékenyek lettek.
 

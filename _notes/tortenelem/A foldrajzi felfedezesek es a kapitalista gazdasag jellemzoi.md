@@ -1,5 +1,6 @@
 # A földrajzi felfedezések és a kapitalista gazdaság
 ---
+<img src="assets/FoldrajzifelfedezesekFocimek.png">
 ### A földrajzi felfedezések előzményei és okai
 - világnézeti
 	- természettudományok fejlődése

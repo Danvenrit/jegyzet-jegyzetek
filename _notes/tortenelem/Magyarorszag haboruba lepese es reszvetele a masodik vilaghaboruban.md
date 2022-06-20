@@ -1,6 +1,6 @@
 # Magyarország háborúba lépése és részvétele a második világháborúbanű
 ---
-
+<img src="assets/magyarorszaghaborubalepesemasodikvhbaFocimek.png">
 ### A világháborúhóz vezető út
 - 1938 és 1941 közötti éveket nevezzük magyarország háborúba sodródásának.
 - 1938-ban az Anschluss (ausztria egyesül németországgal) következményeként  magyarország újra elkezd fegyverkezni - Darányi Kálmán beindítja a győri fegyverkezési programot

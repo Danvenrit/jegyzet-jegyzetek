@@ -1,5 +1,6 @@
 # A középkori város és a céhes ipar
 ---
+<img src="assets/AkozepkorivarosescehekFocimek.png">
 ### A középkori városok kialakulása
 - Technikai fejlesztéseknek köszönhetően megjelennek új technológiák ilyenek hogy háromnyomásos gazdálkodás, nehézeke, szűgyhám. Vizimalmok megjelenésével fellendül a mezőgazdaság Nyugat-Európában, emiatt népességnövekedés és kialakul az árutermelés és a pénzgazdaság. Megjelennek a kereskedést és árutermelést folytató városok.
 

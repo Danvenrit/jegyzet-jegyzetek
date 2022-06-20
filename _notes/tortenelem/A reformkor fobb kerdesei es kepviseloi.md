@@ -1,6 +1,6 @@
 # A reformkor főbb kérdései és képviselői
 ---
-
+<img src="assets/AreformkorfobbkerdesieFocimek.png">
 ### A reformkor
 A politizáló elit célja a társadalmi, gazdasági és kulturális berendezkedés modernizációja volt. Rendi-feudális berendezkedés helyett polgári-akoltmányos rendet akartak, a liberális nemesség saját érdekei elé helyezte az ország érdekeit. 1830-ban vált uralkodóvá az országgyűléseken a "reformügy", Széchenyi Hitel című műve (1830) kijelölte a reformkor programját.
 

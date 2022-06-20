@@ -1,6 +1,6 @@
 # A XVIII. századi magyar társadalom demográfiai és etnikai változásai
 ---
-
+<img src="assets/18szazadetnikaivaltozasaiFocimek.png">
 ### A népességszám a török kor végén
 - Magyarország népessége a 16-17. században stagnált miközben egész európában kb. 60%-os népességnöveedés zajlott. A népesség növekedést több tényező is gátolta, folyamatos háborúk zajlottak, járványok ilyen hogy pestis és éhínség. 
 

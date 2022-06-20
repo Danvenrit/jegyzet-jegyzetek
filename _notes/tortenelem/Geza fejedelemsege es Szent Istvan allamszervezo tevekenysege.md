@@ -1,6 +1,6 @@
 # Géza fejedelemsége és Szent István államszervező tevékenysége
 ---
-
+<img src="assets/GezafejedelemsegesIstvanallamszervezotevekenysegeiFocimek.png">
 ### Géza fejedelemsége
 Géza 972-996 között uralkodott.
 Géza belpolitikájaval egyértelművé tette a nagyfejedelmi hatalmát viszont a törzsi berendezkedést és a legerősebb törzsfők erejét még ekkor nem törte meg, erdélyi országrész vezető Gyula lányát vette feleségül (Sarolt) ezzel biztosítva az egyik legnagyobb hatalmú törzsfő együttműködését.
