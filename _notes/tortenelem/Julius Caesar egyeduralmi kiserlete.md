@@ -3,11 +3,12 @@
 
 ### Köztársaság válsága
 Róma kr. e. 1. század elejére városállamból nagy területű birodalommá vált, megjelennek emiatt új problémák, polgárháborús időszak vette kezdetét.
-Elkezd szűkülni a római szabad kisbirtokosi réteg. Nem lehetet Róma gondjait a hagyományos köztársasági intézményrendszerrel kezelni, reformok miatt polgárháborúk törtek ki
+Nem lehetet Róma gondjait a hagyományos köztársasági intézményrendszerrel kezelni, reformkísérletek kudarcba fullanak és polgárháborúk  ki
 
 ---
 
-### Első triumvirátus
+### Első triumvirátus 
+
 - Crassus, egyik leggazdagabb polgára Rómának
 - Pompeius, korszak legnépszerűbb hadvezére
 - Caesar, populares feltörekvő vezetője
@@ -25,10 +26,10 @@ Caesar tízéves Galliai helytartói megízásának lejáratával consull akart 
 ---
 
 ### Diktatúrája és halála
-Caesart örökös diktátorrá választják és felvett több címet, főpap, néptribunus, imperator volt egyben.
+Caesart örökös diktátorrá választják és főpap, néptribunus, imperator volt egyben.
 
-Diktátorként igyekezett Rómát konszolidálni ezért széles körben gyakorolt kegyelmet. Elkezdet földet osztani veteránjainak
+Diktátorként igyekezett Rómát konszolidálni ezért széles körben gyakorolt kegyelmet.  Földet osztani veteránjainak.
 
 Új értékálló pénz (dénár) és a pénzforgalmat igyekezett egyesíteni. A senatus létszámát 900 főre emelte és a saját híveivel töltötte fel. Polgárjogot adományozott több Itálián kívüli lakosnak és naptárreformot hajtott végre (Julián-naptár) ami a mai napig a naptárunk.
 
-Az optimaták nem tudták elfogadni Caesar egyeduralmát, zsarnokságnak illetve a királyi hatalomhoz való visszatérésnek tekintették ezért a senatuspárti összeesküvők és Ceasar örökbefogadott fia Brutus meggyilkolják Caesart (kr. e. 44).
+Az optimaták nem tudták elfogadni Caesar egyeduralmát, zsarnokságnak illetve a királyi hatalomhoz való visszatérésnek tekintették ezért a senatuspárti összeesküvők és Ceasar örökbefogadott fia Brutus megmerénylik Caesart (kr. e. 44).
