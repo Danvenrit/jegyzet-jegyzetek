@@ -1,47 +1,40 @@
-# Az ellenforradalmi rendszer konszolidációjának lépései
----
-- 1919-ben kommunista forradalmi rendszer volt Magyarországonn, belső szervezkedés volt Bécsben és Szegeden hiszen a Francia megszállás alatt létrejött az ellenforradalmi kormány, és a Nemzeti Hadsereg aminek a vezetője Horthy Miklós volt. Dunántúl nyugati és középső területein tiszti csapatok szerveződtek, akik terror alatt tartották a lakosságot, a tanácsállamot támogatókat megkínozták vagy legyilkolták, ez volt a Fehér terror.
+1919 kommunista forradalmi rendszer
 
-- Horthy függetleníti magát a szegedi kormánytól és a székhelyét áthelyezi a Dunántúlra ahol beolvasztja a tiszti szabad sereget a nemzeti hadseregbe. Nagy bizonytalanság alakul ki Magyarországon, Románok jöttek be keletről Budapest felé és a forradalmi kormány lemondott 1919 Augusztus 1.-én. 
+Fehér terror (tanácsállamot támogatókat leszámol, kinoz, terror)
 
-- Ősszel 1919 az antant egy Clerc angol diplomatát küld hogy helyreállítsa a törvényes rendet és, hogy a magyarok állítsanak fel egy törvényes rendet ami képes konszolidálni a belső viszonyokat, hogy alá tudják írni a békeszerződést majd Clerc tárgyalásba kezdett Horthy-val és a jelentősebb pártok vezetőivel (SZDP).
+1919 öszén anglia diplomata clark jön, hogy helyre állítsa a törvényes rendet, hogy aláírhasság a békeszerződést
 
-- Bethlen István vezetésével létrejött egy jobboldali gyűjtőpárt a keresztény nemzeti egyesülés pártja (KNEP), a parasztság képviseletében a kisgazdapárt (Nagyatádi Szabó István vezetésével) 
+Betlhen Istvánnal egy jobboldali gyűjtőpárt jön KNEP-ként
 
-- 1919 novemberében kivonulnak a románok Budapestről (Tiszáról keletre még maradnak 1920 március végén mennek ki véglegesen).
+Megjelenik a kisgazdapárt
 
-- Horthy megegyezik Clerc diplomatával, hogy megfékezi a tiszti különítményeket és támogatja az új kormányt, ezért Horthy bevonul a fővárosba és kialakítja a huszárkormányt. 1920 januárjában parlamenti választásokon (választójog alapján) a kisgazdapárt nyert kis főlénnyel ami miatt nem neveztek ki új kormányt mert az államfői méltóságról és az államformárol vitatkozni kellett.
+Horty megegyezik clarkal, hogy megfékezi a tiszti különítményeket, és új kormányt támogatja
 
-- Tanácsköztársaság után a királyságra szavaztak többen, Habsburgokat nem lehetett visszahozni ezért ameddig nincs új király addig a kormányzó volt a király helyett (államfői tisztséget jelentette).
+húszár-kormány megalakul amiben 1920-as parlamenti választáson a kisgazda párt nyer
 
----
+nem alakult meg még új kormány mert vitatni kellett hogy milyen államforma legyen, királyság, vagy köztársasásg 
 
-### Horthy vezetése
-- 1920 márc. 1. a kormány Horthy Miklóst választja kormányzóvá (végül sohasem lesz király). Horthy kinevezi az új miniszterelnököt az új kormány képviselői 1920 június 4.-én aláírják trianoni békeszerződést.
+Királyságra szavaztak többen, viszont IV károlyt nem lehetett visszahozni, mert a kis antant abban a monarchia ujraalakulását látta
 
-##### Teleki kormány
-- Teleki Pál miniszterelnökségének és a konszolidáció kezdete (1921 ápr.-ig lesz miniszterelnök).
+Horty király lesz kormányzó, helyettesiti a királyt
 
-- Trianoni béke hatásait kellett kezelni,ilyeneket kellett megoldani hogy menekültek, államigazgatási sebek, az ország 2/3-ának elvesztése, románok és szlovákok szétlopták az országot.
+Horty kinevezni teleki pált miniszterelnöknek
 
-- Teleki vissza akarta szorítani a bal és jobboldali szélsőségeket ezért felszámolta a szélső jobboldali különítményeket. Földreformot vezetett be 1920-ban amivel a nagybirtokok kis hányadát felosztották. A nagybirtokosok ajánlottak fel földeket amiket parcellákra osztottak és ezeket adták a népnek de túl kicsi terület jutott az embereknek. Rend törvénnyel betiltották a kommunista pártokat és a szélsőjobb oldali csapatok felszámolták.
+Telekinek a trianoni béke hatásait kellett kezelnie, amit úgy ért el hogy a szélső jobboldali különítményeket felszámolta
 
-- Magyar lakosság nagy része határon kívül volt, a magyar menekültek jöttek főleg budapestre (kb 400 ezer fő). Nagy konkurencia harc alakult ki mert alkalmazotti és értelmiségi munkakörökben dolgoztak mind (nagy zsidó arány az értelmiségieknél). Felerősödött az antiszemitizmus és őrségváltás, hogy magyar értelmiségekre cseréljék őket (zsidókat cserélni).
+Teleki behozza a földreformot, ahog a nagybirtokok megmaradtak, viszont a földek kis arányát, sok törbe birtokra osztotta, és adta oda a parasztoknak (ezek túl kicsik voltak sokszor, a megélhetéshez)
 
-- Numerus clausus, az egyetemi felvételiket szabályozó törvény ami szabályozta a felvehető hallgatók számát és az egyes nemzetiségek arányaihoz kötötték (ha a népesség 10%-a zsidó, 10%-a lehetett az egyetemi hallgatóknak zsidó).
+A I. világháború végén, 400k magyar főleg értelmiségi és munkás ember vándorolt főleg budapest környékére, és mivel ezeknek az embereknek kellett munkát adni, behozták a numerous clausust, az első zsidótörvényt ahol maximum 10% ra korlátozták a zsidók létszámát iskolákban és munkahelyeken, mivel ezeket az értelmiségi munkákat főleg zsidók töltötték be eddig
 
-- IV. Károly-t vissza akarták ültetni a trónra és volt 2 visszatérési kísérlete 1921-ben.
-A második kísérlete után 1921 november 6.-án, Habsburg ház trónfosztása.
+2 királyi puccs kisérlet is volt, és a másodikra megszavazzák a habsburgház trónfosztását
 
-- Teleki hűséges volt IV. Károly felé ezért Horthy elveszti a bizalmát benne és Bethlen Istvánra váltják.
+mivel teleki hűséges volt IV. károlyhoz, nem tudott benne megbizni Horty miklós, ezért helyére betlhen István jön
 
-##### Bethlen kormány
-- Belpolitikai stabilizáció történt mert a parlamentarizmust akarta visszaállítani úgy, hogy a szélsőségeket távol tartotta, jelentéktelen szerepet akart létrehozni a politikában polgári és a szociáldemokratáknak.
+bethlen is a szélsőjobb korlátozását látta a parlamentalizmus fentartására
 
-- Erős kormánypártot akart létrehozni ezért beléptek a kisgazdapártba, a kisgazdapárt meg a KNEP létrehozták az egységes pártot (kisgazdapárt meg a KNEP összeolvadt (csak 1930-ban mennek szét)).
+megjelent a Bethlen-Beyer paktum ami alapján a szélsőjobboldali szociális-demokrata pártot újra legalizálja a kormány viszont cserébe a párt felhagy a propagandával, a kormány tevékenységeinek a birálásával, és 
 
-- Bethlen fellép a szélsőbal és jobboldali csapatok ellen és kiegyezett a parlamentarizmust támogatókkal. 1921 Bethlen-Peyer paktum a pártnak lehetett parlamenti képviselete, saját sajtója viszont lemondott a sztrájkról, tüntetésről, utcai politizálásról.
+Betlhen kormány korlátozta a szavazati jogokat, budapesten kivül mindenhol behozták a nyílt szavazást, ami alapján egy korlátozott parlamentalizmus alakult ki
 
-- Korlátozták a szavazati jogot, műveltségi cenzus és egy helyben lakás, vidéki helyszíneken nyílt szavazás és a választási rendszer (is) garantálta az Egységes Párt hosszú távú hatalmát.
+nőknél30 évre emelik a választójogot
 
-- Korlátozott parlamentanizmus biztosította szélsőségek visszaszorítását ezzel a társadalom nagy rétegét kizárta, hogy az akaratukat érvényesítsék a választásokkor.

@@ -2,16 +2,18 @@
 ---
 <img src="assets/AreformkorfobbkerdesieFocimek.png">
 ### A reformkor
-A politizáló elit célja a társadalmi, gazdasági és kulturális berendezkedés modernizációja volt. Rendi-feudális berendezkedés helyett polgári-akoltmányos rendet akartak, a liberális nemesség saját érdekei elé helyezte az ország érdekeit. 1830-ban vált uralkodóvá az országgyűléseken a "reformügy", Széchenyi Hitel című műve (1830) kijelölte a reformkor programját.
 
-A reformokat ellenezte az udvar, a főpapság és az arisztokrácia (a felső tábla többsége), bázisuk a kiváltságainak elvesztésétől joggal tartó kisnemesség. Ferenc császár elzárkózott mindenfajta reformtól.
+A reformpárti politikusoknak a társadalmi, gazdasági és kulturális berendezkedés modernizációja volt. Rendi-feudális berendezkedés helyett polgári-akoltmányos rendet akartak, a liberális nemesség saját érdekei elé helyezte az ország érdekeit. 
 
-A reformkor jelszava: Haza és haladás (Kölcsey Ferenc), cél a magyar nemzet és a Magyarország felemelkedése és függetlensége és a polgári átalakulás és modernizáció megvalóstása (a liberalizmus jegyében).
+A reformokat ellenezte az udvar, a főpapság és az arisztokrácia, bázisuk a kiváltságainak elvesztésétől joggal tartó kisnemesség. Ferenc császár elzárkózott mindenfajta reformtól.
+
+A reformkor jelszava: Haza és haladás (Kölcsey Ferenc), cél a magyar nemzet és Magyarország felemelkedése, függetlensége, a polgári átalakulás és a modernizáció megvalóstása.
 
 ---
 
 ### Jobbágykérdés
-A reformtábort erősíthette volna, ha a reformok mellé áll a jobbágyság hiszen a nemesség számára sem a hatékony a jobbágymunka ezért a jobbágyokat a jobbágytelekkel együtt kell fölszabadítani, viszont a nemesek azonban nem csak a robotmunkától hanem a birtokuk jelentős részétől is elesnének, ami óriási érdekellentétet jelentett. Erre volt az érdekegyesítés (Wesselényi Miklós).
+
+A reformpártiakat erősíthette volna, ha a reformok mellé áll a jobbágyság hiszen a nemesség számára sem hatékony a jobbágymunka ezért a jobbágyokat a jobbágytelekkel együtt kell fölszabadítani, viszont a nemesek azonban nem csak a robotmunkától hanem a birtokuk jelentős részétől is elesnének, ami óriási érdekellentétet jelentett. Erre volt az érdekegyesítés (Wesselényi Miklós).
 
 Ennek gyakorlati kivitelezését az örökváltság jelentette, a jobbágy a jobbágytelekkel együtt fölszabadul és a nemes kártalanítást kap, ebből modernizálhatja birtokát.
 
