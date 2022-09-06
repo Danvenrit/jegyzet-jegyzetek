@@ -1,9 +1,9 @@
 ### Elméleti jegyzetek
-- [hálózat](Hlózat)
-- [[ITh|IT hálózatbiztonság]]
-- [[Szer|Szerverek és felhőszolgáltatások]]
+- [[Hálózat|Hálózat]]
+- [[IT hálózatbiztonság|IT hálózatbiztonság]]
+- [[Szerverek és felhőszolgáltatások|Szerverek és felhőszolgáltatások]]
 
 ### Gyakorlati jegyzetek
-- [[hálózatgy|Hálózat gyakorlat]]
-- [[IThgy|IT hálózatbiztonság gyakorlat]]
-- [[Szergy|Szerverek és felhőszolgáltatások gyakorlat]]
+- [[Hálózatgyakrolat|Hálózat gyakorlat]]
+- [[IT hálózatbiztonság gyakorlat|IT hálózatbiztonság gyakorlat]]
+- [[Szerverek és felhőszolgáltatások gyakorlat|Szerverek és felhőszolgáltatások gyakorlat]]
