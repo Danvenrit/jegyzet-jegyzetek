@@ -1,0 +1,2 @@
+- sh ip dh bi = ip cimeket mutatja meg, amik már ki vannak adva
+- 

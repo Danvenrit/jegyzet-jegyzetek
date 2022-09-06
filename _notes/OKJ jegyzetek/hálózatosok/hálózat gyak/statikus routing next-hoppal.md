@@ -1,0 +1,1 @@
+ip route "célhálózat" "célhálózat maszkja" "kimenő port"
