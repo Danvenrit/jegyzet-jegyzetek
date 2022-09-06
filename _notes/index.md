@@ -9,3 +9,4 @@
 
 [Informatika (közismereti, emelt, angol)](EmeltinfoINFO) | 10 | 
 
+[OKJ jegyzetek](OKJ_INFO)
