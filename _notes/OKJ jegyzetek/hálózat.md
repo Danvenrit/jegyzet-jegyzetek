@@ -22,4 +22,4 @@
 - **mag** **réteg**
 	- **tűzfal**
 	- **internet**
-![[halozat_acces_layer.png]]
+<img src="assets/halozat_acces_layer.png">
