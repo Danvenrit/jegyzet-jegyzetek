@@ -41,7 +41,8 @@
 ### Hálózati rétegek mélyebben
 <img src="assets/konvergens_halozati_reteget_melyebben.png">
 
- ### A kapcsolt hálózatok funckiói
+
+### A kapcsolt hálózatok funckiói
  - A szolgáltatás minőségének biztosítása (Qos)
  - kiegészítő biztonsága
  - vezeték nélküli megoldások támogatása 
