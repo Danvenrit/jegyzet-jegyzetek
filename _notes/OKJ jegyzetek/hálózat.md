@@ -19,7 +19,28 @@
 ### kapcsolati hálózat hierarchiája
 - **elérési** **réteg**
 - **elosztási** **réteg**
-- **mag** **réteg**
+- **központi** **réteg**
 	- **tűzfal**
 	- **internet**
 <img src="assets/halozat_acces_layer.png">
+![[halozat_acces_layer.png]]
+
+# 2. óra (2022.09.07)
+
+### kapcsolt hálózat tervezési elemei
+- **Hierarchia:** Megkönnyíti a kölönböző rétegek közötti eszközök szerepének megkülönböztetését. Csökkenti a hibatartományt.
+- **Modularitás:** Hozzájárul a hálózat zökkenőmentes bővítéséhez.
+- **Alkalmazkodó képesség:** Teljesíti a hálózat iránti felhasználó elvárásokat, az új eszközök is működjenek a régivel,
+- **Rugalmasság:** Engedélyezi a forgalom intelligens terheléselosztását --> olyan hálózat kell, ami a hálózati terhelés változásakor legalább közepes mértékben tud automatikusan idomulni. --> pl: igények alapján kell választani eszközöket, és a legrugalmassabbat érdemes választani ami működik a legtöbb igénnyel. 
+- *ezek az elvek erősen össze vannak kötve, egy ideális hálózatban mindegyik fontos.* 
+<img src="layerek_halozat.png" height="50%">
+![[layerek_halozat.png]]
+<img src="halozat_layer2.png" height="50%">
+
+![[halozat_layer2.png]]
+### Hálózati rétegek mélyebben
+<img src="konvergens_halozati_reteget_melyebben.png">
+
+
+
+
