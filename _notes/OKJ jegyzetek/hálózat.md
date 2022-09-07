@@ -33,13 +33,13 @@
 - **Alkalmazkodó képesség:** Teljesíti a hálózat iránti felhasználó elvárásokat, az új eszközök is működjenek a régivel,
 - **Rugalmasság:** Engedélyezi a forgalom intelligens terheléselosztását --> olyan hálózat kell, ami a hálózati terhelés változásakor legalább közepes mértékben tud automatikusan idomulni. --> pl: igények alapján kell választani eszközöket, és a legrugalmassabbat érdemes választani ami működik a legtöbb igénnyel. 
 - *ezek az elvek erősen össze vannak kötve, egy ideális hálózatban mindegyik fontos.* 
-<img src="layerek_halozat.png" height="50%">
+<img src="assets/layerek_halozat.png" height="50%">
 ![[layerek_halozat.png]]
-<img src="halozat_layer2.png" height="50%">
+<img src="assets/halozat_layer2.png" height="50%">
 
 ![[halozat_layer2.png]]
 ### Hálózati rétegek mélyebben
-<img src="konvergens_halozati_reteget_melyebben.png">
+<img src="assets/konvergens_halozati_reteget_melyebben.png">
 
 
 
