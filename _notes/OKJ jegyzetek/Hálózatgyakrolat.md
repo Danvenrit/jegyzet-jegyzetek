@@ -18,7 +18,8 @@
 - switchport mode trunk 
 
 - ezután már lehet dhcp 
-<img src="asstets/alinterfesz_cucc-png">
+
+<img src="assets/alinterfesz_cucc-png">
 ![[alinterfesz_cucc.png]]
 
 ### Tétlenség beállítása, és logik block beállítása
