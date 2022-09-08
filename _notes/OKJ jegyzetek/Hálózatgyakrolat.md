@@ -48,11 +48,11 @@
 - cop r st
 
 ### ftp server beállítása
-server
-services 
-ftp
-átnevezed az alap ciscot, jelszót adsz, add
-majd save
+- server
+- services 
+- ftp
+- átnevezed az alap ciscot, jelszót adsz, add
+- majd save
 
 ### routeren ftp user kreálása passworddal
 - config mode
@@ -62,26 +62,26 @@ majd save
 - cop r st
 
 ### tftp szerverre startup config mentése
-R3# mode
-cop st tftp 
-kéri a cél ip címet, általában a szerver gép
-utána kéri a fálj nevet, megadod, egyébként default nevet adni neki
-**ftp szerverre ugyan ez csak "cop st ftp" helyette**
+- R3# mode
+- cop st tftp 
+- kéri a cél ip címet, általában a szerver gép
+- utána kéri a fálj nevet, megadod, egyébként default nevet adni neki
+- **ftp szerverre ugyan ez csak "cop st ftp" helyette**
 
 ### DNS szerver beállítása
-szerver gép
-services fül
-dns fül
-adsz neki nevet, ip cimet (pl c20.hu meg 192.158.0.70)
-addolod
-saveled
-onolod
+- szerver gép
+- services fül
+- dns fül
+- adsz neki nevet, ip cimet (pl c20.hu meg 192.158.0.70)
+- addolod
+- saveled
+- onolod
 
 ### port description (port név)
-mindig a port nevét ird rá
-pl: se0/0/0- portnál
-int se0/0/0 
-des SE_000
+- mindig a port nevét ird rá
+- pl: se0/0/0- portnál
+- int se0/0/0 
+- des SE_000
 
 ### globális config szinten időzóna beállítása
 - clo ti CEST 0   (clock timezone "a zóna")
