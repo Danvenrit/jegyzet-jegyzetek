@@ -78,3 +78,133 @@
 
 
 
+
+# 3. óra (2022.09.08)
+### tárol és továbbit hiballenőrzés 
+- minden
+- 
+- 
+- bejövő kereten hibaellenőrzést hajt végre
+- A teljes keret beérkezése után a kapcsoló összehasonlítja az adategység utolsó mezőjében található ellenőrző összeget (frame-check-sequence, FCS) a saját maga által kiszámított FCS értékkel (lásd store-and-forward-switching ábra alul)
+- A művelet segítségével biztosítja, hogy a keret mentes a fizikai és adatkapcsolati hibáktól. Ha a keret hibamentes, a kapcsoló továbbítja, egyébként pedig eldobja azt.
+<img src="assets/store_and_forward_switching.png">
+![[store_and_forward_switching.png]]
+
+### Töredékmentes továbbitás (fragment free forwarding)
+- A töredékmentes továbbítás a közvetlen kapcsolás módosított változata, amikor a kapcsoló megvárja az ütközési ablak (64 bájt) beérkezését a keret továbbításának megkezdése előtt. Ez azt jelenti, hogy minden keret első része (az adattartalomig bezárólag) ellenőrzésre kerül töredezettség szempontjából. A töredékmentes továbbítási módszer jobb hibaellenőrzést biztosít, mint a gyorstovábbítás, és gyakorlatilag nem növeli a késleltetést.
+- ez a gyorstovábbítás és a "tárol és továbbit" módszer közötti módszer, van rajta ellenőrzés, de gyorsabb is mint a "tárol és továbbít"
+
+### Gyorstovábbítás (rapid frame forwarding)
+- közvetlen kapcsolás esetén a továbbítási döntés a cél MAC-cím beérkezése után azonnal meghozható, a kapcsolónak nem kell megvárni a keret további részeinek megérkezését.
+
+### Ütközési tartományok
+<img src="assets/hal_duma.png">
+![[hal_duma.png]]
+<img src="assets/utkozesi_tartomany.png">
+![[utkozesi_tartomany.png]]
+
+### Hálózati túlterhelés enyhítésén segít:
+- **nagy port sűrűség**
+- **nagy portsebesség**
+- **gyors belső kapcsolás**
+- **nagy puffer méret**
+- **alacsony portonkénti kölcség** --> nem mindegy hogy van egy 50-ezres switch 8 porttal vagy egy 600-ezres switch, de 120 porttal.
+
+switch alapkonfiguráció: 
+- 
+
+
+# 4. óra (2022.09.12)
+dolgozatban: - router kezdeti beállításai
+
+<img src="assets/kapcsolo_kezdeti_beallitasai.png">
+![[kapcsolo_kezdeti_beallitasai.png]]
+
+### Állapot jelzések
+<img src="assets/allapotjelzok.png">
+![[allapotjelzok.png]]
+
+<img src="assets/switch_allapotjelzesek_kep.png">
+![[switch_allapotjelzesek_kep.png]]
+
+**SVI (Switch virtual interaface)** - virtuális kapcsoló interface
+
+<img src="assets/Switch_management_interfesz.png">
+![[Switch_management_interfesz.png]]
+
+<img src="assets/switch_default_gateway.png">![[switch_default_gateway.png]]
+<img src="assets/switch_management_verify.png">
+![[switch_management_verify.png]]
+
+<img src="assets/duplex_speed_config.png">
+![[duplex_speed_config.png]]
+
+### Ellenőrzések
+<img src="assets/veryfication_commands.png">
+![[veryfication_commands.png]]
+
+<img src="assets/interface_status.png">
+![[interface_status.png]]
+
+<img src="assets/running_config.png">
+![[running_config.png]]
+
+<img src="assets/Network_access_layer_issues.png">![[Network_access_layer_issues.png]]
+
+<img src="assets/troubleshooting_switch_media_issues.png">
+![[troubleshooting_switch_media_issues.png]]
+
+<img src="assets/ssh_config.png">
+![[ssh_config.png]]
+- ssh-hoz mindig kell egy domain név és minimum 1024-es rsa kulcs, ás át kell telnetről az ssh-ra transportálni (transport input ssh) , és még esetleg ssh ver 2-re átállítani
+- *ha esetleg valamiért vissza akarnál állni telnetre, akkor (transport input telnet)*
+
+<img src="assets/ssh_a_puttyban.png">
+![[ssh_a_puttyban.png]]
+
+<img src="assets/ssh_tavoli_kapcsolat.png">
+![[ssh_tavoli_kapcsolat.png]]
+
+<img src="assets/veryfiy_ssh_status.png">
+![[veryfiy_ssh_status.png]]
+
+### DHCP-kiéheztetés
+<img src="assets/dhcp_kieheztetes.png">
+![[dhcp_kieheztetes.png]]
+
+### CDP (cisco discovery protocol) 
+- vigyázni kell vele, mert támadók potenciálisan ki tudják használni, ha nem jol kezeljül --> nem érdemes használni 
+
+### bevált biztonsági módszerek
+<img src="assets/bevalt_biztonsagi_modszerek.png">
+![[bevalt_biztonsagi_modszerek.png]]
+<img src="assets/Security_consideration.png">
+![[Security_consideration.png]]
+
+### NTP (network time protocol) configuráció
+- pontos időt hostolja, hogy mindegyi eszközön az idő ugyan az legyen.
+- beállítod az időt, időzonát a host device-on
+- és NTP-t configurálod, és beállítod a többi eszközön
+<img src="assets/NTP_config.png">
+![[NTP_config.png]]
+<img src="assets/NTP_verifying.png">
+![[NTP_verifying.png]]
+
+## Vlanok ismétlése
+- **miért alkalmazunk vlan-okat?:
+	- vele lehet kissebalhálózatokra osztani a hálózatokat
+	- fontos , mert kisebb hibatartományokra lehet osztani, a hálózatot, hiba esetén könnyeb javitani
+	- külön vlan legyen mindenféle osztálynak pl: hr, dolgozók, rendszergazda stb.
+	- biztonságosabb, ha elvannak szeparálva a csoportok
+	- kölcség szempontból olcsóbb lehet
+	- teljesítmény jobb lehet 
+	- rendszergazda csapat hatékonyságát növeli
+	- könyebb menedzselni a hálózatot, embereket stb.
+
+<img src="assets/vlan_groupok.png">
+![[vlan_groupok.png]]
+### Vlan-ok csekkolása
+ <img src="assets/vlan_csekkolása.png">
+ ![[vlan_csekkolása.png]]
+#### Alapértelmezett vlan
+már ide vannak alapból rendelve a portok, és egy új vlannál csak át huzzuk ezeket

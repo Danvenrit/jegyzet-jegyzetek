@@ -94,4 +94,68 @@
 - R1# módban
 - clock set 9:19:00 8 sep 2022
 
+### switch alapkonfiguráció
+- Switch# configure terminal
+- Switch(config)# hostname HQSw1
+- 
+- **Configure the encrypted privileged EXEC password to 'class'.**
+- HQSw1(config)# enable secret class
+- 
+- **Set all line passwords to 'cisco' and require a login, starting with the console. Set vty lines 0 through 15.**
+- HQSw1(config)# line console 0
+- HQSw1(config-line)# password cisco
+- HQSw1(config-line)# login
+- HQSw1(config-line)# line vty 0 15
+- HQSw1(config-line)# password cisco
+- HQSw1(config-line)# login
+- **Exit to global configuration mode. Enter the command to encrypt the plain text passwords.**
+- HQSw1(config-line)# exit
+- HQSw1(config)# service password-encryption
+- 
+- **Configure VLAN 1 with the IP address 192.168.10.2/24 and activate the interface.**
+- HQSw1(config)# interface vlan 1
+- HQSw1(config-if)# ip address 192.168.10.2 255.255.255.0
+- HQSw1(config-if)# no shutdown
+- %LINK-5-CHANGED: Interface Vlan1, changed state to up
+- 
+- **Return directly to privileged EXEC mode and display the current configuration.**
+- HQSw1(config-if)# end
+- HQSw1# show running-config
+- Building configuration...  
+- Current configuration : 1178 bytes  
+- !  
+- version 12.2  
+- no service timestamps log datetime msec  
+- no service timestamps debug datetime msec  
+- service password-encryption  
+- !  
+- hostname HQSw1  
+- !  
+- enable secret 5 $1$mERr$9cTjUIEqNGurQiFU.ZeCi1  
+- !  
+- !  
+- < output omitted >  
+- !  
+- !  
+- interface Vlan1  
+- ip address 192.168.10.2 255.255.255.0  
+- !  
+- !  
+- line con 0  
+- password 7 0822455D0A16  
+- login  
+- !  
+- line vty 0 4  
+- password 7 0822455D0A16  
+- login  
+- line vty 5 15  
+- password 7 0822455D0A16  
+- login  
+- !  
+- !  
+- end  
+- HQSw1#
+
+
+
 

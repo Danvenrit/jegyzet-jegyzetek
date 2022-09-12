@@ -30,33 +30,22 @@
 - **hitelesség**: a hitelesség a sértetlenségen felül, a vevő fél felé garantálja, hogy az adott üzenet a feltételezett küldőtől származik, és annak tartalma nem módosult. --> hitelesség = hitelesség + tájékozatás
 - **letarthatatlanság**: tetszőleges harmadik személy felé is igazolható (pl: ügyvéd, bíró stb.), hogy az adott üzenetet a valódi küldő küldte.
 
-# 2. óra (2022.09.08)
-### tárol és továbbit hiballenőrzés 
-- minden bejövő kereten hibaellenőrzést hajt végre
-- A teljes keret beérkezése után a kapcsoló összehasonlítja az adategység utolsó mezőjében található ellenőrző összeget (frame-check-sequence, FCS) a saját maga által kiszámított FCS értékkel (lásd store-and-forward-switching ábra alul)
-- A művelet segítségével biztosítja, hogy a keret mentes a fizikai és adatkapcsolati hibáktól. Ha a keret hibamentes, a kapcsoló továbbítja, egyébként pedig eldobja azt.
-<img src="assets/store_and_forward_switching.png">
-![[store_and_forward_switching.png]]
 
-### Töredékmentes továbbitás (fragment free forwarding)
-- A töredékmentes továbbítás a közvetlen kapcsolás módosított változata, amikor a kapcsoló megvárja az ütközési ablak (64 bájt) beérkezését a keret továbbításának megkezdése előtt. Ez azt jelenti, hogy minden keret első része (az adattartalomig bezárólag) ellenőrzésre kerül töredezettség szempontjából. A töredékmentes továbbítási módszer jobb hibaellenőrzést biztosít, mint a gyorstovábbítás, és gyakorlatilag nem növeli a késleltetést.
-- ez a gyorstovábbítás és a "tárol és továbbit" módszer közötti módszer, van rajta ellenőrzés, de gyorsabb is mint a "tárol és továbbít"
+# 2. óra (2022.09.12)
+- **cryptográfia módszerek** - a kommunikáció lehallgatása esetén se tudja kiszedni belőle az információt a támadó --> mert le van titkosítva --> az információ lehallgatása után, még vissza kéne kódólni a titkosítást a titkos kulcs ismerete nélkül
+	- a tiktosításnál fontos, hogy valószínűség alapján kis eséllyel tudja kitalálni a titkos kulcsot
+- **távoli azonosítás** - elektronikusan végzett azonosítás --> már első alkalomtól tipikusan külső szereplő bevonásával kell megoldani --> a távoli azonosítás az elektronikus igazolványok rendszerével, illetve ezek hitelességét biztosító PKI (publikus kulcs infrastructúra)-kkel oldják meg.
 
-### Gyorstovábbítás (rapid frame forwarding)
-- közvetlen kapcsolás esetén a továbbítási döntés a cél MAC-cím beérkezése után azonnal meghozható, a kapcsolónak nem kell megvárni a keret további részeinek megérkezését.
-
-### Ütközési tartományok
-<img src="assets/hal_duma.png">
-![[hal_duma.png]]
-<img src="assets/utkozesi_tartomany.png">
-![[utkozesi_tartomany.png]]
-
-### Hálózati túlterhelés enyhítésén segít:
-- **nagy port sűrűség**
-- **nagy portsebesség**
-- **gyors belső kapcsolás**
-- **nagy puffer méret**
-- **alacsony portonkénti kölcség** --> nem mindegy hogy van egy 50-ezres switch 8 porttal vagy egy 600-ezres switch, de 120 porttal.
-
-switch alapkonfiguráció: 
-- 
+### Biztonsági elvek
+- **titkolózásra alapozott biztonság** - STO (Security through obscurity) --> valamiféle információ biztonságban tartása és fedése alapján működnek.
+- **teljes közlés** - semmi biztonság --> szakmailag: semmit se szabad, csak azt amit külön engedélyezünk.
+- **támadási módszerek** - pl: A támadó hasznot akar húzni a támadásból, vagy pl: kárt akar okozni, esetleg pl: a támadó arra akarja felhivni a figyelmet, hogy kiskapuk vannak a rendszerben (whitehat hacker). 
+- **belső támadások** 
+	- **FORK bomba** - rendszer hibán alapszik, és felzabálja a cpu-t és a ramot, erőforrás korlátozással lehet védekezni ellene.
+	- **PUFFER túlcsordulás (puffer overload)** - ha túlírjuk a puffer méretet, abból problémák lesznek.
+	- **ismert TEMP** - kihasználj az ideiglenes mappákat, és ezt kihasználva csinálnak valamit 
+	- **exploit-ok** - előre gyártott programocskák, amelyek rendszergazdai jogköröket adhatnak az új hálózatba belépőknek --> kihasználták különféle programok biztonsági hibáit.
+	- **SE (social engineering)** - nem biztonságosan használja a felhasználó a rendszert --> pl: illető ugyan azt a jelszót használja és egy fish attackba ellopják a jelszavát, és mindenébe be tud lépni --> emberek bizalomra hajlandóságát kihasználó technika
+		- **adathalászat (fish attack)** - ellopják valami fontos adatodat pl: belépési adatok
+- **külső támadások** 
+	- **hamisítás alapjú támadások** - többségében úgy működnek, hogy az előre beállított protokolokat hamisítja, kihasználja.
