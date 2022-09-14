@@ -81,10 +81,7 @@
 
 # 3. óra (2022.09.08)
 ### tárol és továbbit hiballenőrzés 
-- minden
-- 
-- 
-- bejövő kereten hibaellenőrzést hajt végre
+- minden bejövő kereten hibaellenőrzést hajt végre
 - A teljes keret beérkezése után a kapcsoló összehasonlítja az adategység utolsó mezőjében található ellenőrző összeget (frame-check-sequence, FCS) a saját maga által kiszámított FCS értékkel (lásd store-and-forward-switching ábra alul)
 - A művelet segítségével biztosítja, hogy a keret mentes a fizikai és adatkapcsolati hibáktól. Ha a keret hibamentes, a kapcsoló továbbítja, egyébként pedig eldobja azt.
 <img src="assets/store_and_forward_switching.png">
@@ -190,6 +187,7 @@ dolgozatban: - router kezdeti beállításai
 <img src="assets/NTP_verifying.png">
 ![[NTP_verifying.png]]
 
+# 5. óra (2022.09.14)
 ## Vlanok ismétlése
 - **miért alkalmazunk vlan-okat?:
 	- vele lehet kissebalhálózatokra osztani a hálózatokat
@@ -208,3 +206,95 @@ dolgozatban: - router kezdeti beállításai
  ![[vlan_csekkolása.png]]
 #### Alapértelmezett vlan
 már ide vannak alapból rendelve a portok, és egy új vlannál csak át huzzuk ezeket
+
+
+### VoIP (voice over IP)
+**fontos dolgok a VoIP-hoz**
+- minimum sávszélességnek meg kell lennie
+- prioritási sorrendet kell tudnia építeni
+- a torlódásokat képesnek kell lennie elkerülni
+- max 150 ms késleltetés legyen, mert utána már kényelmetlen kommunikálni
+
+### VLAN trunk-ölése
+<img src="assets/Vlan_mezo_cimkek.png">
+![[Vlan_mezo_cimkek.png]]
+
+### Vlan tartományok
+<img src="assets/vlan_tartomanyok.png">
+![[vlan_tartomanyok.png]]
+
+<img src="assets/create_and_check_Vlans.png">
+![[create_and_check_Vlans.png]]
+
+<img src="assets/assing_ports_to_vlans.png">
+![[assing_ports_to_vlans.png]]
+
+##### Vlan interface csekkolás
+<img src="assets/vlan_interface_verification.png">
+![[vlan_interface_verification.png]]
+
+<img src="assets/delete_vlan.png">
+![[delete_vlan.png]]
+
+#### **Display the switchport information for F0/18.**
+- S1# show interfaces F0/18 switchport
+- Name: Fa0/18  
+- Switchport: Enabled  
+- Administrative Mode: static access  
+- Operational Mode: down  
+- Administrative Trunking Encapsulation: dot1q  
+- Operational Trunking Encapsulation: native  
+- Negotiation of Trunking: Off  
+- Access Mode VLAN: 20 (Students)  
+- Trunking Native Mode VLAN: 1 (default)  
+- Voice VLAN: none
+
+<img src="assets/trunking.png">
+![[trunking.png]]
+
+<img src="assets/veryfing_trunking.png">
+![[veryfing_trunking.png]]
+
+### DTP (Dinamikus trunk protokol)
+- cisco specifikus fos, nem kell, nem ajánlott használni
+<img src="assets/DTP_fosok.png">
+![[DTP_fosok.png]]
+
+<img src="assets/DTP_interface_modes.png">
+![[DTP_interface_modes.png]]
+
+### Vlan-ok elleni támadások
+- **Vlan Ugrás támadás (switch spoofing attack)** - A vlan ugrást használja ki 
+- **kettős cimkézésből eredő ugrásos támadás** - 
+<img src="assets/kettos_cimkes_ugras_vlan_attack.png">
+![[kettos_cimkes_ugras_vlan_attack.png]]
+
+
+# 6.óra (2022.09.?)
+## A forgalomirányítás alapjai
+-  *ha két hálózatot össze akar valaki kötni ahhoz kell egy router* 
+
+<img src="assets/Network_characteristics.png">
+![[Network_characteristics.png]]
+<img src="assets/network_characteristics_magyarul.png">
+![[network_characteristics_magyarul.png]]
+
+- **router confignál alap dolgok**
+- hostname-elni alap
+- interfaceket descriptionelni alap --> valós hálózatokban beleirod az információkat, pl , mire kell, honnan hova, melyik teremben van, melyik épületben stb.
+- minimum a három szokásos szintet jelszavazva alap
+- crypto key gen, és minium 1024-es legyen de inkább több
+- bekötött portok cimzése, bekapcsolása, nem használt portok lekapcsolása
+- blokkolások configje, pl login block, jelszó többszörös elrontása után stb.
+- tétlenség kezelése, pl 2 perc no használat után ujra kérjen logint
+
+- **router feladati**
+	- legrövidebb út tervezésem kezelése
+	- továbbítás
+
+- **csomagtovábbító módszerek**
+	- Folyamatkapcsolás (Process switching) - a célcím alapján küldi tovább az adatot ie: terelgetés
+	- Gyorskapcsolás (Fast switching) - nem foglalkozik nagyon a jó út megtalálásával csak kiküldi valamelyik portják ie: tologatás --> majd a következő router megoldja
+	- Cisco Express Forwarding (Cisco Expressz Továbbítás, CEF) - cisco-s fos, nem kell használni
+
+- 

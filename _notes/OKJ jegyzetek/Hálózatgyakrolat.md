@@ -159,3 +159,6 @@
 
 
 
+
+### IP csekkolása console-on
+- ipconfig

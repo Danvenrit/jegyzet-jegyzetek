@@ -49,3 +49,27 @@
 		- **adathalászat (fish attack)** - ellopják valami fontos adatodat pl: belépési adatok
 - **külső támadások** 
 	- **hamisítás alapjú támadások** - többségében úgy működnek, hogy az előre beállított protokolokat hamisítja, kihasználja.
+
+# 3. óra (2022.09.14)
+- szolgáltatás lebénítás - DOS, DDOS attack
+	- **merevlemez kapacitás felhasználása** - főleg webszerverek, levelezőszerverek, stb.
+	- **számításkapacitás felhasználás** - terheli a host processzort 
+	- **sávszélesség elleni támadás** - hasznos forgalmat haszontalan forgalommal szoritja ki - lassú lessz minden
+	- egyéb 
+		- DHCP kiéheztetés
+		- switch-en MAC-cím tábla túlcsúrdítás
+		- SYN flag (synchronisation flag) elárasztás  - ezzekkel a hamis kérésekkel árasztja el az eszközt
+		- LAND attack (Local Area Network Denial attack) 
+		- SMURF attack 
+- **IPSEC** - internet security protocol
+- **SIFFING** - hálózat forgalom megfigyelése
+- **PORTSCAN** - portok scannelése 
+
+### A védekezés külön módjai
+- **belső támadások ellen**
+	- puffer túlcsordulás - normális implementálás
+	- TEMP mappák, fájlok elleni kihasznál - ezek a fontos mappák dinamikusak legyenek --> esetleg x időszakonként, törlődik a mappa és a másik jön helyette
+	- HIBA javítások és frissítések letöltése tartása - főleg security patchekre igaz
+	- szerver támadások ellen - a legfontosabb adatokat, pótszervereken tárolni, pl fő szerver, pót szerver, és egy offline pót szerver
+	- 
+- **külső támadások ellen**
