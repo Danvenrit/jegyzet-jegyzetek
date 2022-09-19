@@ -270,7 +270,7 @@ már ide vannak alapból rendelve a portok, és egy új vlannál csak át huzzuk
 ![[kettos_cimkes_ugras_vlan_attack.png]]
 
 
-# 6.óra (2022.09.?)
+# 6.óra (2022.09.19)
 ## A forgalomirányítás alapjai
 -  *ha két hálózatot össze akar valaki kötni ahhoz kell egy router* 
 
@@ -297,4 +297,152 @@ már ide vannak alapból rendelve a portok, és egy új vlannál csak át huzzuk
 	- Gyorskapcsolás (Fast switching) - nem foglalkozik nagyon a jó út megtalálásával csak kiküldi valamelyik portják ie: tologatás --> majd a következő router megoldja
 	- Cisco Express Forwarding (Cisco Expressz Továbbítás, CEF) - cisco-s fos, nem kell használni
 
-- 
+- **Otthoni vagy kis irodai eszközök csatlakozási módjai:**
+	-   Laptopok és tabletek vezeték nélkül kapcsolódnak az otthoni forgalomirányítóhoz.
+	-   A hálózati nyomtató Ethernet kábellel kapcsolódik az otthoni forgalomirányító kapcsolóportjához.
+	-   Az otthoni forgalomirányító a szolgáltató kábelmodeméhez Ethernet kábellel kapcsolódik.
+	-   A kábelmodem pedig az internetszolgáltató (Internet Service Provider, ISP) hálózatához kapcsolódik.
+	
+- **Ahhoz, hogy hozzáférjenek a hálózathoz, az eszközöknek a következő IP-cím információkkal kell rendelkezniük:**
+	-   **IP-cím** - Egyedileg azonosít egy állomást a helyi hálózaton.
+	-   **Alhálózati maszk** - Meghatározza az állomás helyi alhálózatát.
+	-   **Alapértelmezett átjáró** - Meghatározza, hogy melyik forgalomirányítónak kell a csomagot küldeni akkor, ha a cél nem ugyanazon az alhálózaton van.
+
+
+- **kell:**
+	-   Az eszközök nevei
+	-   A használt interfészek
+	-   IP-címek és alhálózati maszkok
+	-   Alapértelmezett átjárók címei
+	-   **Topológia diagram** - Vizuális áttekintést ad a fizikai kapcsolatokról és a logikai harmadik rétegbeli címzésről. Legtöbbször valamilyen megfelelő programmal készítik, ilyen lehet a Microsoft Visio.
+	-   **Címtáblázat** - Olyan táblázat, melyben az eszközök nevei, interfészei, IPv4-címei, alhálózat maszkjai és alapértelmezett átjárói szerepelnek.
+<img src="assets/documenting_networking_adresses.png">
+![[documenting_networking_adresses.png]]
+
+- **Egy állomás az IP-cím információit kaphatja:**
+	-   **Statikusan** - Az állomás IP-címét, alhálózati maszkját és alapértelmezett átjáróját kézzel állítják be. A DNS-szerver IP-címét szintén be lehet állítani.
+	-   **Dinamikusan** - Az IP-cím információkat egy szerver biztosítja DHCP protokollal. A DHCP-szerver érvényes IP-címet, alhálózati maszkot és alapértelmezett átjárót ad a végberendezéseknek. A szerver ezeken felül egyéb információkat is átadhat még.
+
+- **A konzol hozzáféréshez szükséges:**
+	-   **Konzolkábel** - RJ-45 - DB-9 konzolkábel
+	-   **Terminálemulációs szoftver** - Tera Term, PuTTY, HyperTerminal
+
+<img src="assets/Switch_Vlan1_config.png">
+![[Switch_Vlan1_config.png]]
+
+- **A cisco router konfigurálása során a következő alapvető beállításokat kell először végrehajtani:**
+	-   **Eszköz elnevezése** - Megkülönbözteti az eszközt többi forgalomirányítótól.
+	-   **Hozzáférés biztonságossá tétele** - Biztonságossá kell tenni a privilegizált és felhasználói módot, a Telnet hozzáférést, és a legmagasabb szintű jelszótitkosítást kell beállítani.
+	-   **Beállítani a belépési üzenetet** - Figyelmeztetés az engedély nélküli hozzáférésről
+
+<img src="assets/jelszavazás.png">
+
+##### Router alapkonfig
+- **Enter the commands to configure the name of the router as 'R2'.**
+- Router# configure terminal
+- Enter configuration commands, one per line. End with CNTL/Z.
+- Router(config)# hostname R2
+- **Configure 'class' as the secret password.**
+- R2(config)# enable secret class
+- **Configure 'cisco' as the console line password and require users to login. Then exit line configuration mode.**
+- R2(config)# line console 0
+- R2(config-line)# password cisco
+- R2(config-line)# login
+- R2(config-line)# exit
+- **Configure 'cisco' as the vty password for lines 0 through 4 and require users to login.**
+- R2(config)# line vty 0 4
+- R2(config-line)# password cisco
+- R2(config-line)# login
+- **Exit line configuration mode and encrypt all clear text passwords.**
+- R2(config-line)# exit
+- R2(config)# service password-encryption
+- **Enter the banner 'Authorized Access Only!' and use # as the delimiting character.**
+- R2(config)# banner motd #Authorized Access Only!#
+- **Exit global configuration mode and save the configuration.**
+- R2(config)# exit
+- R2# copy running-config startup-config
+- Destination filename [startup-config]?  
+- Building configuration...  
+- OK
+- R2#  
+- **You successfully configured R2 with initial settings.**
+
+
+<img src="assets/intg00config.png">
+![[intg00config.png]]
+
+
+#### Loopback interface config
+<img src="assets/loopback.png">
+![[loopback.png]]
+
+##### Command history csekkolása
+<img src="assets/command_history.png">
+![[command_history.png]]
+
+<img src="assets/Packet_Forwarding_Decision_Process.png">
+![[Packet_Forwarding_Decision_Process.png]]
+
+- **néhány dinamikus protokollt az általuk használt mértékkel:**
+	-   **Routing Information Protocol (RIP)** - Ugrásszám (hop count)
+	-   **Open Shortest Path First (OSPF)** - A Cisco által használt költség a forrástól célig összegzett sávszélességen alapul.
+	-   **Enhanced Interior Gateway Routing Protocol (EIGRP)** - Sávszélesség, késleltetés, terhelés, megbízhatóság
+
+##### alapértelmezett gyorsaságok 
+- a kevesebb jobb
+- fontosak:
+	- Belső EIGRP --> 90
+	- statikus routing --> 1
+	- RIP --> 120
+	- OSPF -- >110
+<img src="assets/Administrative_distances.png">
+![[Administrative_distances.png]]
+
+<img src="assets/A_Show_ip_route_mélyen.png">
+![[A_Show_ip_route_mélyen.png]]
+
+<img src="assets/routing_table.png">
+![[routing_table.png]]
+
+<img src="assets/network_entry_identifiers.png">
+![[network_entry_identifiers.png]]
+<img src="assets/network_entry_identifiers_magyarul.png">
+![[network_entry_identifiers_magyarul.png]]
+
+<img src="assets/Direcrtly_connected_network_entry_identifiers.png">
+![[Direcrtly_connected_network_entry_identifiers.png]]
+
+##### Statikus routing példa
+<img src="assets/statikus_ip_routre_pelda.png">
+![[statikus_ip_routre_pelda.png]]
+
+<img src=assets/statikus_default_ip_route.png>
+![[statikus_default_ip_route.png]]
+
+<img src ="assets/supported_ipv6_routing_protocols.png">
+![[supported_ipv6_routing_protocols.png]]
+
+# 7. óra (2022.09.19, 09.)
+### Vlanok közti forgalomirányítás
+<img src="assets/inter_vlan_routing.png">
+![[inter_vlan_routing.png]]
+
+### Hagyományos vlan routing
+<img src="assets/hagyomanyos.png">
+![[hagyomanyos.png]]
+
+<img src="router_on_a_stick.png">
+![[router_on_a_stick.png]]
+
+<img src="assets/switch_based_routing.png">
+![[switch_based_routing.png]]
+
+<img src="assets/hagyomanyos_vlan_routing_config.png">
+![[hagyomanyos_vlan_routing_config.png]]
+
+<img src="assets/router_on_a_stick_config.png">
+![[router_on_a_stick_config.png]]
+
+<img src="assets/configuring_router_on_a_stick_.png">
+![[configuring_router_on_a_stick_.png]]
+

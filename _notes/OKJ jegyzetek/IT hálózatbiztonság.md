@@ -50,7 +50,7 @@
 - **külső támadások** 
 	- **hamisítás alapjú támadások** - többségében úgy működnek, hogy az előre beállított protokolokat hamisítja, kihasználja.
 
-# 3. óra (2022.09.14)
+# 3. óra (2022.09.14, 09.19)
 - szolgáltatás lebénítás - DOS, DDOS attack
 	- **merevlemez kapacitás felhasználása** - főleg webszerverek, levelezőszerverek, stb.
 	- **számításkapacitás felhasználás** - terheli a host processzort 
@@ -66,10 +66,39 @@
 - **PORTSCAN** - portok scannelése 
 
 ### A védekezés külön módjai
-- **belső támadások ellen**
+- **belső támadások**
 	- puffer túlcsordulás - normális implementálás
 	- TEMP mappák, fájlok elleni kihasznál - ezek a fontos mappák dinamikusak legyenek --> esetleg x időszakonként, törlődik a mappa és a másik jön helyette
 	- HIBA javítások és frissítések letöltése tartása - főleg security patchekre igaz
 	- szerver támadások ellen - a legfontosabb adatokat, pótszervereken tárolni, pl fő szerver, pót szerver, és egy offline pót szerver
-	- 
-- **külső támadások ellen**
+	- brute force - adott karakterkészletből pl 7 hosszú jelszó, végigpróbálja -> hatalmas mennyiségű próbálkozás, és idő --> megoldás loginblock
+- **külső támadások **
+	- fontos
+		- követjük az adatforgalmat
+		- titkosítjuk az adatkapcsolati hálózatokat
+		- rendszeresen ellenőrizzük a nyitott portokat
+		- jelszavazzuk, login block, login timeout stb beállítása
+	- snifferek ellenőrzése --> általában úgy néz körül hogy az egész hálózatot pingelgeti
+		- SYN flag --> used to initiate connection
+		- FIN flag --> terminates connection
+	 - Távoli operációs rendszerek vizsgálása (újlenyomat)
+		 - megtudni a vizsgált illető milyen operációs rendszert fut -->
+
+- **Naplózás**
+	- A hálózatunkban történt eseményeket, pontos időbélyeggel, fontos információval naplózni --> ha bármi hiba van, vagy támadás ér, könnyeb helyrehozni
+	- fontos: milyen információt naplózzunk, és milyen sűrűséggel --> ha minden dolgot naplózunk a saját rendszerünket bénítjuk le, kell egy egyensúj
+	- figyelni kell: x idő után a naplófálj betelítse a tárhelyet
+	- fontos naplózni: 
+		- minden hálózatba és ból való kilépést, a sikerest és a sikertelent is --> sok információ van benne: pl elírásból való, vagy támadásból való stb stb
+		- erőforrás használat
+		- dhcp kiosztások
+- **mindenből a secure verziót használjunk** 
+	- SSL/TLS - A type of digital security that allows encrypted communication between a website and a web browser
+	- HTTPS 
+	- TPS
+	- POP3S
+
+- SSL kézfogás --> kulcsoknak rendezése
+	- **pre master secret** --> 384 bites véletlen szám --> a kliens hozza létre --> titkosítja a szerver nyilvános kulcsával, és elküldi a szervernek --> a server megpróbálja decodolni a saját kulcsával --> ha sikerül akkor ő is megtudta a pre master secretet --> ebből lesz meg a master secret
+	- **master secret** --> 48 byte-os titkosított adatcsomag --> master secretből lesz egy session key 
+	- **session key** -->ez lesz a kulcs amit a kliens meg a szerver használni fog egymással
