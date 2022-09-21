@@ -422,7 +422,7 @@ már ide vannak alapból rendelve a portok, és egy új vlannál csak át huzzuk
 <img src ="assets/supported_ipv6_routing_protocols.png">
 ![[supported_ipv6_routing_protocols.png]]
 
-# 7. óra (2022.09.19, 09.)
+# 7. óra (2022.09.19)
 ### Vlanok közti forgalomirányítás
 <img src="assets/inter_vlan_routing.png">
 ![[inter_vlan_routing.png]]
@@ -446,4 +446,49 @@ már ide vannak alapból rendelve a portok, és egy új vlannál csak át huzzuk
 <img src="assets/configuring_router_on_a_stick_.png">
 ![[configuring_router_on_a_stick_.png]]
 
+<<<<<<< Updated upstream
 <img src="assetst/aron/asd1.png">
+=======
+
+# 8. óra (2022.09.21)
+kezdés volt: netacad course: 6.1.1.2
+
+<img src="assets/next_hop_router_router_config.png">
+![[next_hop_router_router_config.png]]
+
+<img src="assets/veryfing_tatic_routing.png">
+![[veryfing_tatic_routing.png]]
+
+<img src=assets/directly_connected_static_routing.png>
+![[directly_connected_static_routing.png]]
+
+<img src=assets/default_static_routing.png>
+![[default_static_routing.png]]
+
+<img src=assets/ipv6_unicast_routing.png>
+![[ipv6_unicast_routing.png]]
+
+<img src=assets/veryfing_ipv6_routing.png>
+![[veryfing_ipv6_routing.png]]
+
+<img src=assets/ipv6_next_hop_static_routing.png>
+![[ipv6_next_hop_static_routing.png]]
+
+<img src=assets/ipv6_static_directly_connected_routing.png>
+![[ipv6_static_directly_connected_routing.png]]
+
+<img src=assets/default_static_ipv6_route_syntax.png>
+![[default_static_ipv6_route_syntax.png]]
+
+<img src=assets/ipv6_default_static_route.png>
+![[ipv6_default_static_route.png]]
+
+<img src=assets/cim_osztalyok.png>
+![[cim_osztalyok.png]]
+
+<img src=assets/cim_osztyalyok_magyarazat_hun.png>
+![[cim_osztyalyok_magyarazat_hun.png]]
+6.3.1.3
+
+
+>>>>>>> Stashed changes
