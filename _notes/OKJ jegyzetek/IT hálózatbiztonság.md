@@ -102,3 +102,44 @@
 	- **pre master secret** --> 384 bites véletlen szám --> a kliens hozza létre --> titkosítja a szerver nyilvános kulcsával, és elküldi a szervernek --> a server megpróbálja decodolni a saját kulcsával --> ha sikerül akkor ő is megtudta a pre master secretet --> ebből lesz meg a master secret
 	- **master secret** --> 48 byte-os titkosított adatcsomag --> master secretből lesz egy session key 
 	- **session key** -->ez lesz a kulcs amit a kliens meg a szerver használni fog egymással
+
+# 4.óra (2022.09.21)
+SSL kézfogás 
+- a kliens **elküldi** a szervernek az **SSL protokoll verzió számát**, egy **viszony azonosító számot**,  az **általa használni kívánt titkosítási paramétereket** és a **tömörítési módszert** (4 dolog)
+- A szerver **válaszként** elküldi a **saját SSL protokoll verzió számát**, a viszony azonosítót, a saját titkosítási beállításait, a saját tanusítványát (4 dolog)
+- A **kliens** megpróbálja **hitelesíteni** a **szervert** (ha nem sikerül akkor vége a folyamatnak)
+- A **kapott** adatok **alapján** a **kliens** **generál** egy **pre master secretet**, ezt **kódolja** a **szerver** **nyílvános** **kulcsával** és végül ezt a **titkosított értéket elküldi** a szervernek
+- A szerver a saját titkos kulcsával, dekódolja a pre master secret értékét és ezt felhasználva létre hoz egy master secret értéket
+- mind a kliens mind a szerver létre hozzák a viszony kulcsokat, egy közös algoritmus alapján (ezek szimetrikus kúlcsok, amiket az üzenetek titkosítására, és az adatok sértettlenségének biztosítására vannak használva)
+- Kliens --> Szerver : A kézfogás a részéről befejeződött
+- Szerver --> Kliens : A kézfogás az ő oldaláról is kész
+
+# A szerver hitelesítése
+**A szerver tanusítvány tartalma**
+	-  szerver nylvános kulcs
+	- A szerver neve
+	- A tanusítvány érvényesség ideje
+	- A tanusítvány kiállítójának a neve (CA)
+	- A kiállító digitális aláírása
+**A kliens által karban tartott lista a megbízhatónak tartott CA-k ról**
+	- A kiállító neve
+	- A nyílvános kúlcsa
+	- A digitális aláírása
+**A sikeres hitelesítés részei**
+	- Adott pilanatba a szerver tanusítványának érvényességének ellenörzése
+	- A CA-nak a neve, benne kell lennie a megbízhatósági listájába
+	- A listában szereplő nyílvános kulcs segítségével, ellenőrizhető legyen a CA digitális aláírásának érvényessége
+	- A szerver tanusítványában szereplő neve meg kell egyezen a kliens által aktuálisan ismert szerver névvel (Ezzel próbálják kivédeni a közbe ékelődést)
+	- Ezután a sikeres hitelesítéssel mehet tovább az SSH folyamat
+## A kliens hitelesítése##
+**A kliens tanusítványának részei**
+	- A kliens nyílvános kulcsa
+	- A kliens neve
+	- A tanusítványának érvényességének ideje
+	- A CA neve
+	- A CA digitális aláírása
+
+# Forgalomszűrés hozzáférési listák használatával
+## Biztonság
+A vállalati hálózaton belül a biztonság alapvető fontosságu
+		-

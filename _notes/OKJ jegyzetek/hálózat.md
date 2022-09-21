@@ -446,3 +446,4 @@ már ide vannak alapból rendelve a portok, és egy új vlannál csak át huzzuk
 <img src="assets/configuring_router_on_a_stick_.png">
 ![[configuring_router_on_a_stick_.png]]
 
+<img src="assetst/aron/asd1.png">
