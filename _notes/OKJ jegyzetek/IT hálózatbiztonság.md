@@ -146,37 +146,37 @@ A vállalati hálózaton belül a biztonság alapvető fontosságu
 
 # 5. óra (2022.09.26)
 ### ACL 
-<img src=+assets/1.png>
+<img src="/assets/1.png">
 ![[1.png]]
-<img src=+assets/2.png>
+<img src="/assets/2.png">
 ![[2.png]]
-<img src=+assets/3.png>
+<img src="/assets/3.png">
 ![[3.png]]
-<img src=+assets/4.png>
+<img src="/assets/4.png">
 ![[4.png]]
-<img src=+assets/5.png>
+<img src="/assets/5.png">
 ![[5.png]]
-<img src=+assets/6.png>
+<img src="/assets/6.png">
 ![[6.png]]
-<img src=+assets/7.png>
+<img src="/assets/7.png">
 ![[7.png]]
-<img src=+assets/8.png>
+<img src="/assets/8.png">
 ![[8.png]]
-<img src=+assets/9.png>
+<img src="/assets/9.png">
 ![[9.png]]
-<img src=+assets/10.png>
+<img src="/assets/10.png">
 ![[10.png]]
-<img src=+assets/11.png>
+<img src="/assets/11.png">
 ![[11.png]]
-<img src=+assets/12.png>
+<img src="/assets/12.png">
 ![[12.png]]
-<img src=+assets/13.png>
+<img src="/assets/13.png">
 ![[13.png]]
-<img src=+assets/14.png>
+<img src="/assets/14.png">
 ![[14.png]]
-<img src=+assets/15.png>
+<img src="/assets/15.png">
 ![[15.png]]
-<img src=+assets/16.png>
+<img src="/assets/16.png">
 ![[16.png]]
-<img src=+assets/17.png>
+<img src="/assets/17.png">
 ![[17.png]]
