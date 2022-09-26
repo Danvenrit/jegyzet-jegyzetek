@@ -492,3 +492,6 @@ kezdés volt: netacad course: 6.1.1.2
 
 
 >>>>>>> Stashed changes
+
+
+
