@@ -180,3 +180,7 @@ A vállalati hálózaton belül a biztonság alapvető fontosságu
 ![[16.png]]
 <img src="/assets/17.png">
 ![[17.png]]
+
+# 6. óra (2022.10.03) 
+8.1.2.2 től 8.2.4.1 ig
+8.2.4.1 től nemto, de kell ACL majd
