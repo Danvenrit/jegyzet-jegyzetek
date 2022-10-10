@@ -184,3 +184,7 @@ A vállalati hálózaton belül a biztonság alapvető fontosságu
 # 6. óra (2022.10.03) 
 8.1.2.2 től 8.2.4.1 ig
 8.2.4.1 től nemto, de kell ACL majd
+11.1.3.1 -től - 
+doga csütörtök péntek
+
+
