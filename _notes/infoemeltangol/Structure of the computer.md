@@ -1,21 +1,30 @@
 ### Neumann-principle (1946)
-- has to be completely electronical, and has to have a central control system 
-- has to process instructions one by one
-- has to use binary number system 
-- should store data and programs on internal memory and storage
-- has to be Turing machine based
-	- First Neumann computer: EDVAC
+- The Neumann-principle was worked out in 1946 and is the basis for the ideal operation of a computer
+- the five main principle: 
+	- has to be completely electronical, and has to have a central control system 
+	- has to process instructions one by one
+	- has to use binary number system 
+	- should store data and programs on internal memory and storage
+	- has to be Turing complete
+		- Turing complete ---> if a computers is universally Turing machine based, it can do basic mathematical operations, so given enough time, it can do basically any kind of calculations. All of todays computers are Turing complete as well.
+		- First Neumann computer: EDVAC
 ---
 ### Neumann like computer structure
 - a CPU has to have 
 	- Control Unit (CU)
+		- It controls all the CPU-s other parts, such that they are in sync, and can work together properly
 	- Arithmetical and Logical Unit (ALU)
+		- data is mainly processed here, it does all the calculations happening in a computer. (today though ALU-s are fully integrated into micro processor parts)
 	- Register Block
-	- Flash Memory - for cashing
-	- Mathematical Coprocessor
+		- it is the smallest capacity memory that is directly accessible by the CPU and has very low latency, and very fast read and write speeds. It feeds the CPU important data like instructions, storage address, or any kind of bit sequence
+	- Flash Memory
+		- in this context, flash memory is typically used for storing firmware, operating systems, and data in electronic devices. It serves as a rewritable storage medium that retains information even when the power is turned off.
 - Memory
+	- this is the primary storage used to hold instructions and data during program execution. It is typically volatile, meaning it loses its contents when power is turned off.
 - Hard storage
+	- It is used for long-term storage of data and programs. It is also non-volatile so it retains data even after power is cut.
 - Peripherals (I/O)
+	- creates a relationship between the user and computers such that the user can more easily use the computer
 ---
 ### The structure of most computers today
 - Today's machines are following the Neumann principles
@@ -29,13 +38,14 @@
 		- Hard Drives
 		- Peripherals
 		- Power supply
+
 - Main parts of todays computers in detail
 	- **Peripherals**
 		- Connectivity (I/O -> controlled by the I/O controller)
 			- Extends the capabilities of the host machine 
 			- Are optional in nature
 			- General external connections(e.g. USB)
-			- ie: printer, keyboard, mouse, headphones, monitor and a lot more
+			- i.e.: printer, keyboard, mouse, headphones, monitor and a lot more
 	- **CPU**
 		- control unit - controls the data coming in and out of the CPU
 		- ALU - data processing, calculations, etc.
@@ -49,11 +59,11 @@
 				-  a Bus: 
 					- which is a connection between components or devices connected to a computer
 				- a Bus controller
-					- which is controlling information between the CPU and all kinds of componets and devices.
+					- which is controlling information between the CPU and all kinds of components and devices.
 			- bus types:
 				- internal bus - connects internal components to the CPU
 				- external bus - connects external devices to the CPU
-				- paralell bus -  data is transported in several bits at a time
+				- parallel bus -  data is transported in several bits at a time
 				- serial bus - data is transported one bit at a time
 				- address bus - contains the location of different datas within the memory
 				- data bus - transfers the data 
@@ -75,7 +85,7 @@
 			- cheaper
 			- stores bits
 		- **SSD** 
-			- faster storage than HDD (it doesen't have any moving part)
+			- faster storage than HDD (it doesn't have any moving part)
 			- smaller storage size (due to being developed later)
 			- uses semiconductors instead of a disc
 			- not as prone to vibrations
@@ -86,14 +96,14 @@
 		- RAM (Random Access Memory)
 			- Write/Read
 			- Loses data if electricity flow is cut
-			- speed is defined in "Megatransfers per second"
+			- speed is defined in "Mega transfers per second"
 			- stores bits
 		- ROM (Read-Only Memory)
 			- Read only
 			- used in largely in BIOS-es
 			- PROM (programmable read-only memory) 
 				- is a computer memory chip that can be programmed only once after it is created. 
-				- Once the PROM is programmed, the information written is cannot be earased
+				- Once the PROM is programmed, the information written is cannot be erased
 			- Contents are retained even without power supply
 		- SWAP (Virtual Memory)
 			- Stored on the hard drives, used when memory is full
@@ -102,46 +112,46 @@
 		- gives all the components the power they request
 	- Cooling 
 		- water cooling
-			- water block - connected to the cpu or gpu die
-			- water pump circulates cooled water to the cpu and away the heated water
-			- needs a radator with fans that push out the hot air and cools the water
+			- water block - connected to the CPU or GPU die
+			- water pump circulates cooled water to the CPU and away the heated water
+			- needs a radiator with fans that push out the hot air and cools the water
 		- air cooling 
-			- cpu block with radators connected to the cpu, and most of the time a fan is pushing fresh air through the radiators
+			- CPU block with radiators connected to the CPU, and most of the time a fan is pushing fresh air through the radiators
 	- Housing
-		-  ie: computer case, open bench, etc.
+		-  i.e.: computer case, open bench, etc.
 ---
 ### Main peripherals and their characteristics
 - Monitor
 	- Standard video output
 		- Size (inch)
-		- Aspect ratio (ratio of the rows of pixels to the colums of pixels ie: 1080 : 1920 has a 16:9 aspect ratio)
+		- Aspect ratio (ratio of the rows of pixels to the columns of pixels i.e.: 1080 : 1920 has a 16:9 aspect ratio)
 		- Resolution (number of pixels - number of cols * rows)
 		- Type 
-			- CRT (Cathod Ray tube)
+			- CRT (Cathode Ray tube)
 				-  A CRT monitor contains millions of tiny red, green, and blue phosphor dots that glow when struck by an electron beam that travels across the screen to create a visible image.
 				- CRT display can have variable resolutions due it not having actual pixels
-				- refreshrate of the display depends how fast the electron gun is and could be made higher by lowering the resolution
-				- has to be warmed up before use (ie: the characteristic slow startup with high pitched noises)
+				- refresh rate of the display depends how fast the electron gun is and could be made higher by lowering the resolution
+				- has to be warmed up before use (i.e.: the characteristic slow start-up with high pitched noises)
 				- were very big and heavy due the tech needing a big ray gun and a thick glass block to work
-				- had deecent blacks
+				- had decent blacks
 				- had great viewing angles
 			- TFT (thin film transistor)
-				-  utilizes an electrical charge that causes the liquid crystals to change their molecular structure creating different colors
+				-  utilizes an electrical charge that causes the liquid crystals to change their molecular structure creating different colours
 				- usually has 7 layers sandwiched together
 					- two polarizing filter
-					- three color filters (red, green, and blue)
+					- three colour filters (red, green, and blue)
 					- two aligning filter 
-					+ + backlight which is usually a strong white or blue colored light
+					+ + backlight which is usually a strong white or blue coloured light
 				-  has poor contrast ratio
 				- easy and cheap to mass produce
-				- techology is small and flat
+				- technology is small and flat
 				- had poor black levels and contrast
 				- not very good viewing angles
-			- LCD (Liquid cristal display)
-				- works similalry as TFT displays, ie: layered with polarizing and aligning filters, but instead of color filters it uses liquid cristals to produce color, which are changed by controlling the voltages, and illuminated by backlight.
-				- has deecent black levels
-				- actualy pixels are used
-				- refreshrate depends how fast the cristals can react to the change, which is given by the quality of the crystals
+			- LCD (Liquid crystal display)
+				- works similarly as TFT displays, i.e.: layered with polarizing and aligning filters, but instead of colour filters it uses liquid crystals to produce colour, which are changed by controlling the voltages, and illuminated by backlight.
+				- has decent black levels
+				- actually pixels are used
+				- refresh rate depends how fast the crystals can react to the change, which is given by the quality of the crystals
 			- Plasma
 				- uses small cells containing plasma, and ionized gases that respond to electric fields. The electric charge is then intersected with the gas and the plasma, thus changing the color in a very response, by the gas letting the plasma be stimulated in way it produces the desired colored lights.
 				- had deeper blacks then other displays in it's prime time
@@ -188,7 +198,7 @@
 			- Expensive
 			- Cheap to maintain
 			- [Functionality](https://en.wikipedia.org/wiki/Laser_printing)
-				- a laser beam is repetedly passes back and forth over a negatively-charged cylinder called a "drum" to define a differentially-charged image
+				- a laser beam is repeatedly passes back and forth over a negatively-charged cylinder called a "drum" to define a differentially-charged image
 		- Heat
 			- Used for receipts
 			- Special paper
@@ -225,7 +235,7 @@
 		- Ergonomics
 ---
 ### Hard Drives
-- Technologies
+- Technologies types
 	- Magnetic
 		- HDD (Hard Disk Drive)
 		- Circular magnetic disks
@@ -246,24 +256,45 @@
 	- Optical (-R; -RW)
 		- CD
 			- Compact Disc - 700 MB
+		- CD_ROM
+			- Compact Disc Read-Only
+			- typically 650-700 megabytes, ideal for storing low resolution movies, or higher bitrate music album
+			- by users not being able to modify data from the disc, it was perfect for distributing these medias.
+		- CDR
+			- Compact Disc-Recordable
+			- it is a type of CD that allows users to write data onto it, but only once.
+			- these come empty, meaning no data has been burned on it yet, but you can fill it up yourself, so you can put you digital data on it like songs, videos, photos etc.
+			- These also boasted around 650-700 megabytes of capacity
+		- CDRW
+			- Compact Disc-Rewriteable
+			- it is basically the same thing as CDR, but you can burn, delete, and reburn data multiple times.
+			- they were still around 650-700 megabytes
+			- they had a rewrite cycle ranging from 1,000 to 1,000,000 cycles depending on the quality of the CDRW
 		- DVD 
-			- Digital Versatile Disc - 4.7 GB
+			- Digital Versatile Disc
+			- they are also readable, and writeable multiple times
+			- though they are now coming at much larger capacities 
+			- there were different types for example:
+				- DVD-5 single layer which had a capacity of 4.7 GB
+				- DVD-9 dual layer which had a capacity of 8.5 GB
+				- DVD-18 dual-sided, dual layer, which had a total of 17GB, combining both sides
 		- BD
 			- Blu-Ray Disc - 25 GB or 50 GB
+			- but today there are even triple, and quadruple layered ones, which can exceed 100GB ad 128GB respectively
 		- High storage density
 		- When reading, using a laser beam, the reflected light delivers the data
 		- When writing, small recesses are created on the disk
-	- Semiconductor 
+	- Semiconductor (memory based)
 		- SSD (Solid State Drive)
 		- Bits are stored with transistors
 		- Works like RAM, but data is not lost when the computer is off
 - Installation, operational problems and preventing them
 	- Installation
-		- Connecting it to the pc though connectors like usb or SATA
+		- Connecting it to the pc though connectors like USB or SATA
 	- Problems
-		- Moving  parts can wear down, vibrations can cause damage
+		- Moving parts can wear down, vibrations can cause damage
 	- Repair
-		- Sector lock
+		- Sector lock, attempt at fixing physical damage like replacing faulty hard disk pin
 ---
 ### Maintenance, cleaning, 
 - Cleaning
@@ -278,7 +309,13 @@
 	- Hardware
 		- Replacing or repairing the faulty component
 	- Transportation
-		- With care and attention, and with boxed with coushining 
+		- With care and attention, and with boxed with cushioning 
+	- CPU and GPU
+		- sometimes replacing old thermal paste on them especially when they are hardened, and don't conduct heat properly.
+---
+### How to connect a PC-s parts, and peripherals 
+- make sure, to read quick start guides, that come with these parts and devices
+- also make sure to connect all cables, and parts properly, with proper support.
 ---
 ### Conditions of safe use
 - Suitable Power supply
@@ -287,6 +324,7 @@
 - Adequate airspace
 - Overcurrent protection
 - Checking all component's compatibility before assembly
+- avoiding liquid from computers, so they do not get wet and short out.
 ---
 ### Significance of networks
 - Communication between servers, workstations and PCs
@@ -297,7 +335,7 @@
 	- Fast data transfer
 	- Higher performance
 ---
-### Grouping networks by extent
+### Main networks types by extent
 - PAN (Personal Area Network)
 - LAN (Local Area Network)
 - MAN (Metropolitan Area Network)
@@ -312,23 +350,25 @@
 		- The host performs all tasks, the terminal just issues them
 	- Peer-to-Peer
 		- All machines are servers and workstations in one
+---
 - ### Network topologies
-	- Bus
+	- Bus (looks a lot like a bus's row, and each seat being a computer on the left and right)
 		- Each PC is connected to a single central cable
-	- Ring
+	- Ring (basically a circle of computers)
 		- The transportation medium forms a circle
 		- Data packet travels around until it reaches the receiving PC
 		- No problem in the event of a single break
 		- No central unit
 		- Double ring equals higher reliability
-	- Star
+	- Star (has a centre point which is the switch, and each computer is a connection node to the central unit)
 		- Central unit (HUB)
 			- Everything passes through it
 		- In the event of a line break only one machine is disconnected from the network
 		- Efficient but expensive
-	- Tree
+	- Tree (looks like a family tree going from top and multiplying to the bottom)
 		- Each machine can only be reached on one route
 		- In case of a break the whole network can be interrupted
+---
 ### Tools needed for creating a network
 - Server
 	- High performance, high capacity machines running continuously, providing services
@@ -353,7 +393,7 @@
 	- A flexible network element that performs a conversion between two different networks
 - Coax cable
 	- Cable based networks, the data transmission medium
-	- Copper wire + shielding (Noise canceling)
+	- Copper wire + shielding (Noise cancelling)
 - UTP (Unshielded Twisted Pair)
 - Wi-Fi (WLAN)
 	- Wireless communication

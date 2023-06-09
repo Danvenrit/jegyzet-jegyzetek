@@ -1,6 +1,6 @@
 #### Emelt infó angol
 - [x] [[Communication|1. Communication]]
-- [x] [[Information|2. Information, sign, data, noise, redundancy]]
+- [x] [[Information|2. Information and society]]
 - [x] [[Transfiguration and decoding|3. Transfiguration and decoding]]
 - [x] [[Structure of the computer|4. Structure of the computer]]
 - [x] [[Workplace safety and ergonomics|5. Workplace safety and ergonomics]]

@@ -4,21 +4,51 @@
 - document
 	- an independent intellectual product, a unit of information, the purpose of which is to communicate information, to transfer knowledge
 - has several types:
-	-  printed
-		-  appearance is static
-		-  order of information is bound
-		- components are homogeneous, can have images with text
-		- cannot be converted
-		-  transport is traditional and expensive
-		- the method of distribution is with commercial traffic	
-	-  electronic
-		-  appearance is dynamic
-		-  order of information is variable
-		-  components are homogeneous, can have images, videos with text
-		-  can be converted
-		-  transport is easy and cheap
-		- the method of distribution is with the internet
-		- hyperlinks	
+	-  **printed**
+		1. Tangible Format
+		2. Portability
+		1. Physical Presence
+		2. Page-based Navigation
+		3. Limited Searchability
+		4. Storage and Organization
+		5. Annotation and Marking
+		6. Offline Access
+		7. Preservation Challenges
+		8. Physical Constraints
+	-  **non-printed (electronic)**
+		1. Digital Format
+		2. Accessibility
+		3. Multimedia Capabilities
+		4. Hyperlinking and Navigation
+		5. Searchability
+		6. Storage and Replication
+		7. Versioning and Updates
+		8. Interactivity and Collaboration
+		9. Remote Access and Remote Collaboration
+		10. Preservation and Longevity
+
+### comparing digital and non-digital documents based on usecase
+- Non-printed Documents:
+	- Instant messaging applications for quick communication (e.g., WhatsApp, Messenger)
+	
+	- Online collaborative platforms for team collaboration (e.g., Google Docs, Trello)
+	
+	- Digital news websites and online articles for immediate access to news and information
+	
+	- E-books and digital textbooks for convenient reading on e-readers or tablets
+	
+	- Online video streaming platforms for on-demand access to movies, TV shows, and documentaries
+
+- Printed Documents:
+	- Printed novels and fiction books for leisurely reading and enjoyment
+	
+	- Physical newspapers and magazines for browsing news and articles
+	
+	- Printed academic textbooks for in-depth study and note-taking
+	
+	- Printed maps and travel guides for exploring new places
+	
+	- Printed legal documents and contracts for official and legal purposes
 ---
 - books can be divided into three groups
 	- informational 
@@ -40,6 +70,22 @@
 	- a work containing basic knowledge of a given field
 	- the author can be a person or a group
 	- due to the richness of their material, they are suitable for both bibliographic and factual orientation
+---
+### Types of publications in the library system
+1. Books
+2. Journals and Periodicals
+3. Newspapers
+4. Audio-visual Materials
+5. Electronic Resources
+6. Theses and Dissertations
+7. Maps and Atlases
+8. Government Publications
+9. Special Collections
+10. Pamphlets and Brochures
+11. Audio Books
+12. Microforms
+13. Digital Archives
+14. Multimedia Kits
 ---
 ### Books as sources of direct knowledge acquisition
 - essential in obtaining information
@@ -123,38 +169,46 @@
 	- computer databases
 ---
 ### Bibliography
-#### Explaination of bibliography
- - contains systematic description and list of documents and informations
- - Its task is to take documents into account and tell about their existence, content, and different info-s
- - it must contain the bibliographic identification of each documents
+- Bibliography is a list of sources, typically found at the end of a research paper, book, or article, that provides detailed information about the references or sources cited in the work. It includes the author's name, title of the source, publication year, and other relevant details that help readers locate and access the sources mentioned in the text.
 ---
-#### Bibliographies by content
-- general
-	- a bibliography covering all areas, which in principle does not take the constraints of content and form into account 
-	- usually its scope is limited to some degree (otherwise it would be impossible to compile), e.g. geographically, linguistically, periodically
-- professional
-	- it collects the literature of a discipline or field for professionals and those with increased interest
----
-#### Bibliographies by depth
-- completed
-	- it collects the full literature on the subject
-- assorted
-	- sorted by some aspects of literature
----
-#### Bibliographies by finding method
-- independent
-	- appears independently, no other text is added
-- hidden
-	- within the text of a document or in its notes
-	- in the case of scientific works, it is essential to list the sources used
----
-#### Retrospective and current bibliography
-- retrospective
-	- summary in nature
-	- strives for completeness
-- concurrent (continuous)
-	- published regularly
-	- it records works published between two literature
+1. Book:
+
+    - Author(s)
+    - Title of the book
+    - Edition (if applicable)
+    - Publication information (publisher, place of publication, year)
+2. Journal article:
+    
+    - Author(s) of the article
+    - Title of the article
+    - Title of the journal
+    - Volume and issue number (if applicable)
+    - Page range of the article
+    - Publication date
+3. Website/webpage:
+    
+    - Author(s) or organization responsible for the content
+    - Title of the webpage or article
+    - URL (web address)
+    - Publication date or date of access (if the webpage is not dated)
+4. Thesis or dissertation:
+    
+    - Author(s)
+    - Title of the thesis or dissertation
+    - Degree level (e.g., Master's thesis, Ph.D. dissertation)
+    - Institution
+    - Year of completion
+5. Conference paper:
+    
+    - Author(s) of the paper
+    - Title of the paper
+    - Title of the conference proceedings
+    - Date and location of the conference
+    - Publication information (if the paper is published in a journal or book)
+
+### informational lists (recommendations for books and other documents)
+- These lists aim to highlight specific titles or resources that are deemed valuable, relevant, or of interest to readers. They can be created based on various criteria such as genre, topic, author, popularity, or educational value. 
+- These are provide to users with curated options to explore and discover materials that align with their preferences or information needs.
 ---
 #### Hungarian national bibliography
 - works published within the borders of Hungary at a given time, in any language.
@@ -162,7 +216,7 @@
 - works written by Hungarian authors, published in any country and in any language
 - works with a Hungarian aspect
 ---
-### Information catalog
+### Information catalogue
 - referential journal
 	- gathers the most important and latest results of a given discipline
 	- describes the literature
@@ -171,7 +225,7 @@
 	- processes material from one or more journals
 	- retrospectively for several years
 	- publishes an alphabetical and thematic list of published articles
-- assorted catalog
+- assorted catalogue
 	- publishers and book clubs often inform the public about a specific time period when they published their documents
 - book and video recommendation
 	- various program booklets, etc.
@@ -183,7 +237,7 @@
 ---
 ### Aspects of source selection
 - resource finding
-	- it is useful to review secondary sources (catalogs, bibliographies)
+	- it is useful to review secondary sources (catalogues, bibliographies)
 	- moving backwards from the present on the subject
 - critique of resources
 	- the authenticity and value of the found resources must be checked
@@ -195,8 +249,16 @@
 	- it is based on source criticism
 	- the most important aspect is relevance (information noise, filtering out irrelevant results)
 ---
-### Rules and ethical aspects of source designation
-- resources may only be used in accordance with certain formal and ethical requirements (copyright law, etc.)
+### Rules and ethical aspects of source referencing
+- rules
+	1. Use the appropriate citation style.
+	2. Include all necessary information.
+	3. Use quotation marks for direct quotes.
+	4. Paraphrase and summarize properly.
+	5. Maintain consistency.
+	6. Cite all sources used.
+	7. Provide clear references.
+	8. Verify your citations.
 - formal requirements
 	- publication of data on the sources used (bibliographic item, who, what, where, when, how much was published)
 - ethical standards
@@ -204,6 +266,14 @@
 		- an exception when it comes to a well-known data or thought
 	- we can just take a line of thought, or we can quote literally or even make it data-like
 		- in all three cases, we must adhere to ethical requirements regarding the use of resources
+		
+### bibliographical citations on books and similar documents
+- bibliographical reference is basically a normal reference just much more detailed, and professional
+- Citations serve several purposes, including:
+	1. Giving proper credit and acknowledging the original author or creator of the work.
+	2. Providing evidence of the research and sources used to support an argument or claim.
+	3. Allowing readers to locate and retrieve the cited sources for further study or verification.
+	4. Demonstrating the breadth and depth of the research conducted by the author.
 ---
 ### Principles for referring to Internet resources
 - resources on the internet should also be cited
@@ -211,3 +281,16 @@
 	- basic (available) bibliographic data on documents published on the internet must also be provided
 	- in addition to the bibliographic reference, the path (URL) and the exact date of use are required
 	- the date of use (last download) is important because the internet's materials can change, so we need to indicate when we refer to the document as it stands
+- basic principles
+	1. Accuracy
+		- everything must be triple checked to make sure everything is proper, and not false 
+	2. also include the following data
+		-  Authorship
+		-  Title
+		-  Publication Date
+		-  URL
+		-  Retrieval Date
+		-  Citation Style
+		-  In-text Citations
+	3.  Consistency
+		- make sure everything in you statements, and references are consistent
