@@ -72,13 +72,13 @@
 	
 ---
 ### Some prominent figures in the history of computer science.
--  John Napier - logarithmic ruler
+-  John Napier - slide ruler
 -  Blaise Pascal - mechanical calculator
 -  Leibniz - binary numeral system
--  Joseph Marie Jacquard - punch card, weaving machine
+-  Joseph Marie Jacquard - punch card weaving machine
 -  George Boole (French mathematician) - Boolean algebra
--  Hollerith - need for data encoding, key figure in IBM
--  Robert Wiener (his desires)
+-  Hollerith - data encoding, IBM
+-  Robert Wiener
     -   vacuum tubes
     -   binary numeral system
     -   without human intervention
@@ -123,20 +123,19 @@
 	- Educational applications: educational programs, reference programs.
 	- Multimedia applications: animation creation, sound recording and editing, video recording and editing, speech processing.
 	- Group applications (Workgroup Computing Software): idea generation and problem-solving, calendar and scheduling, electronic conference programs, email programs, electronic message processing.
-	
----
+
 ##### Uses for applications
 - niche uses for specific purposes (astronomy, military industry, etc.)
 - decentralized purpose, i.e.: every computer should do their own task
 - half-half systems, one half of the task is done on a server the other half locally
 - cloud systems (centralization)
 
----
 ##### Improvements of applications
 1. at first the inputting of data was a difficult task, data was only inputted via physical switches, or through some kind of data carrier.
-2. next: character based interfaces
-3. interactivity increasing -> character based menu interfaces
+2. character based interfaces
+3. character based menus --> interactivity increasing
 4. GUI -> graphical image icons, windows, interfaces --> more accessible for general users, and pleasing to the eye.
+
 ---
 ### The impact of information and communication tools on society
 - communication:
@@ -220,7 +219,7 @@
 ---
 ##### Legal and illegal forms of obtaining and publishing information
 - publication 
-	- usually depends on the country, but usually it is illegal to sell, distribute and use illegally acquired copyrighted material, without the consent of the entity that owns the copyrighted material.
+	- depends on the country, but usually it is illegal to sell, distribute and use illegally acquired copyrighted material, without the consent of the entity that owns the copyrighted material.
 	- you should either get a written consent, or a contracted consent usually after paying money for it.
 - getting information 
 	- legal: questionnaires, interviews, contracts.
@@ -237,6 +236,7 @@
 - protection of networks
 	- filtering infected letters, and spams.
 	- controlling data traffic either locally or through ISP
+	- ACL-s
 - protection of information, and data
 	- using appropriate protocols (https, SSH, FTPS) 
 	- using encryption
@@ -251,7 +251,7 @@
 		- virus protection, firewalls, safe browsers and mail programs, avoiding as much foreign programs as possible
 - special type of exploit
 	- social engineering
-		- a new form of attacks, it takes advantage of human naivety 
+		- new form of attacks, it takes advantage of humans 
 			- fishing attacks
 		- solution
 			- source checking, critical thinking, talking with a person who can double check the matter with you
@@ -260,7 +260,7 @@
 ##### Dangers due to hardware failure 
 - data loss 
 - mental damage (family photos)
-- financial damage (blueprints, patents, "secret Crabby Patty" recipe) 
+- financial damage (blueprints, patents, trade secrets) 
 
 ---
 ##### Redundancy in the storage of information 
@@ -294,7 +294,7 @@
 	- first trojan virus ever made, it encrypted your data, and only gave you the encryption key when you paid up
 - 1990 Chameleon (first polymorph)
 	- the code changes with each infection -> hard to detect
-	- polymorph definition --> it is a kind of virus, that changes its program code while running, while keeping its main algorithm intact enough, that it can deliver its planned attack. this done to make it much harder to detect by virus scanners.
+	- polymorph definition --> it is a kind of virus, that changes its program code while running, while keeping its main algorithm intact enough, that it can deliver its planned attack. This is done to make it much harder to be detected by virus scanners.
 - 2000 ILoveYou
 	- the most successful virus of all time, it travelled around the world in 4 hours, it mainly excelled in exploiting people
 - 2004 Bagle, Netsky, Sasser worms
@@ -325,8 +325,8 @@
 	- solution
 		- traffic control
 		- inspection of data carriers 
-		- checking
-			- checks boot sector, memory and running programs, notifies you if there is a problem 
+		- boot sector checking
+			- checks memory and running programs, notifies you if there is a problem 
 		- firewall 
 			- checks network traffic  and prohibits incoming data packets for which no request has been initiated
 			- monitors outgoing data packets 
@@ -374,7 +374,7 @@
 	- It worked by exploiting a vulnerability in Windows's "server service", and was able to create backdoors in infected systems
 	- this exploit was fixed in 2008
 	- the second change to this virus worked by exploiting another vulnerability in windows Autorun function
-	- even though the seconds one was also fixed, it came late, and around 7 million devices were infected with backdoors and these computers were connected to botnet networks.
+	- even though the second one was also fixed, it was patched late, and around 7 million devices were infected with backdoors and these computers were connected to botnet networks.
 - ILoveYou
 	- was a computer worm that spread through email attachments
 	- Email Attachment: The virus arrived in an email with the subject line "ILOVEYOU" and an attachment named "LOVE-LETTER-FOR-YOU.TXT.vbs."
@@ -386,14 +386,18 @@
 	
 ---
 ### Legal questions in IT
-- intellectual property
+- intellectual property protection
 	- How can someone protect their software or digital content from being copied or used without permission?
-- data privacy
+	
+- data privacy protection
 	- What are the legal requirements for collecting, storing, and using personal data of users or customers?
+	
 - Cybersecurity
 	- What legal measures should be taken to prevent unauthorized access, data breaches, or cyber attacks?
-- Software Licensing
+	
+- Software Licensing and agreement
 	- What are the terms and conditions for legally using software and  how to ensure compliance with licensing agreements?
+	
 - Digital Copyright
 	- What are the legal implications of using copyrighted material online, such as images, music, or videos?
 	
@@ -407,6 +411,7 @@
 ---
 ##### Data protection issues, legal regulations
 - Data protection law, and privacy act
+	- these laws include all the information about how data should be handled, in different cases.
 	- protection of personal data, private secrets, trade secrets, reputation is a right for every citizen
 	- protection: personal data may only be processed for a specific purpose, for a specified period of time and only with permission of the user, or authorized body
 	- users should have access to information about what their collected data is used for, how long these datas will be stored, and who gets access to these datas
@@ -434,7 +439,8 @@
 	- reproduction, publication, all types of personal and property rights, and the right for the owner to use his/her creation, and permit others for its use.
 - licensing
 	- license agreement
-		- specifies the permitted use, and its conditions
+		- is an agreement which the user usually has to accept before using the given service
+		- it specifies the permitted use, and its conditions
 		- if someone wants to use a commercial application, he/she needs to buy a license, or contract which allows its use 
 		- the software publisher can authorize someone to use it but to not be able to distribute it 
 		- the buyer confirms the existence of the license with the license agreement (also with an invoice, or other contract) 

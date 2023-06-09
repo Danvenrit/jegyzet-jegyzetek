@@ -19,6 +19,7 @@ Communication is a kind of information exchange, which always takes place throug
 	- relationship of the participants
 		- equal (people talking with equal knowledge)
 		- unequal (a teacher lecturing students)
+		
 ---
 ### Communication model
 
