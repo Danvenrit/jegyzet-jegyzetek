@@ -88,8 +88,12 @@ Communication is a kind of information exchange, which always takes place throug
 		
 ---
 ### Code, as the device of information broadcasting
-- code: The form of information that the encoder creates, which conforms to the channel standard, and which is interpretable by the decoder.
-- information: Information carried by a set of signals that represents new knowledge for a system. Examples for informations: Breakin news, weather forecasts, traffic reports etc.
+- code
+	- The form of information that the encoder creates, which conforms to the channel standard, and which is interpretable by the decoder.
+
+- information
+	- Information carried by a set of signals that represents new knowledge for a system. 
+	- Examples for information: Breaking news, weather forecasts, traffic reports etc.
 
 ---
 ### Examples of channels
@@ -97,8 +101,8 @@ Communication is a kind of information exchange, which always takes place throug
 	- Physical wired connections, sending electrical signals.
 - Radio waves: 
 	- Electromagnetic waves transmit radio signals for broadcasting audio content
-- Fiber optic cables
-	- Fiber optic cables utilize thin strands of glass or plastic fibers to carry optical signals.
+- Fibre optic cables
+	- Fibre optic cables utilize thin strands of glass or plastic fibres to carry optical signals.
 - Internet protocols (IP)
 	- Network channels that allow data packets to be transmitted over the internet using various protocols, such as TCP/IP or UDP.
 - Satellite communication
@@ -107,8 +111,8 @@ Communication is a kind of information exchange, which always takes place throug
 	- Soundwawes, radiowaves, or light signals can be sent through it.
 	
 ---
-### Noise-canceling
-- In the context of analog signals
+### Noise-cancelling
+- In the context of analogue signals
 	- **Amplification** 
 		- Boosting the signal strength using amplifiers to minimize the impact of noise during transmission.
 	- **Analog Filtering** 
@@ -122,7 +126,7 @@ Communication is a kind of information exchange, which always takes place throug
 		
 ---
 ### Redundancy 
-- refers to the intentional inclusion of additional information or redundant data in the signal. The purpose of incorporating redundancy is to provide error detection, error correction, or fault tolerance capabilities. Redundancy helps improve the reliability and integrity of the signal transmission and reception.
+- refers to the intentional inclusion of additional information or data in the signal. The purpose of incorporating redundancy is to provide error detection, error correction, or fault tolerance capabilities. Redundancy helps improve the reliability and integrity of the signal transmission and reception.
 - pros of redundancy
 	- **Error Detection and Correction**
 	- **Fault Tolerance**
@@ -135,8 +139,8 @@ Communication is a kind of information exchange, which always takes place throug
 ---
 ### Characterisation of today's communication technologies and tools and how they fit into the communication model
 - visual (i.e.: smoke signals, storm warning, sign language, traffic lights, road signs)
-- verbal (i.e.: education, lecture)
-- written (i.e.: carrier pigeon, courier, leaflet, newspaper, post office)
+- verbal (i.e.: education, lecture, news)
+- written (i.e.: carrier pigeon, courier, newspaper, post office)
 - electronic (Morse-telegraph, telex, telephone, fax, computer networks, radio, TV, chat)
 
 --- 
@@ -146,8 +150,8 @@ Communication is a kind of information exchange, which always takes place throug
 - Types
 	- Morse-telegraph, telex, telephone, fax, radio, TV
 	- internet (WAN)
-		- IRC (Internet Relay Chat), i.e. chat
-		- Internet telephony - VoIP
+		- IRC (Internet Relay Chat)
+		- VoIP
 		- email
 		- telnet, SSH
 		- FTP
@@ -166,7 +170,9 @@ The concept of virtual profile was born, the reality that anyone could impersona
 --- 
 ### The electronic forms of information searching
 - Electronic information searching can be defined as searching something on our computer's or phones storage, or retrieving any kind of information through radio, tv, news, but mostly searching using the internet with the help of a browser (i.e.: google, Duckduckgo, Bing, yahoo, etc.).
+
 - There are several ways to search, like using keywords, topics but if you search only using these, or even their combination you'll have way too many search results, mostly because of too much spam. So to combat this, browsers help you out by ranking websites to your search, on many factors like number of users, reputation, clicks, or even by paying the company, who owns the search engine to rank the website higher, for the sponsored time.
+
 - today the emergence of language is also a viable option to search, for example trough paragraphs of text (from chatgpt 3), or even through the internet via chatgpt version 4.
 
 --- 
