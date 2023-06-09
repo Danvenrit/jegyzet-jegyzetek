@@ -12,6 +12,7 @@
 		- stable office chair
 		- noiseless environment
 		- equipment should not develop uncomfortable heat
+		
 ---
 ### Work and health protection
 - possible health complaints
@@ -74,6 +75,7 @@
 		- look slightly down at the monitor
 		- the monitor and the keyboard should not be at an angle
 		- have adequate contrast
+		
 ---
 ### Ergonomics of the computer and peripherals
 - ergonomics: a discipline dealing with work processes and the optimal relationship between a user and technical equipment

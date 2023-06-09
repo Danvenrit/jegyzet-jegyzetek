@@ -188,6 +188,7 @@ The internet is also essential for work in many places (online conferences, onli
 - Government portals: oktatas.hu, kormany.hu, mnb.hu, magyarorszag.hu, nav.gov.hu
 - Travel information: elvira.hu, timetables.hu, volan.hu, booking.com
 - Public education: sulinet.hu, oki.hu
+- entertainment: youtube, netflix, twitch and a lot mmore
 
 ---
 ### Searching via search engines

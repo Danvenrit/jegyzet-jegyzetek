@@ -39,6 +39,7 @@
     
     - Refining Search Results
 	    - Using filters, date ranges, or additional search tools provided by the search engine to narrow down and customize search results.
+	    
 ---
 - Basic algorithm of searching
 	- 1. Simple search - single word search
@@ -49,6 +50,7 @@
 		- i.e.: where is it located (Kuria, xy library), document type, language, date
 	- 1. Browse - List search
 		- With a browser search, the reader or searcher does not get a specific result, but can search through the standardised classification data in the database.  You can find out, for example, what subject words are available, how many records contain the given subject word. Once you have found a term that matches or closely matches your idea, you can use the normal search to search for existing terms
+		
 ---
 ### the algorithm of electronic search
 1. Clearly define the information need and formulate the search query using relevant keywords, phrases, or terms.
@@ -83,6 +85,7 @@
 7. Organize and document
     
 8. Follow up if necessary
+9
 ---
 ##### **Catalogue**
 - systematic listing of works in the library
@@ -132,6 +135,7 @@
 	
 - Updates and notifications
 	- Computer catalogues can be regularly updated to reflect new acquisitions, changes in availability, or any other relevant updates.
+	
 ---
 ### One and two factor searching
 - one factor
@@ -140,6 +144,7 @@
 		- exception if you enter an exact ID
 - two factor
 	- the returned set of results is narrowed down by the addition of more data (e.g. by year of publication, language, or document type)
+	
 ---
 ### Some computer catalogues
 

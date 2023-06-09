@@ -13,6 +13,7 @@
 	- all requests and responses are independent
 - the most popular service on the internet
 - browsers: Google Chrome, Microsoft Edge, Firefox, Opera
+
 ---
 ### Internet services and their characteristics:
 - IRC (Internet Relay Chat) - a chat protocol used for real-time text communication over the internet.
@@ -27,6 +28,7 @@
 - Social media: Platforms that facilitate social interaction and content sharing among users. Examples include Facebook, Instagram, Twitter, and LinkedIn.
 - Cloud storage: Offers remote storage space for users to store and access their files and data from anywhere with an internet connection. Examples include Google Drive, Dropbox, Mega.
 - Online shopping: Allows users to browse and purchase products or services through e-commerce websites, such as Amazon or eBay.
+
 ---
 ### Terms
 - URL (Uniform Resource Locator)
@@ -72,10 +74,12 @@
 		- every machine connected to the Internet has one
 			- permanent
 			- dynamic
+			
 ---
 ###  The rules for using and accessing internet services
 - Internet services typically have their own terms of use. These define the expected usage and may provide additional guidance or help. 
 	- For example, Google's Terms of Service.
+	
 ---
 ### Examples of services available through the internet (e.g., online commerce):
 - Online commerce, online stores (eBay, Amazon): Allows users to browse and shop for products from the comfort of their homes, view product details and prices, and place orders for delivery, even from international sellers.
@@ -90,9 +94,11 @@
 - Phone directories: telefonkonyv.hu, tudakozo.telekom.hu, telefonkonyv.telekom.hu.
 - E-tax filing: nav.gov.hu (Hungarian Tax and Customs Administration).
 - Online university admission: felvi.hu (Hungarian higher education admission system).
+
 ---
 ### User identification 
 - User identification is performed on the server side, typically using SSL/TLS encryption. The server may require user registration or subscription for access and authorization.
+
 ---
 ### structure of an email
 - An email consists of two parts: the header and the body. The body contains the actual message, while the header carries necessary information for the email system. The header is created by the email program used to send the email, and each computer adds a bit of information as it passes through.
@@ -104,21 +110,25 @@
 	- Attachments: Files (such as photos, audio, video, saved documents, etc.) sent within the email are placed here. It is useful to upload large files to an online storage and share the link with the recipient.
 	- Subject: A brief summary or title of the email. This is the first thing the recipient sees and determines whether they will read the email. It is recommended (though not mandatory, as some spam filters may filter it out) to fill in the subject field.
 	- Email Content: This is where the actual text message is written. The size of the text doesn't matter much, but the size of attachments does.
+	
 ---
 ### functions of an email service
-- Writing: Composing and creating a new email message.
-- Receiving: Receiving incoming email messages in the inbox.
-- Replying: Responding to an email message that has been received.
-- Forwarding: Sending a received email message to another recipient.
-- Deleting: Removing unwanted or unnecessary email messages.
-- Saving: Storing email messages for future reference or archiving.
-- Printing: Printing out email messages on a physical paper format.
+- **Writing:** Composing and creating a new email message.
+- **Receiving:** Receiving incoming email messages in the inbox.
+- **Replying:** Responding to an email message that has been received.
+- **Forwarding:** Sending a received email message to another recipient.
+- **Deleting:** Removing unwanted or unnecessary email messages.
+- **Saving:** Storing email messages for future reference or archiving.
+- **Printing:** Printing out email messages on a physical paper format.
+
 ---
 ### The problems related to email exchanges:
 - Encoding
 	- Issues related to the encoding or character set used in email messages, which can result in garbled or unreadable text if not properly handled.
+	
 - Mailer Daemon: 
 	- The Mailer Daemon is an automated system that sends error messages or notifications when an email fails to be delivered. It notifies the sender about delivery issues such as an invalid recipient address or a full mailbox. The presence of a Mailer Daemon message indicates a problem with the email delivery process.
+	
 ---
 ### The typical error messages in email sending, their meanings, and how to handle the problems.
 - When sending emails, various error messages may occur, indicating different issues with the delivery process. Here are some common error messages and their meanings:
@@ -132,6 +142,7 @@
 4. "Message rejected as spam": This error occurs when the recipient's email server identifies the message as spam and blocks its delivery. Reviewing the email content, avoiding suspicious or spam-like language, and considering sender authentication methods (such as SPF, DKIM, or DMARC) can help minimize this issue.
     
 5. "Authentication failed": This error indicates that the sender's email server failed to authenticate properly with the recipient's server. Checking the authentication settings, ensuring correct login credentials, and verifying the server's security protocols (such as SSL/TLS) can help resolve this problem.
+
 ---
 ### Managing incoming emails:
 - Reading
@@ -140,6 +151,7 @@
 - Moving
 - Archiving
 - Deleting
+
 ---
 ### transmission options for internet
 - Fibre optic 
@@ -160,6 +172,7 @@
 	- Broadband connection with different download and upload speeds.
 - Cable TV
 	- Broadband service provided through the infrastructure of cable television companies.
+	
 ---
 ### Characteristics of FTP service, its problems.
 - FTP (File Transfer Protocol) is a standard for file transfer over a TCP/IP-based network.
@@ -170,6 +183,7 @@
 - Anonymous connection refers to when login credentials are not required, and a portion of the server's content is public.
 - Closed server refers to the need for authentication before login. Various types of authentication are possible, typically using a username-password pair. In the case of SFTP connection, the password can be replaced with a private key used during SSH login. Two-factor authentication may also be necessary.
 - connection with email is also possible
+
 ---
 ### File transfer options and limitations via email.
 - Email is a widely used method for communication, but it also offers limited capabilities for file transfer. While email allows attachments to be sent alongside messages, there are certain restrictions and limitations to consider:
@@ -202,6 +216,7 @@
 ### Sharing files for read-only or editing purposes
 
 - refers to the ability to share files with others while specifying whether they have only read access or can also make edits to the files. When sharing files, you can choose to grant different levels of permissions to recipients, allowing them either to view and read the files without making any changes or to edit and modify the files as needed.
+
 ---
 ### The concept, structure, and components of a URL.
 
@@ -223,6 +238,7 @@
     
 	5. Fragment Identifier
 		- It refers to a specific section or anchor within a web page. The fragment identifier is indicated by a hash "#" followed by the section's identifier. It is used to navigate to a specific part of a long web page.
+		
 ---
 ### The structure of a web address.
 
@@ -278,6 +294,7 @@
 	
 - 503 Server Unavailable 
 	- server not available (reload later)
+	
 ---
 ### Searching on the internet, search engines
 - the internet is a sequence of connected computers, and there are way too many websites

@@ -12,6 +12,7 @@
  - digital
 	- With digital signals we only use numbers and we only extract signal in a finite interval, such that we can properly and efficiently process it for our needs (analogue signal is basically infinite and we of course cannot process infinite units in a finite time). 
 	- digital signal always needs to be encoded and decoded between the sender and receiver because computers can only read digital signal properly, while it has to be sent through analogue channels like optical or copper cables, wireless connections etc.
+	
 --- 
 ### Difference and characteristics of analogue and digital signals
  1. Representation: 
@@ -29,6 +30,7 @@
 5. storage and reproduction
 	- Analogue signals typically recorded and then converted into digital signal, for storage, and because we cannot store infinite amount of signals, we cannot really reproduce the whole signal fully, at most to a level which is good enough for the task
 	- On the other hand digital signal can be stored more easily, copied and reproduced without any significant loss of quality
+	
 ---
 ### The digitalisation of analogue signals
 - 1. Sampling
@@ -47,10 +49,12 @@
 	- PCM - assigns a unique code for each quantization level
 	- DPCM - a code is assigned to the deviation from the previous sample
 	- Predicted DPCM - describes the deviation from the expected value based on the previous sample series
+	
 ---
 ### The law of sampling
 - Shannon formulated the law of how often a continuous signal should be sampled to recover the original signal from the sampled signal sequence. Based on Shannon's law, if we want the samples to properly represent the spectrums component with the largest frequency, the sampling frequency has to be at least twice the size of the spectrums component's with the largest frequency.
 	- For Example, the human ear can hear up to 20 000 hz and the most common sampling frequency of audio signals(via microphone), is 44 000khz because it is at least twice as larger than 20 000khz, so it must represent the whole 20 000khz spectrum properly, so that it could be turned back into analogue signal without issues.
+	
 ---
 ### Image digitisation 
 -  the visible image is essentially analogue information. 
@@ -67,6 +71,7 @@
 	- before the light touching the sensor, the image is altered with different filters usually 50% green, 25% red and 25% blue.
 	- with the help of these filters and light sensor, each cells value is digitized, saved, and stored into series of rgb values, with the place of each pixel within the matrix also saved
 	- the resolution of an image is the multiple of vertical (rows) and horizontal lines (columns) i.e. 1920 * 1080
+	
 ---
 ### Sound digitisation
 - steps are very similar to other analogue signal digitisation
@@ -75,6 +80,7 @@
 - decoding is done by a DAC module (digital to analogue converter)
 - Shannon's law applies here as well. That's why CD quality is at least 44100 hz commonly
 - Another characteristic that determines the quality of sound is the bit depth. Bit depth determines how much of the audible spectrum (from about 20 Hz to 18-20000 Hz) we can process as computer data.
+
 ---
 ### Tools for digitisation
 - Scanner
@@ -82,12 +88,14 @@
 - Photo camera
 - Video camera
 - Microphone
+
 ---
 ### The concepts of data and data volume in informatics
 - definition of data:
 	- In computer science data is defined as a set or sequence of signals represented in some kind of signalling system that can be recorded, processed and then displayed i.e.: interpreted by some computing device. Data can be stored in any form, which we can understand.
 - definition of data volume
 	- data volume is a quantity that measures the number of signals in a chosen signalling system and corresponds to a unit of measure, which is finite a measure. 
+	
 ---
 ### Units of measurement used in informatics and their characteristics
 - The unit of the data is 1 bit (binary digit - 0/1). 1 byte = 8 bits, the conversion from 1024: KiB (kibibyte), MiB (mebibyte), GiB (gibibyte), TiB (tebibyte), PiB (pebibyte)... Or the more commonly used 1000 conversion: kB (kilobyte), MB (megabyte), GB (gigabyte), TB (terabyte), PB (petabyte), EB (exabyte).
@@ -95,6 +103,7 @@
 	- 1 GB = 8 Gbit = 1 000 MB = 8 000 Mbit = 1 000 000 kB = 8 000 000 kbit = 1 000 000 000 B = 8 000 000 000 bit
 	- 1 GiB = 1024 MiB = 1 048 576 KiB = 1 073 741 824 B = 8 589 934 592 bi
 	- The example above shows how much difference there can be between a conversion of 1000 and 1024 for larger amounts of data. This is often exploited, for example, by hard drive, ssd etc. manufacturers or Internet service providers. This is why, for example a 1 TB hard disk is actually only 976 GiB, even less after partitioning, and you don't actually get the full 1 TB of space.
+	
 ---
 ### Binary number notation method and its importance in computer science
 - representing integer numbers (on 1 byte, 8 bits):
@@ -110,6 +119,7 @@
 	- Often, we are not able to represent an exact value, so we will treat it as an approximate value.
 	- The byte where the number is handled is divided into two parts and wtih 1 bit if it's negative or positive number: 
 		- mantissa, and characteristics : 
+		
 --- 
 ### Forms of binary character representation, structure and characteristics of code tables (ASCII, UNICODE)
 - coding: when according to sets of rules, converting characters from a set to another set like: from ASCII to UNICODE
@@ -122,6 +132,7 @@
 	- ASCII –  Contains all the letters used in the English alphabet, as well as the most common punctuation marks. The character set contains 128 characters. 
 	- UNICODE - An international standard, includes characters from most languages, and is based on 16 bit, which is around 100 000 characters
 	- UTF-8 – In contrast to the full UTF-32 encoding, which takes up 4 bytes per character, the more compact (1 byte) UTF-8 encoding is the most common. UTF-8 is a variable-length encoding (8 to 64 bits) that represents the Unicode character table. It is fairly common on Linux systems, but on Microsoft Windows upwords of xp is also fully supported. The IETF (Internet Engineering Task Force) Internet protocol demands, while using the protocol, utf-8 must be included in the possible character sets.
+	
 ---
 ### The Conversion between binary, decimal, and hexadecimal number systems
 - **Converting from binary to decimal (example number is 18)**
@@ -206,6 +217,7 @@
 			- C = 12 --> 1010 (second from the left)
 			- 1 = 1 --> 0001 (third form the left)
 			- and so you answer will be 1011 1010 0001
+			
 ---
 ### The basic operations possible with binary numbers are
 - Addition: 
@@ -261,6 +273,7 @@
 	0   1     1
 	1   0     1
 	1   1     0
+
 ---
 ### basics of Boolean algebra
 - negation
@@ -279,6 +292,7 @@
 	- A * A * A... * A = 1
 	- not A + A = 1
 	- not A * A = 0
+	
 ---
 ### Role of mathematical logic in informatics
 - Mathematical logic is the foundation of informatics, so it is very crucial
@@ -288,6 +302,7 @@
 	- binary number system is the backbone of informatics
 	- quantum computers use qubits which can even have two states at the same time
 	- all of these ideas, first was developed in math
+	
 ---
 ### Storage of digital images, image formats and their characteristics (raster and vector)
 - Raster illustration:
@@ -309,6 +324,7 @@
 		- JPEG - more aggressive, lossy
 		- PNG - less loss in image quality
 		- GIF 
+		
 ---
 ### Ways of colour coding
 - RGB 
@@ -319,6 +335,7 @@
 	- When printing coloured images, the CMYK model is used. Unlike RGB, this is not additive but subtractive colour mixing.
 	- Consists of cyan, purple, yellow, and black
 	- it consists of 4 byte, which is 32 bit 
+	
 ---
 ### The storage of digital audio, formats, and their characteristics.
 - FLAC (Free Lossless Audio Codec) - lossless

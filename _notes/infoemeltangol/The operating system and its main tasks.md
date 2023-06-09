@@ -20,6 +20,7 @@
 	-  Windows (GUI, not open source)
 - multi-user, multitask
 	-  Unix, Linux (GUI or CLI, can be open source)
+	
 ---
 ### Operational structure
 -  **kernel**
@@ -107,6 +108,7 @@
 	- command line completion (you start typing a command, and autocomplete it with pressing tab)
 	- stopping and restarting running processes
 	- waiting for another process or sleep
+	
 ---
 ### typical operations of an operating system
 - **memory management**
@@ -165,6 +167,7 @@
 		- not direct
 	- the OS communicates with the hardware
 		- only the useful parts are transmitted through the peripherals to the user
+		
 ---
 ### Organizing the parallel execution of multiple tasks.
 - back in the days when there weren't any way to run different tasks at the same, time you were only able to run a single program, and if you wanted to use a different one, you had to close the one you were using. 
@@ -179,11 +182,13 @@
 		- this technique isn't as fast as actually running the tasks in parallel on different threads
 	- **real multithreading** 
 		- This is the preferred technique because, now this is actually running on different threads at the same time
+		
 ---
 ### Installing the OS
 - media device inserted into the PC
 - in BIOS, boot sequence is set
 - installation, defining partitions
+
 ---
 ### Booting the OS
 - The system does a self check
@@ -200,9 +205,11 @@
 	- starting user interactions
 	- logging page
 	- starting up programs
+	
 ---
 ### Shutting down the PC
 - When the computer is switched off, the machine stops running programs, processes, system processes, virus protection is last and when everything is safe the operating system cuts power.
+
 ---
 ### OS failure modes, troubleshooting
 - BSOD / critical error (windows)
@@ -224,10 +231,12 @@
 	- driver reinstalling
 	- possibly a full reinstallation with backup
 	- if problem persist checking hardware
+	
 ---
 ### Hardware installation
 - Nowadays it's "plug-n-play", after plugging in, the system automatically installs the basic drivers.
 - It is recommended to turn off the PC before removing a part, because safety is number one priority.
+
 ---
 ### Installing, configuring and uninstalling software
 - install
@@ -252,6 +261,7 @@
 	- reinstall
 	- repair
 	- uninstall
+	
 ---
 ### Running softwares
 - automatic start-up
@@ -272,6 +282,7 @@
 - Freeing up memory
 	- the easiest way to save up memory is to close some apps, that is not in use
 	- If that's not enough using third party "optimizers" can be helpful, which will close a lot of programs which it deems not necessary. usually this is preferred when doing a single task, which requires a lot of ram space. This could be a demanding game, or some kind of rendering task.
+	
 ---
 ### File organization and management methods
 - The files are stored in various clusters on the hard disk, and in order to find them, we need to know the file path. This is where file systems come into play, as they keep track of which file occupies which portion of the disk, what its name is, what encoding it has, and so on.
@@ -279,6 +290,7 @@
 	- **Sequential File Organization:** In this method, files are stored one after another in a continuous manner. Each file has a logical order and can be accessed sequentially from the beginning to the end. It is simple but not suitable for frequent random access or modifications
 	- **Indexed File Organization:** This method uses an index structure to store file records along with their corresponding disk addresses.
 	- **File Access and Permissions:** Operating systems implement access control mechanisms to manage file permissions and protect file integrity. Access control lists (ACLs) or file permissions specify who can access, modify, or execute files, ensuring data security and privacy.
+	
 ---
 ### File systems
 - FAT (File Allocation Table)
@@ -308,6 +320,7 @@
 	- Linux standard file system
 	- max partition size 1 EB
 	- max file size 16 GB
+	
 ---
 ### Directory structure
 - hierarchical directory structure
@@ -338,6 +351,7 @@
 		
 	- parent
 		- Each directory has exactly one immediate predecessor (parent)
+		
 ---
 ### The stored properties of directories
 - Name
@@ -368,6 +382,7 @@
 	- listing: ls
 	- directory changing:  cd
 	- mounting partition/image file: mnt
+	
 ---
 ### Files
 - what is a file?
@@ -471,6 +486,7 @@
 		- rm -rf 
 		- the r part will remove all files recursively meaning it will delete all subfiles in the folder until there is nothing left
 		- the f part will force every delete, even if that would hurt the operating systems wellbeing
+		
 ---
 ### Maintenance of hard drives
 - #### formatting
@@ -486,6 +502,7 @@
 	- on Linux its called fsck (short for: file system check)
 - #### defragmentation
 	- When a given file grows in size, it could happen that it does not fit in the given sector anymore, or even worse not even close to it, in these cases the files data will be scattered on a hard disk which will hinder performance when using that file. Defragmentation reorders the file so that all of its data will be close together so regular performance will be restored for these files.
+	
 ---
 ### Compression
 - Compression is the process of reducing the size of a file or data, typically by removing redundant or repetitive information. 
@@ -585,6 +602,7 @@
 - #### protected files
 	- cannot be unzipped by themselves
 	- password needed
+	
 ---
 ### Utilities
 - Operating systems provide various utility programs that assist in different tasks and functions. Some of the common utility programs include:
@@ -624,6 +642,7 @@
 		- stability 
 		- usefulness 
 		- etc.
+		
 ---
 ### Data protection against unauthorized access, built-in capabilities of operating systems (access control: username, password; data encryption)
 - Data protection is a critical aspect of computer systems, and operating systems provide built-in features to safeguard data from unauthorized access. 
@@ -634,11 +653,13 @@
 - **data encryption**
 	- Another essential aspect of data protection is data encryption, which involves converting the data into a coded form that can only be deciphered with the appropriate decryption key. Operating systems may provide mechanisms to encrypt specific files, folders, or entire disk drives. Encryption adds an additional layer of security to sensitive data, ensuring that even if unauthorized access occurs, the data remains unreadable and protected.
 - by combining all three we can achieve a standard level of safety.
+
 ---
 ### Viruses, anti viruses
 - ##### Definition of computer viruses and pests, their properties
 	- operation: when it runs, it attaches itself to programs and scripts, which it spreads as it runs, it works conditionally: e.g. it activates only after running x times 
 	- source: flash drives, emails, foreign / cracked programs, unreliable websites
+	
 - ##### Changes in the way how your computer works which can be used to suspect viruses
 	- unreasonable increasement of file size / unreasonable increase in used storage space
 	- appearance of foreign files
@@ -653,12 +674,14 @@
 	- 2000 ILoveYou
 		- the most successful of all time, it traveled around the world in 4 hours
 	- 2004 Bagle, Netsky, Sasser worms
+	
 - ##### Explanation of development
 	- old viruses
 		- releasing a virus -> the programmer might get a job at a company
 	- new viruses
 		- silent viruses
 			- data collection, botnet, etc.
+			
 - ##### Types of viruses, their effects
 	- file virus (oldest)
 		- builds into executable files
@@ -676,6 +699,7 @@
 		- consumes memory and bandwidth
 	- spyware
 		- data collection, keylogging
+		
 - ##### Methods of defence
 	- infection of a clean computer
 		- virus comes from an external source
@@ -700,6 +724,7 @@
 						- it can detect unknown viruses 
 					- disadvantage 
 						- slowness, false positives
+						
 - ##### Integrated anti-virus services
 	- boot check (boot sector, system files)
 	- auto start-up with the system (virus shield)
@@ -707,12 +732,14 @@
 	- virus scan
 		- can be started and scheduled
 	- email scan
+	
 - ##### Some examples of anti-virus programs
 	- Bitdefender
 	- Malwarebytes
 	- Avast
 	- Windows defender
 	- Norton
+	
 ---
 ### networking
 - #### use of software is needed for network connection

@@ -6,42 +6,40 @@
 - [Data](https://en.wikipedia.org/wiki/Data)
 	- refers to raw, unprocessed facts, figures, measurements, or observations that are typically in the form of numbers, text, images, or other formats.
 		- In information technology refers to 1 bit, which can have two states either 0 or 1, 1 byte = 8 bit, and from there it is 1024 KiB, MiB, GiB TiB, PiB etc.
+		
 ---
 ### The development of informatics
-1.  The Origins of Counting and Number Systems:
+1.  **The Origins of Counting and Number Systems:**
     - Ancient Babylonian development of the base-60 numeral system (late 4000 BCE)
-2.  The Abacus and Medieval Calculation:
+2.  **The Abacus and Medieval Calculation:**
     - The use of the abacus as a medieval calculation tool (prior to the Middle Ages)
-3.  Logarithms and the Slide Rule:
+3.  **Logarithms and the Slide Rule:**
     - John Napier's publication on logarithms and the invention of the slide rule (17th century)
-4.  Mechanical Calculators:
+4.  **Mechanical Calculators:**
     - Blaise Pascal's mechanical calculator (1642)
     - Leibniz's further development of Pascal's calculator (1700s)
-5.  automatic weaving machine, using punch cards:
+5.  **automatic weaving machine, using punch cards:**
     - Joseph Marie Jacquard's invention of the automated punch card system for weaving (1805)
-6.  Charles Babbage and the Concept of Stored Instructions:
-    - Charles Babbage's recognition of the need for storing intermediate results in computation (1800s)
-7.  Boole and Boolean Algebra:
+7.  **Boole and Boolean Algebra:**
     - George Boole's creation of Boolean algebra (mid-19th century)
-8.  Hollerith's Punch Card Processing:
+8.  **Hollerith's Punch Card Processing:**
     - Herman Hollerith's use of punch cards for data processing, particularly for the U.S. census (1890)
-9.  Wiener's Vision for Modern Computers:
-    - Norbert Wiener's desires for modern computers, including electronic switches, binary arithmetic, and automatic operation
-10.  Turing's Universal Computing Machine:
+10.  **Turing's Universal Computing Machine concept:**
     - Alan Turing's concept of the programmable Turing machine (1930)
     - Development of the first electronic computer, ENIAC (1943-46)
     - if a computer can do basic operations it can eventually do any kind of calculation given enough time
-1.  John Von Neumann and the EDVAC:
+11.  **John Von Neumann and the EDVAC:**
     - The construction of the electronic computer EDVAC based on John von Neumann's principles (1946)
 - **The history of the internet**
 	- The development of the internet was driven by wars and military needs. During the Cold War, the United States Department of Defence (Pentagon) wanted to create a network system that could withstand a nuclear attack.
 	- The task was assigned to the Advanced Research Projects Agency (ARPA). ARPA emphasized two principles for network security: decentralization and packet switching. The network had no central point, and each node was connected to multiple other nodes. Messages were divided into packets and could travel independently along different routes.
-	-  By the end of 1969, an experimental network was established among four universities, and more universities joined later. This became known as ARPANET.
-	-  As ARPANET grew in size, technical challenges became evident. In the mid-1970s, the TCP/IP protocol, which is still in use today, was developed to address these challenges.
-	-  In 1983, the military portion of ARPANET separated, and by the late 1980s, ARPANET gave way to the internet.
-	-  Another significant milestone was reached in 1992 when the World Wide Web, which provides a graphical interface for internet users, was developed.
+	- By the end of 1969, an experimental network was established among four universities, and more universities joined later. This became known as ARPANET.
+	- As ARPANET grew in size, technical challenges became evident. In the mid-1970s, the TCP/IP protocol, which is still in use today, was developed to address these challenges.
+	- In 1983, the military portion of ARPANET separated, and by the late 1980s, ARPANET gave way to the internet.
+	- Another significant milestone was reached in 1992 when the World Wide Web, which provides a graphical interface for internet users, was developed.
 - **Today**
 	- In summary, the field of computer science and the internet is one of the fastest-growing industries in the world, with computational power doubling approximately every two years. However, there is a limit to how much transistors can be reduced in size, as dictated by the atomic scale (around 0.1 nanometres). Estimates suggest that within 10-15 years, this limit will be reached, requiring the development of new technologies, most likely contender today is quantum computing, but there are issues with creating perfect qubits, and retrieving data from qubits
+	
 ---
 #neumann-principle
 - Neumann-principle (1946)
@@ -53,6 +51,7 @@
 	- has to have hard disk
 	- input, output
 	- First Neumann computer: EDVAC
+	
 ---
 ### Generation of computers
 -  GEN 1 (1940s-1950s)
@@ -70,6 +69,7 @@
 -  GEN 5 (1980s-Present)
 	- Artificial Intelligence and Parallel Processing: The fifth generation is characterized by advancements in artificial intelligence (AI) and parallel processing. These computers are designed to mimic human reasoning and handle complex tasks simultaneously. Examples include supercomputers like Cray-2 and modern AI-based systems.
 	- transistor sizes are now well in the nanometres, and ever shrinking as of today 4 nano meter AMD processes are commercially available. And 3 nanometres processes are coming with the help of ever improving ASML-s lithography lasers.
+	
 ---
 ### Some prominent figures in the history of computer science.
 -  John Napier - logarithmic ruler
@@ -90,6 +90,7 @@
 -  Steve Jobs - co-founder and former chairman of Apple
 -  Larry Page, Sergey Brin - co-founders of Google
 -  Mark Zuckerberg - CEO of Facebook, revolutionized social life
+
 ---
 ### The improvement of peripherals
 - INPUT
@@ -111,6 +112,7 @@
 		- firstly mechanical (percussion), later cylindrical or spherical
 		- dot matrix printer
 		- inkjet/laser printer
+		
 ---
 ### Evolution of application types
 - types
@@ -121,12 +123,14 @@
 	- Educational applications: educational programs, reference programs.
 	- Multimedia applications: animation creation, sound recording and editing, video recording and editing, speech processing.
 	- Group applications (Workgroup Computing Software): idea generation and problem-solving, calendar and scheduling, electronic conference programs, email programs, electronic message processing.
+	
 ---
 ##### Uses for applications
 - niche uses for specific purposes (astronomy, military industry, etc.)
 - decentralized purpose, i.e.: every computer should do their own task
 - half-half systems, one half of the task is done on a server the other half locally
 - cloud systems (centralization)
+
 ---
 ##### Improvements of applications
 1. at first the inputting of data was a difficult task, data was only inputted via physical switches, or through some kind of data carrier.
@@ -151,6 +155,7 @@
 		- later smaller networks
 		- companies recognize that information exposed to larger networks is of advertising value-> growing networks, eventually the internet
 		- home office, online home work for students globalized world.
+		
 ---
 #### The impact of local area networks
 - the internet has fundamentally changed communication 
@@ -162,6 +167,7 @@
 		- human connections have been less physical, and more virtualized 
 		- Virtual profiles emerged 
 		- very high online life especially among young demography.
+		
 ---
 ##### Mental and physical dangers of the use of devices
 - most affected areas
@@ -174,11 +180,13 @@
 	- too much online presence and not enough physical presence - mental illnesses, and bubbles.
 - protection
 	- self-control, parental supervision, critical thinking
+	
 ---
 ### Terms and conditions for using network services
 - personal rules
 	- copyright determined by the creator of the service 
 		- has to be accepted before using the product
+		
 ---
 ### Etiquette and netiquette in networking
 - netiquette: network etiquette
@@ -188,6 +196,7 @@
 	- don't write in ALL CAPS
 	- avoid harsh language on forums, and public spaces
 	- always read forum and website rules before using 
+	
 ---
 ### Value and authenticity of information
 - value, depends on: 
@@ -195,6 +204,7 @@
 - credibility, depends on: 
 	- source (reliable, from experts)
 	- history of source
+	
 ---
 ##### Purpose of hoax, recognition, adverse effects and processing of hoax
 - definition of hoax: scam, rumour
@@ -206,6 +216,7 @@
 	- hoaxes work by making the information believable, and by filling the sentences with jargon, to make the person think they got the letter from a credible person.
 - how to avoid hoax: 
 	- you can avoid hoax, if you talk with specialized person, who knows something about the topic, and always check different sources. Also it is good to ask yourself is this scenario even logical?
+	
 ---
 ##### Legal and illegal forms of obtaining and publishing information
 - publication 
@@ -214,6 +225,7 @@
 - getting information 
 	- legal: questionnaires, interviews, contracts.
 	- Illegal: without knowledge of the source (keylogger, data theft, eavesdropping, etc.) + piracy
+	
 ---
 ##### Networks and computers,  information / data protection, security questions
 - protection of computers
@@ -230,6 +242,7 @@
 	- using encryption
 	- password protection (e.g. compression) 
 	- usage of bit locker
+	
 ---
 ##### Threats endangering computers, information and how to defend yourself from exploits
 - vulnerabilities
@@ -242,11 +255,13 @@
 			- fishing attacks
 		- solution
 			- source checking, critical thinking, talking with a person who can double check the matter with you
+			
 ---
 ##### Dangers due to hardware failure 
 - data loss 
 - mental damage (family photos)
 - financial damage (blueprints, patents, "secret Crabby Patty" recipe) 
+
 ---
 ##### Redundancy in the storage of information 
 - data loss protection
@@ -254,12 +269,14 @@
 - backup
 - journaling
 - other redundancy practices
+
 ---
 ### Definition of computer viruses and pests, their properties
  - a virus is a program, that was designed to harm an unsuspecting user's device 
 - operation: when it runs, it attaches itself to programs and scripts which spreads as it runs or it works conditionally: e.g. it activates only after running x times 
 - the severity of viruses range from a virus just showing adds on screen without permission, to playful messages, to stealing you computers data, to opening exploits in your system to even formatting your whole hard drive.
 - source: flash drives, emails, foreign / cracked programs, unreliable websites, keylogging, backdoors in your system etc.
+
 ---
 ##### Changes in the way how your computer works which can be used to suspect viruses
 - unreasonable increasement in the size of a file or unreasonable increase in used storage space
@@ -268,6 +285,7 @@
 - network management slows down, indicates an error
 - peripheral malfunction
 - general machine slowdown (overloading the CPU, ram etc.)
+
 ---
 ##### Some examples of the historical development of viruses
 - 1986 Sbrain
@@ -280,6 +298,7 @@
 - 2000 ILoveYou
 	- the most successful virus of all time, it travelled around the world in 4 hours, it mainly excelled in exploiting people
 - 2004 Bagle, Netsky, Sasser worms
+
 ---
 ##### Types of viruses, their effects
 - file virus (oldest)
@@ -298,6 +317,7 @@
 	- consumes memory and bandwidth
 - spyware
 	- data collection, keylogging
+	
 ---
 ##### Methods of defence
 - infection of a clean computer
@@ -324,6 +344,7 @@
 					- it can detect unknown viruses
 				- disadvantage 
 					- slowness, false positives
+					
 ---
 ##### Integrated anti-virus services
 - boot check (boot sector, system files)
@@ -332,6 +353,7 @@
 - virus scan
 	- can be started and scheduled
 - email scan
+
 ---
 ##### Some examples of anti-virus programs
 - Bitdefender
@@ -341,6 +363,7 @@
 - Virusbuster
 - AVG
 - Kaspersky
+
 ---
 ##### How some popular viruses worked
 - Sbrain
@@ -360,6 +383,7 @@
 	- it then searched the users computer for specific files, like images, documents and valuable data, and replaced itself with those files
 	- it then sent another email with the users email, to spread itself even more
 	- it created huge damage mainly by creating a lot of damaged, corrupted files, and clogging email systems due to rapid growth in email traffic
+	
 ---
 ### Legal questions in IT
 - intellectual property
@@ -372,12 +396,14 @@
 	- What are the terms and conditions for legally using software and  how to ensure compliance with licensing agreements?
 - Digital Copyright
 	- What are the legal implications of using copyrighted material online, such as images, music, or videos?
+	
 ---
 ##### The concept of legally protected data, and reasons for its protection
 - types of protected data
 	- personal, financial, medical, confidential business, intellectual property, legal documents etc.
 - why they should be protected
 	- reasons for protecting these types of data vary but generally include maintaining privacy, preventing unauthorized access or disclosure, complying with legal and regulatory requirements, preventing identity theft or fraud, preserving intellectual property rights, and safeguarding sensitive information from misuse or harm.
+	
 ---
 ##### Data protection issues, legal regulations
 - Data protection law, and privacy act
@@ -390,6 +416,7 @@
 	- targeted ad campaigns are permitted, which means it is also permitted to collect certain datas about the users, to better target ads towards them. these include basic data, habits, traffic on the given service.
 - Electronic commerce
 	- It refers to buying and selling things using computers and the internet. It includes the tools, methods, and services used for online transactions, as well as their applications in other areas like electronic government services.
+	
 ---
 ##### Protecting data on the Internet
 - password protection
@@ -398,6 +425,7 @@
 - encryption 
 - safe storage
 - 2FA
+
 ---
 ##### Copyright and IT
 - protection of intellectual property
@@ -411,6 +439,7 @@
 		- the software publisher can authorize someone to use it but to not be able to distribute it 
 		- the buyer confirms the existence of the license with the license agreement (also with an invoice, or other contract) 
 		- the license usually allows use on one machine, but depending on the contract could allow more, or just create other rules. 
+		
 ---
 ##### The definition and classification of software according to the user agreement.
 - Definition
@@ -449,6 +478,7 @@
 		- source code is open 
 		- freely modifiable
 		- usually creators release it but only if the modifier person also makes their version also  open source
+		
 --- 
 ##### protection of software (technical and legal protection)
 - legal protection 

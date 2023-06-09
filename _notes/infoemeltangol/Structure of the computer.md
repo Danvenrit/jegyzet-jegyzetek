@@ -8,6 +8,7 @@
 	- has to be Turing complete
 		- Turing complete ---> if a computers is universally Turing machine based, it can do basic mathematical operations, so given enough time, it can do basically any kind of calculations. All of todays computers are Turing complete as well.
 		- First Neumann computer: EDVAC
+		
 ---
 ### Neumann like computer structure
 - a CPU has to have 
@@ -25,6 +26,7 @@
 	- It is used for long-term storage of data and programs. It is also non-volatile so it retains data even after power is cut.
 - Peripherals (I/O)
 	- creates a relationship between the user and computers such that the user can more easily use the computer
+	
 ---
 ### The structure of most computers today
 - Today's machines are following the Neumann principles
@@ -119,6 +121,7 @@
 			- CPU block with radiators connected to the CPU, and most of the time a fan is pushing fresh air through the radiators
 	- Housing
 		-  i.e.: computer case, open bench, etc.
+		
 ---
 ### Main peripherals and their characteristics
 - Monitor
@@ -233,6 +236,7 @@
 		- Numerical pad
 		- Shift keys
 		- Ergonomics
+		
 ---
 ### Hard Drives
 - Technologies types
@@ -295,6 +299,7 @@
 		- Moving parts can wear down, vibrations can cause damage
 	- Repair
 		- Sector lock, attempt at fixing physical damage like replacing faulty hard disk pin
+		
 ---
 ### Maintenance, cleaning, 
 - Cleaning
@@ -312,10 +317,12 @@
 		- With care and attention, and with boxed with cushioning 
 	- CPU and GPU
 		- sometimes replacing old thermal paste on them especially when they are hardened, and don't conduct heat properly.
+		
 ---
 ### How to connect a PC-s parts, and peripherals 
 - make sure, to read quick start guides, that come with these parts and devices
 - also make sure to connect all cables, and parts properly, with proper support.
+
 ---
 ### Conditions of safe use
 - Suitable Power supply
@@ -325,6 +332,7 @@
 - Overcurrent protection
 - Checking all component's compatibility before assembly
 - avoiding liquid from computers, so they do not get wet and short out.
+
 ---
 ### Significance of networks
 - Communication between servers, workstations and PCs
@@ -334,6 +342,7 @@
 		- No need to separate hard drives
 	- Fast data transfer
 	- Higher performance
+	
 ---
 ### Main networks types by extent
 - PAN (Personal Area Network)
@@ -341,6 +350,7 @@
 - MAN (Metropolitan Area Network)
 - WAN (Wide Area Network)
 	- Internet
+	
 ---
 ### Network models, topologies
 - ### Network models (hierarchy)
@@ -350,6 +360,7 @@
 		- The host performs all tasks, the terminal just issues them
 	- Peer-to-Peer
 		- All machines are servers and workstations in one
+		
 ---
 - ### Network topologies
 	- Bus (looks a lot like a bus's row, and each seat being a computer on the left and right)
@@ -368,6 +379,7 @@
 	- Tree (looks like a family tree going from top and multiplying to the bottom)
 		- Each machine can only be reached on one route
 		- In case of a break the whole network can be interrupted
+		
 ---
 ### Tools needed for creating a network
 - Server

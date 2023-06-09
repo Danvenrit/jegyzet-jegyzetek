@@ -49,6 +49,7 @@
 	- Printed maps and travel guides for exploring new places
 	
 	- Printed legal documents and contracts for official and legal purposes
+	
 ---
 - books can be divided into three groups
 	- informational 
@@ -70,6 +71,7 @@
 	- a work containing basic knowledge of a given field
 	- the author can be a person or a group
 	- due to the richness of their material, they are suitable for both bibliographic and factual orientation
+	
 ---
 ### Types of publications in the library system
 1. Books
@@ -86,6 +88,7 @@
 12. Microforms
 13. Digital Archives
 14. Multimedia Kits
+
 ---
 ### Books as sources of direct knowledge acquisition
 - essential in obtaining information
@@ -116,6 +119,7 @@
 		- containing an alphabetical or classified listing of names, addresses, and other data (ie: phonebook, yearbook)
 	- atlas
 		- contains maps
+		
 ---
 ### The concept and features of the non-printed document, comparison
 - appearance
@@ -136,6 +140,7 @@
 	- multimedia
 		- magnetic, CD, DVD - computer, CD / DVD player
 		- any today's multimedia devices
+		
 ---
 ### The usage of manuals
 - has to give an accurate answer to a question
@@ -149,6 +154,7 @@
 		- table of contents, preface, introduction, etc.
 	- after the selected method is verified we start searching for the answer for our question
 	- if you do not have a specific apparatus, they cannot be used for immediate information retrieval → they must be completely read for an answer
+	
 ---
 ### Types of informational tools
 - library navigation tools to help the reader / user to find information / documents of interest
@@ -167,9 +173,11 @@
 	- free shelf system, manuals
 	- bibliographies catalogs 
 	- computer databases
+	
 ---
 ### Bibliography
 - Bibliography is a list of sources, typically found at the end of a research paper, book, or article, that provides detailed information about the references or sources cited in the work. It includes the author's name, title of the source, publication year, and other relevant details that help readers locate and access the sources mentioned in the text.
+
 ---
 1. Book:
 
@@ -209,12 +217,14 @@
 ### informational lists (recommendations for books and other documents)
 - These lists aim to highlight specific titles or resources that are deemed valuable, relevant, or of interest to readers. They can be created based on various criteria such as genre, topic, author, popularity, or educational value. 
 - These are provide to users with curated options to explore and discover materials that align with their preferences or information needs.
+
 ---
 #### Hungarian national bibliography
 - works published within the borders of Hungary at a given time, in any language.
 - works published outside the borders of Hungary at a given time, written in the Hungarian language
 - works written by Hungarian authors, published in any country and in any language
 - works with a Hungarian aspect
+
 ---
 ### Information catalogue
 - referential journal
@@ -234,6 +244,7 @@
 	- they are not bibliographies, but they help you find your way around the subject
 	- these short articles summarize the material of a particular document
 	- the features are presented and evaluated taking the user's perspective into account
+	
 ---
 ### Aspects of source selection
 - resource finding
@@ -248,6 +259,7 @@
 - select sources
 	- it is based on source criticism
 	- the most important aspect is relevance (information noise, filtering out irrelevant results)
+	
 ---
 ### Rules and ethical aspects of source referencing
 - rules
@@ -274,6 +286,7 @@
 	2. Providing evidence of the research and sources used to support an argument or claim.
 	3. Allowing readers to locate and retrieve the cited sources for further study or verification.
 	4. Demonstrating the breadth and depth of the research conducted by the author.
+	
 ---
 ### Principles for referring to Internet resources
 - resources on the internet should also be cited

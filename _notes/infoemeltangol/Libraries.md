@@ -3,6 +3,7 @@
 ### Library Definition
 - a building, room, or organization that has a collection of books, documents, music, and sometimes tools or artworks, for people to borrow, usually without payment.
 - its aim is to improve peoples knowledge, and for people to have access to all kinds of materials.
+
 ---
 - **A brief overview of the universal and Hungarian library history and development**
 	- The remains of the oldest known library have been found among the ruins of the northern Syrian city of Ebla. The writing was on clay tablets. Even this early library had about 16 000 pieces in the collection
@@ -33,6 +34,7 @@
 		
 	- National Széchenyi Library
 		- Was created by aristocrat Széchenyi Ferenc, and he donated his vast collection of books, and written materials as a base for the library.
+		
 ---
 - **The Hungarian library system**
 	- types of libraries (digital, and physical)
@@ -52,6 +54,7 @@
 		- school library (up to high schools)
 			- these libraries aims to provide materials for students to help them in their studies, or give them the chance to read cultural materials or entertainments
 			- these libraries usually are very close to schools, or inside the school
+			
 ---
 - **Principles for separating library types:** the concept of a collection and user groups
 	- by ownership
@@ -79,6 +82,7 @@
 		- specialty focused, whose collection of literature is regularly controlled by the library, all of the literature in it is labelled by topic, timeline, and circumstances.
 	- user group
 		- person or collection of people, who are using the library for common library services. The motivation of the user can be vast from entertainment to researching, and anything in between.
+		
 ---
 ### Comparing different types of libraries based on their services, collection scope, and user base (national, public, reference, higher education, school libraries)
 - **national library**
@@ -138,11 +142,13 @@
 		
 	- target audience
 		- the faculty, students, researchers of the institution
+		
 ---
 - There are **different types of associations** for different studies, subjects, and professions, like:
 	- IKSZ (IT and library association)
 	- KTE (Library teachers association)
 	- MOKSZ (Hungarian medicinary libraries association)
+	
 ---
 - **Task of public libraries**
 	- Aid in studying (both in personal studying and research related studies)
@@ -161,6 +167,7 @@
 	- Protecting and maintaining materials
 	- Lifelong learning
 		- Supporting education and personal growth
+		
 ---
 ### Description of the role of archives, museums, and exhibition halls in information acquisition.
 -  museums
@@ -185,11 +192,13 @@
 	- Documenting and safeguarding the records of organizations, governments, and individuals for future generations.
 	
 - In summary, museums, exhibitions, and archives play crucial roles in the pursuit of information gathering by collecting, preserving, presenting, and facilitating access to valuable resources and knowledge. They contribute to research, education, cultural understanding, and the preservation of heritage for present and future generations.
+
 ---
 - **Public libraries vs school libraries** (differences)
 	- school libraries are for the task of aiding teachers raise and teach students properly, and for students to have a space, where they can learn in peace, and get resources for knowledge they might need in school.
 	- public libraries are for all types of people and ages, and has a much vaster collection of knowledge in them. Public libraries are used not only by students but by researchers, people wanting to enjoy book based entertainments, and overall a public place for people.
 	- Public libraries generally are much larger, both in space and sheer volume of books, and materials
+	
 ---
 - **The role of the national Széchenyi Library in the Hungarian library system.**
 	- it collects all types of Hungarian materials, books etc.
@@ -207,6 +216,7 @@
 	- plays a crucial role in preserving and promoting Hungarian cultural heritage.
 	
 	- extensive digital library infrastructure, digitizing and providing online access to a vast range of Hungarian cultural and intellectual material.
+	
 ---
 - **Short history of the National Széchenyi Library**
 	- 1802: Founded by aristocrat Ferenc Széchényi as the National Museum Library.
@@ -222,6 +232,7 @@
 	- 1999: Became an independent institution, focusing on digitization and collaborations.
 	
 	- Present: Continues to preserve and provide access to Hungarian cultural heritage, with a strong emphasis on digital library infrastructure and research activities.
+	
 ---
 ### The role of the Universal Decimal Classification in the establishment of library classification.
 - One of the fundamental tasks of libraries is to provide and make information accessible, therefore it is necessary to classify library documents based on a unified organizing principle. 
@@ -233,6 +244,7 @@
 - It started being used in 1905 and was introduced in Hungary in 1912.
 
 - The ETC system divides books into 10 main classes, in which there are 10 subclasses, and further divided into 10 sub-subclasses. If needed, the subclasses can be further expanded to ensure precise placement of every work. This means that more specific documents have longer UDC numbers associated with them.
+
 ---
 - **Library services**
 	- Borrowing and lending of books and other materials
@@ -250,6 +262,7 @@
 	- Support for literacy and lifelong learning initiatives
 	- Outreach programs and community engagement activities
 	- printing services
+	
 ---
 ### lending system
 - Membership
@@ -273,12 +286,15 @@
 
 - Returning Items
 	- Return borrowed items on time and in the same condition as when you borrowed them.
+	
 ---
 ### The concept of interlibrary loan.
 - Interlibrary loan is one of the ways libraries collaborate, allowing a library to provide readers with books that are not available in its own collection but can be temporarily borrowed from another library.
+
 ---
 -  **National library definition**
 	- National libraries are libraries, that are specialized on literatures, and materials, that are related to the given country. In the Hungarian national library they don't necessarily have contents in only Hungarian language, but any language given, that it's content is related to the country, in some way.
+	
 ---
 ### Introducing the characteristics of traditional libraries and the digital libraries And their comparison
 - Traditional Library:
@@ -337,4 +353,5 @@
 		
 	- Preservation
 		- Traditional libraries focus on preserving physical materials, while digital libraries prioritize digital preservation methods for long-term access.
+		
 ---
