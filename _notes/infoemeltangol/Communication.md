@@ -25,6 +25,7 @@ Communication is a kind of information exchange, which always takes place throug
 ![Model](https://i.imgur.com/Qhx6PLE.png) 
 
 - In 1949, Claude Shannon and Warren Weaver published their communication model, which was later accepted as the basic communication structure of every human situation. Their aim was to make the transmission of messages over telephone wires as efficient as possible.
+
 ---
 - Sender
 	- The sender initiating the communication process.
