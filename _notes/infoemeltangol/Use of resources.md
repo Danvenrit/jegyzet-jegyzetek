@@ -4,30 +4,32 @@
 - document
 	- an independent intellectual product, a unit of information, the purpose of which is to communicate information, to transfer knowledge
 - has several types:
+	- printed and non-printed
+	
+- characteristics of printed and non-printed documents
 	-  **printed**
-		1. Tangible Format
+		1. Tangible (real not imaginary)
 		2. Portability
 		1. Physical Presence
 		2. Page-based Navigation
 		3. Limited Searchability
 		4. Storage and Organization
-		5. Annotation and Marking
-		6. Offline Access
-		7. Preservation Challenges
-		8. Physical Constraints
+		5. Offline Access
+		6. Preservation Challenges
+		7. Physical Constraints
 	-  **non-printed (electronic)**
 		1. Digital Format
 		2. Accessibility
 		3. Multimedia Capabilities
 		4. Hyperlinking and Navigation
-		5. Searchability
+		5. Easier Searchability
 		6. Storage and Replication
 		7. Versioning and Updates
 		8. Interactivity and Collaboration
 		9. Remote Access and Remote Collaboration
 		10. Preservation and Longevity
 
-### comparing digital and non-digital documents based on usecase
+### comparing digital and non-digital documents based on use case
 - Non-printed Documents:
 	- Instant messaging applications for quick communication (e.g., WhatsApp, Messenger)
 	
@@ -94,18 +96,17 @@
 - essential in obtaining information
 - they already process known, published information
 - types
-	- encyclopedias
+	- encyclopaedias
 		- they present the knowledge they discuss 
-		- the different concepts are proccesed in it
+		- the different concepts are processed in it
 		- each concept is processed with scientific rigor 
-		- provides literature on the subject
-		- it's content is usually ordered alphabetically
+		- it's content is usually ordered alphabetically, or by topic
 	- lexicons
 		- gives a short, concise, and professional explanation of words and expressions usually on a large scale.
 		- contents are usually presented in alphabetical order
 	- dictionary
-		- definitions and explainations of words, usually in one language.
-		- could be a dictionary between two languages, callled linguistic dictonary
+		- definitions and explanations of words, usually in one language.
+		- could be a dictionary between two languages, called linguistic dictionary
 		- usually ordered alphabetically.
 	- repository
 		- a place where things are stored and can be found
@@ -121,10 +122,8 @@
 		- contains maps
 		
 ---
-### The concept and features of the non-printed document, comparison
+### he concept and characteristics of non-printed documents.
 - appearance
-	- around the 19th to 20th century
-	- newer and newer inventions help to preserve information in various ways
 	- they can be created and displayed most of the time with technical tools
 	- sound material
 		- disc - disc player
@@ -179,6 +178,7 @@
 - Bibliography is a list of sources, typically found at the end of a research paper, book, or article, that provides detailed information about the references or sources cited in the work. It includes the author's name, title of the source, publication year, and other relevant details that help readers locate and access the sources mentioned in the text.
 
 ---
+#### Description of the key elements of bibliographic citation in major document types.
 1. Book:
 
     - Author(s)
@@ -222,8 +222,12 @@
 #### Hungarian national bibliography
 - works published within the borders of Hungary at a given time, in any language.
 - works published outside the borders of Hungary at a given time, written in the Hungarian language
-- works written by Hungarian authors, published in any country and in any language
-- works with a Hungarian aspect
+
+- The purpose of the Hungarian National Bibliography is to collect, document, and make accessible bibliographic information about Hungarian publications. It aims to provide a comprehensive overview of the country's intellectual output and cultural heritage
+
+- The Hungarian National Bibliography includes descriptive information about each publication, such as author, title, publisher, publication year, and subject classification. It also provides details about the physical characteristics of the items, such as format, pagination, and illustrations. The bibliography is regularly updated to include new publications and ensure its accuracy and completeness.
+
+- Researchers, scholars, librarians, and anyone interested in Hungarian publications can use the Hungarian National Bibliography as a valuable resource for information retrieval, bibliographic research, and collection development.
 
 ---
 ### Information catalogue

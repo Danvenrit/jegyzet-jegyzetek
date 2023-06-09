@@ -8,7 +8,7 @@
 - **A brief overview of the universal and Hungarian library history and development**
 	- The remains of the oldest known library have been found among the ruins of the northern Syrian city of Ebla. The writing was on clay tablets. Even this early library had about 16 000 pieces in the collection
 		
-	- 60,000 clay tablets with inscriptions have already been preserved in the library of Assur-Ban-Apli, the Assyrian ruler of Nineveh
+	- 60,000 clay tablets with inscriptions have already been preserved in the library of the Assyrian ruler of Nineveh
 		- the British museum has around 22000 of those preserved and displayed.
 		
 	- The Library of Alexandria in Egypt, home to 500 million papyrus scrolls, it was the most famous library of antiquity. Its collection was destroyed in a fire in 43 BC.
@@ -27,9 +27,9 @@
 
 - in Hungary it was mainly the same as other areas in europe	
 	- one of the first large library: pannonhalma bencés library
-		- this library had one of the words which were written in Hungarian
+		- this library had one of the first words which were written in Hungarian
 	
-	- Corvinus Mathias's library (1458-1490) 
+	- Corvinus Mathias's library (1458-1490) s
 		- had a significant collection of ancient, religious, scientific, and artistic books, manuscripts, and caudexes. It was started and maintained by King Mathias and was his own private library. 
 		
 	- National Széchenyi Library
@@ -127,9 +127,13 @@
 		
 - **higher education library**
 	- services
-		- 
+		- borrowing
+		- on-site reading
+		- research room
 	- collection scope
+		- materials mainly connected to what they are teaching in the university, and a lot more, generally scientific material.
 	- target audience
+		- university students, researchers, teachers, faculty members
 
 - **school library**
 	- services
@@ -195,9 +199,11 @@
 
 ---
 - **Public libraries vs school libraries** (differences)
-	- school libraries are for the task of aiding teachers raise and teach students properly, and for students to have a space, where they can learn in peace, and get resources for knowledge they might need in school.
+	- school libraries are for the task of aiding teachers raise and teach students properly, and for students to have a space, where they can learn in peace, and get resources for knowledge they might need in school, or if they are looking for some entertainment, have access to it.
+	
 	- public libraries are for all types of people and ages, and has a much vaster collection of knowledge in them. Public libraries are used not only by students but by researchers, people wanting to enjoy book based entertainments, and overall a public place for people.
-	- Public libraries generally are much larger, both in space and sheer volume of books, and materials
+	
+	- Public libraries generally are much larger, both in space and by the sheer volume of books, and materials.
 	
 ---
 - **The role of the national Széchenyi Library in the Hungarian library system.**
@@ -207,9 +213,9 @@
 	
 	- anyone who creates a book or official material in Hungarian, has to provide 6 copies to the national Library
 	
-	-  collect, preserve, and provide access to the nation's published heritage and cultural treasures.
+	- collect, preserve, and provide access to the nation's published heritage and cultural treasures.
 	
-	- actively  acquires and maintains a comprehensive collection of Hungarian publications, including books, periodicals, maps, manuscripts, audio-visual materials, and electronic resources. It ensures the preservation and accessibility of these materials for future generations.
+	- actively acquires and maintains a comprehensive collection of Hungarian publications, including books, periodicals, maps, manuscripts, audio-visual materials, and electronic resources. It ensures the preservation and accessibility of these materials for future generations.
 	
 	- supports research and scholarship by providing resources and services to scholars, researchers, and students.
 	
@@ -237,9 +243,9 @@
 ### The role of the Universal Decimal Classification in the establishment of library classification.
 - One of the fundamental tasks of libraries is to provide and make information accessible, therefore it is necessary to classify library documents based on a unified organizing principle. 
 
-- This ensures efficient searchability. One such organizing principle for documents can be the Universal Decimal Classification , abbreviated as UDC or call number (ETO in Hungarian). 
+- This ensures efficient searchability. One such organizing principle for documents can be the Universal Decimal Classification , abbreviated as UDC or call number (ETO number in Hungary). 
 
-- The development of the UDC  system began in the late 19th century, based on the classification system devised by American librarian Melvil Dewey.
+- The development of the UDC system began in the late 19th century, based on the classification system devised by American librarian Melvil Dewey.
 
 - It started being used in 1905 and was introduced in Hungary in 1912.
 
@@ -307,8 +313,8 @@
 	- Limited Accessibility
 		- Users need to visit the library in person to access the materials and resources.
 	
-	- Catalog System
-		- They use a cataloging system to organize and locate books based on classification systems like the Dewey Decimal System or Library of Congress Classification.
+	- Catalogue System
+		- They use a cataloguing system to organize and locate books based on classification systems like the Dewey Decimal System or Library of Congress Classification.
 	
 	- Interlibrary Loans
 		- Traditional libraries may offer interlibrary loan services to borrow materials from other libraries if they are not available in their own collection.

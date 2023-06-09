@@ -53,7 +53,7 @@
 		
 ---
 ### the algorithm of electronic search
-1. Clearly define the information need and formulate the search query using relevant keywords, phrases, or terms.
+1. Clearly define the information you are looking for and formulate the search query using relevant keywords, phrases, or terms.
     
 2. Determine the appropriate search resources based on the context.
     
@@ -74,7 +74,7 @@
     
 2. Identify relevant sources
     
-3. Plan your search strategy
+3. Plan your search strategy in the given source
     
 4. Gather information
     
@@ -85,7 +85,7 @@
 7. Organize and document
     
 8. Follow up if necessary
-9
+
 ---
 ##### **Catalogue**
 - systematic listing of works in the library
@@ -112,7 +112,7 @@
 ##### Electronic catalogues, databases
 - bigger or even joint catalogues
 - easier searchability
-- can be accessed with any computer if internet connection is available
+- can be accessed with most computer if internet connection is available
 - examples:
 	- MOKKA (Magyar Országos Közös Katalógus)
 	- ODR (Országos Dokumentumellátási Rendszer)

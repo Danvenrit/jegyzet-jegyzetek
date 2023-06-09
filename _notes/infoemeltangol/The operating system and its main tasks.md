@@ -9,17 +9,14 @@
 - peripheral management
 - resource management system
 	-  components can be accessed through it
-	-  in case of multiple users/processes
-		-  scheduling
-		-  assignment and control of privileges
 	- provides a consistent environment for programs
 ### Types of operating systems
 - one user, one task
 	-  DOS (CLI, not open source)
 - one user, multiple tasks
-	-  Windows (GUI, not open source)
+	-  old Windows (GUI, not open source)
 - multi-user, multitask
-	-  Unix, Linux (GUI or CLI, can be open source)
+	-  windows, Unix, Linux (GUI or CLI, can be open source)
 	
 ---
 ### Operational structure
@@ -178,7 +175,7 @@
 	- in reality threads are running alternately (since todays computers are Neumann based, they handle instructions one by one), just at such high speed that it can't be noticed by the user
 - There are two main techniques to achieve this
 	- **TSM (Time-Slice-Multithreading)**
-		-  involve the use of multiple threads. It divides CPU time into time slices and switches between different threads during each time slice. 
+		- involve the use of multiple threads. It divides CPU time into time slices and switches between different threads during each time slice. 
 		- this technique isn't as fast as actually running the tasks in parallel on different threads
 	- **real multithreading** 
 		- This is the preferred technique because, now this is actually running on different threads at the same time
@@ -329,7 +326,7 @@
 	- The system of directories forms the directory tree.
 		- for example family tree or table of contents
 		
-	- the components of the file system are separated usually by a ''/'' in most operating systems like Windows, but in others it's ''\'' like in Linux
+	- the components of the file system are separated usually by a ''/'' in most operating systems like Windows, but in others it's ' \' like in Linux
 	 
 	- working directory
 		- this is the directory you are currently in, it was 
@@ -819,7 +816,7 @@
 	1. Web browsing: Accessing websites and online services through web browsers like Chrome, Firefox, or Safari.
 	2. Email clients: Using email client applications like Microsoft Outlook or Mozilla Thunderbird to send and receive emails.
 	3. File transfer protocols (FTP): Transferring files between local and remote systems using FTP clients such as FileZilla or WinSCP.
-	4. Remote Desktop Protocol (RDP): Accessing and controlling a remote computer or server using RDP clients like Remote Desktop Connection (Windows) or Remmina (Linux).
+	4. Remote Desktop Protocol (RDP): Accessing and controlling a remote computer or server using RDP clients like Remote Desktop Connection (Windows) or Remmina (Linux), anydesk.
 	5. Virtual Private Network (VPN): Establishing a secure connection to a private network over the internet using VPN clients like Cisco AnyConnect or OpenVPN.
 	6. Voice over IP (VoIP): Making voice or video calls over the internet using VoIP applications like Skype or Zoom.
 	7. Instant messaging: Communicating in real-time with others using instant messaging platforms such as Slack, Microsoft Teams, or WhatsApp.

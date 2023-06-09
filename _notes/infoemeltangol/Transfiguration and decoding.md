@@ -117,15 +117,15 @@
 	- representing integers is not limited to 8 bit, it can even be 32 bit.
 - Representing real or floating point numbers
 	- Often, we are not able to represent an exact value, so we will treat it as an approximate value.
-	- The byte where the number is handled is divided into two parts and wtih 1 bit if it's negative or positive number: 
-		- mantissa, and characteristics : 
-		
+	- The byte where the number is handled is divided into two parts and with 1 bit if it's negative or positive number: 
+		mantissa
+			is the fractional or decimal part of a logarithm or a floating-point number.
 --- 
 ### Forms of binary character representation, structure and characteristics of code tables (ASCII, UNICODE)
 - coding: when according to sets of rules, converting characters from a set to another set like: from ASCII to UNICODE
 - types:
-	- reversable: when you can convert the date back and forth.
-	- irreversible: when you cannot convert it back and forth.
+	- reversable
+	- irreversible
 - examples of code systems/sets: morse, punch card, digitising sounds or images
 - character sets:
 	- CCITT - This is the very first character set that allowed 32 characters to be represented. 
@@ -171,8 +171,13 @@
 	6. The hexadecimal representation of the decimal number is obtained by writing the remainders obtained from the bottom-up.
 	- Here's an example to convert the decimal number 137 to hexadecimal:
 		1. 137 ÷ 16 = 8 remainder 9 (Write down 9)
-		2. 8 ÷ 16 = 0 remainder 8 (Write down 8)
-		3. The remainders obtained are 8 and 9. Therefore, the decimal number 137 is equivalent to the hexadecimal number 89.
+			- to get back the remainder, do this.
+				- for example 137 / 16 = 8.5625 
+				- subtract the integer 8, you get 5625
+				- now multiply back this number by 16
+				- you get 9, now you have the remainder
+		1. 8 ÷ 16 = 0 remainder 8 (Write down 8)
+		2. The remainders obtained are 8 and 9. Therefore, the decimal number 137 is equivalent to the hexadecimal number 89.
 	- It's important to note that if any of the remainders obtained in the process is greater than 9, it is represented using letters in hexadecimal. For example, 10 is represented as 'A', 11 as 'B', and so on.
 
 - **Converting from hexadecimal to decimal**
@@ -245,7 +250,7 @@
 - statements
 	- true or false
 	- usually 1 represents true, and 0 represents false
-	- also the fact that a statement is 0 basically means it cannot be 1, except when it comes to quantum bits
+	- also the fact that a statement is 0 basically means it cannot be 1
 	- the inputs of Logic gates is call **operands**
 - AND Gate:
 	- Behaviour: The output of an AND gate is true (1) only when both of its inputs are true (1). Otherwise, the output is false (0).
@@ -319,7 +324,7 @@
 	- without compression:
 		- BMP
 		- TIFF 
-		- RAW - fully lossless, clean, very large size
+		- RAW - basically original file, clean, very large size
 	- with compression:
 		- JPEG - more aggressive, lossy
 		- PNG - less loss in image quality
@@ -333,7 +338,7 @@
 	- 3 bytes are 24 bit, so there's 16 million+ colours possible with this system
 - CMYK:
 	- When printing coloured images, the CMYK model is used. Unlike RGB, this is not additive but subtractive colour mixing.
-	- Consists of cyan, purple, yellow, and black
+	- Consists of cyan, magenta, yellow, and black
 	- it consists of 4 byte, which is 32 bit 
 	
 ---
