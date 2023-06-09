@@ -39,6 +39,7 @@ Communication is a kind of information exchange, which always takes place throug
 	- the Interpretation and extraction of the meaning from the received message.
 - Receiver 
 	- receiver of the message, from the sender.
+	
 ---
 - some examples of code systems:
 	- ACII 
@@ -49,6 +50,7 @@ Communication is a kind of information exchange, which always takes place throug
 		- Are patterns of bars and spaces that encode numerical or alphanumeric data.
 	- Morse Code
 		- uses a combination of dots and dashes to represent letters, numbers and punctuations. Was developed for the telegraph
+		
 ---
 ### Practical examples of the communication model
 - email message between two people over the internet.
@@ -66,6 +68,7 @@ Communication is a kind of information exchange, which always takes place throug
 		- The recipient's email client software interpreting and displaying the received email.
 	- receiver
 		- Person B receiving the email message from person A
+		
 ---
 - Face-to-face conversation.
 	- message
@@ -82,10 +85,12 @@ Communication is a kind of information exchange, which always takes place throug
 		- the listener understanding the spoken words and interpreting non-verbal cues.
 	- receiver
 		- the person listening to the other person speaking
+		
 ---
 ### Code, as the device of information broadcasting
 - code: The form of information that the encoder creates, which conforms to the channel standard, and which is interpretable by the decoder.
 - information: Information carried by a set of signals that represents new knowledge for a system. Examples for informations: Breakin news, weather forecasts, traffic reports etc.
+
 ---
 ### Examples of channels
 - Telephone lines
@@ -100,6 +105,7 @@ Communication is a kind of information exchange, which always takes place throug
 	- Communication channels that utilize satellites in space to transmit signals over long distances
 - Air
 	- Soundwawes, radiowaves, or light signals can be sent through it.
+	
 ---
 ### Noise-canceling
 - In the context of analog signals
@@ -113,6 +119,7 @@ Communication is a kind of information exchange, which always takes place throug
 		- such as checksums, parity bit (check bit)
 	- **Encryption**
 		- encryption can secure the digital signal, and limit the chance of noise-induced distortions or tampering.
+		
 ---
 ### Redundancy 
 - refers to the intentional inclusion of additional information or redundant data in the signal. The purpose of incorporating redundancy is to provide error detection, error correction, or fault tolerance capabilities. Redundancy helps improve the reliability and integrity of the signal transmission and reception.
@@ -124,12 +131,14 @@ Communication is a kind of information exchange, which always takes place throug
 	- **Increased Bandwidth or Storage Requirements**
 	- **Increased Complexity**
 	- **Higher Transmission Overhead**
+	
 ---
 ### Characterisation of today's communication technologies and tools and how they fit into the communication model
 - visual (i.e.: smoke signals, storm warning, sign language, traffic lights, road signs)
 - verbal (i.e.: education, lecture)
 - written (i.e.: carrier pigeon, courier, leaflet, newspaper, post office)
 - electronic (Morse-telegraph, telex, telephone, fax, computer networks, radio, TV, chat)
+
 --- 
 ### Electronic communication and its tools 
 - Electronic communication is the method by which various types of information are transmitted at the speed of light in the form of electrical signal. 
@@ -144,6 +153,7 @@ Communication is a kind of information exchange, which always takes place throug
 		- FTP
 		- WWW (world, wide, web)
 		- Torrent (peer-to-peer)
+		
 ---
 ### The impact of communication tools on our daily lives and on information searching
 Communication tools have had and continue to have a big impact on our daily lives. As they evolved, the speed of information exchange accelerated.. If you look back just a few tens of years, if you needed information, you had to go to the library, or ask somebody who claimed to know something about your issue.
@@ -164,6 +174,7 @@ The concept of virtual profile was born, the reality that anyone could impersona
 Modern technologies make our lives much easier. You only have to look at online shops (eBay, Amazon), electronic tax returns, online job applications, and a whole range of other official procedures. We can do all these online, in a much simpler and accessible way the caveat being you have a computer and internet connection at hand.
 We can also download resources to help us with our studies, practice exercises and also organise our leisure time more easily for example by organising online activities such as studying for exams, booking accommodation, talk to friends about activities and a lot more.
 The internet is also essential for work in many places (online conferences, online meetings, home office etc.)
+
 --- 
 ### Hungarian public information sources
 (i.e.: library databases, government portal services, travel information (timetables, reservations), entertainment)
@@ -171,10 +182,12 @@ The internet is also essential for work in many places (online conferences, onli
 - Government portals: oktatas.hu, kormany.hu, mnb.hu, magyarorszag.hu, nav.gov.hu
 - Travel information: elvira.hu, timetables.hu, volan.hu, booking.com
 - Public education: sulinet.hu, oki.hu
+
 ---
 ### Searching via search engines
 - Google, Bing, yahoo, duckduckgo
 - keyword search
 - filtering
 - thematic search
+
 ---
