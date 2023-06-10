@@ -129,8 +129,6 @@
 	
 	- Multimedia applications: animation creation, sound recording and editing, video recording and editing, speech processing.
 	
-	- Group applications (Workgroup Computing Software): idea generation and problem-solving, calendar and scheduling, electronic conference programs, email programs, electronic message processing.
-
 ##### Uses for applications
 - niche uses for specific purposes (astronomy, military industry, etc.)
 - decentralized purpose, i.e.: every computer should do their own task
@@ -380,7 +378,7 @@
 - Conflicker
 	- It worked by exploiting a vulnerability in Windows's "server service", and was able to create backdoors in infected systems
 	- this exploit was fixed in 2008
-	- the second change to this virus worked by exploiting another vulnerability in windows Autorun function
+	- the second change to this virus worked by exploiting another vulnerability in "windows Autorun" function
 	- even though the second one was also fixed, it was patched late, and around 7 million devices were infected with backdoors and these computers were connected to botnet networks.
 - ILoveYou
 	- was a computer worm that spread through email attachments

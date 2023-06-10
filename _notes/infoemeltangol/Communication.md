@@ -95,7 +95,7 @@ Communication is a kind of information exchange, which always takes place throug
 - information
 	- Information carried by a set of signals that represents new knowledge for a system. 
 	- Examples for information: Breaking news, weather forecasts, traffic reports etc.
-
+	
 ---
 ### Examples of channels
 - Telephone lines
