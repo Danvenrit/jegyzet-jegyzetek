@@ -8,7 +8,7 @@
 - logging
 - peripheral management
 - resource management system
-	-  components can be accessed through it
+	- components can be accessed through it
 	- provides a consistent environment for programs
 ### Types of operating systems
 - one user, one task
@@ -35,18 +35,14 @@
 		- OS-es appeared
 	- types of kernel
 		- monolithic
-			- This is a type of operating system architecture in which the entire operating system works in the kernel space.
-		- microkernels
-			- is the near-minimum amount of software that can provide the mechanisms needed to implement an operating system
-		- hybrid/modified microkernels
-			-  an operating system kernel architecture that attempts to combine aspects and benefits of microkernel and monolithic kernel
+			- This is a type of operating system architecture in which the entire operating system works in the kernel space
 		- exokernel
-			- is designed to separate resource protection from management to facilitate application-specific customization
-			- seeks to provide application-level management of hardware resources
-			- are typically small in size because of their limited operability
-		- nanokernel 
-			- is a small kernel that offers hardware abstraction, but without system services
-			 
+			- that exposes low-level hardware resources to application programs, allowing them to directly manage and control hardware resources.
+		- nanokernel (microkernel)
+			-  is the near-minimum amount of software that can provide the mechanisms needed to implement an operating system
+			- It is designed to be minimalistic and provides only the essential functions and services necessary for the system to run
+		- hybrid/modified microkernels
+			- an operating system kernel architecture that attempts to combine aspects and benefits of microkernel and monolithic kernel
 	- tasks 
 		- peripheral management
 		- memory access providing
@@ -95,7 +91,7 @@
 		- used to enhance functionality
 	- running scripts
 	- if statements (if, case, then)
-	- cycles (while for, )
+	- cycles (while, for )
 	- internal variables
 	- redirecting I/O
 	- transferring data between processes (pipe-line)

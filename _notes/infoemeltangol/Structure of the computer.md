@@ -6,7 +6,7 @@
 	- has to use binary number system 
 	- should store data and programs on internal memory and storage
 	- has to be Turing complete
-		- Turing complete ---> if a computers is universally Turing machine based, it can do basic mathematical operations, so given enough time, it can do basically any kind of calculations. All of todays computers are Turing complete as well.
+		- Turing complete ---> if a computers is universally Turing complete, it can do basic mathematical operations, so given enough time, it can do any kind of calculations. All of todays computers are Turing complete.
 		- First Neumann computer: EDVAC
 		
 ---
@@ -156,13 +156,13 @@
 				- actually pixels are used
 				- refresh rate depends how fast the crystals can react to the change, which is given by the quality of the crystals
 			- Plasma
-				- uses small cells containing plasma, and ionized gases that respond to electric fields. The electric charge is then intersected with the gas and the plasma, thus changing the color in a very response, by the gas letting the plasma be stimulated in way it produces the desired colored lights.
+				- uses small cells containing plasma, and ionized gases that respond to electric fields. The electric charge is then intersected with the gas and the plasma, thus changing the colour in a very fast response, by the gas letting the plasma be stimulated in way it produces the desired coloured lights.
 				- had deeper blacks then other displays in it's prime time
 				- uses a lot of power (a 50 inch plasma display could draw around 400 watts, which changes quite a bit depending on the brightness required for the scenes)
-				- has very fast response time, and refreshrate
+				- has very fast response time, and refresh rate
 				- has better viewing angles than LCD 
 				- are quite brighter than LCD
-				- the plasma inside the display was very hot could even reach 1200 degrees, ie: the high power draw, and hot device
+				- the plasma inside the display was very hot could even reach 1200 degrees, i.e.: the high power draw, and hot device
 			- LED (light emitting diodes) display
 				- uses arays of LEDs as pixels
 					- each led pixel has three diodes, each for red green and blue
@@ -190,13 +190,19 @@
 		- Dot matrix
 			- Rare
 			- Ink ribbon is struck by needles
+			- creates an image from small dots
 		- Inkjet 
 			- Cheap
 			- Expensive to maintain
 			- Propels droplets of ink onto paper and plastic substrates
-				- Electrostatic
-				- Steam bubble
-				- Piezoelectric
+			- two main types
+				- continuous stream (CIJ)
+					- a stream of ink is shot out
+				- Drop-On-Demand (DOD)
+					- a droplet of ink is shot anytime, and single drop only.
+			- it is higher resolution than dot matrix
+			- a droplet is around 0.003 inch
+			- and a nozzle is around 0.004 inch
 		- Laser
 			- Expensive
 			- Cheap to maintain
@@ -241,8 +247,8 @@
 ### Hard Drives
 - Technologies types
 	- Magnetic
-		- HDD (Hard Disk Drive)
 		- Circular magnetic disks
+	- HDD (Hard Disk Drive)
 		- read and write head moves radially on the disks
 		- Disk Structure:
 			- Tracker

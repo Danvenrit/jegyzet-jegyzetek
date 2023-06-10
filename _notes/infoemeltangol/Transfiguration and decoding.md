@@ -61,8 +61,8 @@
 -  the first step in the computer processing of images is the processing the visual light of an image into digits (digitisation). This is done by scanners and digital cameras.
 - types
 	- Black-and-white scanning: if the reflected light intensity is below a certain limit, the pixel is black (0), otherwise white (1).
-	- Greyscale scanning: corresponds to a shade of grey depending on the intensity of the reflected light. The color of a point can be assigned from 0 to 255 (256 shades of grey).
-	- Colour scanning: the colour filters of the sensors breaks down the reflected "mixed colour" light into a mix of red (R), green (G) and blue (B) values, so that the rgb values transmitted to the computer shows a single color. There is a set of 255 shades for each red green blue color (255<sup>3</sup> ≈ 16 million colours).
+	- Greyscale scanning: corresponds to a shade of grey depending on the intensity of the reflected light. The colour of a point can be assigned from 0 to 255 (256 shades of grey).
+	- Colour scanning: the colour filters of the sensors breaks down the reflected "mixed colour" light into a mix of red (R), green (G) and blue (B) values, so that the rgb values transmitted to the computer shows a single colour. There is a set of 255 shades for each red green blue colour (255<sup>3</sup> ≈ 16 million colours).
 	- The quality of the digitised image also depends on the resolution of the scanner, measured in DPI (dots per inch, or the number of pixels per inch).
 		- hardware (real) resolution: what the scanner is capable of through its optical system
 		- software resolution (interpolated) : increasing the number of pixels by calculation

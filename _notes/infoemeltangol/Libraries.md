@@ -112,7 +112,7 @@
 		
 - **reference library**
 	- services
-		- borrowing
+		- lending
 		- on-site reading
 		- research room
 		- specialized reading room
@@ -127,7 +127,7 @@
 		
 - **higher education library**
 	- services
-		- borrowing
+		- lending
 		- on-site reading
 		- research room
 	- collection scope

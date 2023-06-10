@@ -48,6 +48,7 @@
 	- binary number system 
 	- data, programs on internal memory 
 	- Universal machine (Turing machine) -> If it can perform basic operations, it can perform any computation
+	- has to have main memory
 	- has to have hard disk
 	- input, output
 	- First Neumann computer: EDVAC
@@ -59,13 +60,13 @@
 	- these tubes were basically larger then the palm of a persons hand.
 -  GEN 2 (1950s-1960s)
 	- Transistor Computers: Transistors replaced vacuum tubes, making computers smaller, faster, and more reliable. Magnetic core memory was introduced, improving storage capabilities. Examples include IBM 1401 and CDC 1604.
-	- transistor size ranged from a few millimetres to several centimetres
+	- transistor size ranged from several centimetres to few millimetres to 
 -  GEN 3 (1960s-1970s)
 	- Integrated Circuit Computers: Integrated circuits (ICs) allowed multiple transistors and other components to be miniaturized and integrated onto a single chip. This led to smaller, more powerful, and more efficient computers. Examples include IBM System 360 and DEC PDP-11.
-	- transistor size ranged from few hundred micrometres to few millimetres
+	- transistor size ranged from few millimetres to few hundred micrometres
 -  GEN 4 (1970s-1980s)
 	- Microprocessor Computers: The invention of microprocessors enabled entire central processing units (CPUs) to be integrated onto a single chip. This further reduced the size and cost of computers, making them accessible to individuals and businesses. Examples include IBM PC and Apple II.
-	- transistor size ranged from few micrometres to tens of micrometres
+	- transistor size ranged from tens of micrometres to a few micrometres 
 -  GEN 5 (1980s-Present)
 	- Artificial Intelligence and Parallel Processing: The fifth generation is characterized by advancements in artificial intelligence (AI) and parallel processing. These computers are designed to mimic human reasoning and handle complex tasks simultaneously. Examples include supercomputers like Cray-2 and modern AI-based systems.
 	- transistor sizes are now well in the nanometres, and ever shrinking as of today 4 nano meter AMD processes are commercially available. And 3 nanometres processes are coming with the help of ever improving ASML-s lithography lasers.
@@ -117,11 +118,17 @@
 ### Evolution of application types
 - types
 	- System applications: operating system, communication system software, drivers, utility programs, fonts.
+	
 	- Business applications: general and specialized tasks in work, finance.
+	
 	- Home applications: personal tasks, entertainment, assistance in learning.
+	
 	- Office applications: word processing, desktop publishing, spreadsheet management, database management, graphic editing.
+	
 	- Educational applications: educational programs, reference programs.
+	
 	- Multimedia applications: animation creation, sound recording and editing, video recording and editing, speech processing.
+	
 	- Group applications (Workgroup Computing Software): idea generation and problem-solving, calendar and scheduling, electronic conference programs, email programs, electronic message processing.
 
 ##### Uses for applications
